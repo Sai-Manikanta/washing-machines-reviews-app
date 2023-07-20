@@ -7,6 +7,15 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        'primary': '#182953',
+        'secondary': '#DF6769',
+        'tertiary': '#C3B4B2'
+      },
+      fontFamily: {
+        sans: ['--var(--font-inter)'],
+        serif: ['Merriweather', 'serif']
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
@@ -14,5 +23,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/line-clamp'),
+  ],
 }
