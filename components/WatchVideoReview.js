@@ -16,7 +16,7 @@ export default function WatchVideoReview({ videoReview }) {
 
     return (
         <>
-            <div className="inset-0 flex items-center justify-center">
+            <div className="flex-grow inset-0 flex items-center sm:justify-center cursor-pointer">
                 {/* <button type="button" onClick={openModal} className="pl-4 pr-3 py-2 text-sm bg-primary text-white mx-auto block rounded-full relative -top-5">
                     <span className="flex items-center gap-x-1">
                         <span>Washing Machine Guide</span>

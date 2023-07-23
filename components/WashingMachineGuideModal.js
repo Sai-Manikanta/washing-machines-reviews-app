@@ -15,8 +15,8 @@ export default function WashingMachineGuideModal() {
 
     return (
         <>
-            <div className="inset-0 flex items-center justify-center">
-                <button type="button" onClick={openModal} className="pl-4 pr-3 py-2 text-sm bg-primary text-white mx-auto block rounded-full relative -top-5">
+            <div className="inset-0 flex items-center justify-center sm:justify-start">
+                <button type="button" onClick={openModal} className="pl-4 pr-3 py-2 text-sm md:pl-5 md:pr-4 md:py-3 md:text-lg bg-primary text-white mx-auto sm:mx-0 block rounded-full relative -top-5 sm:top-0 lg:mt-4">
                     <span className="flex items-center gap-x-1">
                         <span>Washing Machine Guide</span>
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="w-6 h-6">
