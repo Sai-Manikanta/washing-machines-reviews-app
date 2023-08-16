@@ -60,7 +60,7 @@ export default function WatchVideoReview({ videoReview }) {
                                 <Dialog.Panel className="w-full max-w-md transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all">
                                     <div className="flex justify-between items-center">
                                         <h2 className="font-sans text-lg">{videoReview.title}</h2>
-                                        <button onClick={closeModal} className="cursor-none">
+                                        <button onClick={closeModal} className="cursor-none md:cursor-pointer">
                                             <XCircleIcon
                                                 className="ml-2 -mr-1 h-8 w-8 text-violet-200 hover:text-violet-100"
                                                 aria-hidden="true"
