@@ -1,6 +1,11 @@
-import Image from "next/image";
+// import Image from "next/image";
 import { Disclosure } from "@headlessui/react";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/20/solid";
+import { PiDressLight } from 'react-icons/pi'
+import { TbWash, TbWashMachine } from 'react-icons/tb'
+import { ImSpinner10 } from 'react-icons/im'
+import { SlSpeedometer } from 'react-icons/sl'
+import { RiSettingsLine } from 'react-icons/ri'
 import WatchVideoReview from "./WatchVideoReview";
 
 const ProductCard = ({ washingMachineData }) => {
@@ -11,13 +16,20 @@ const ProductCard = ({ washingMachineData }) => {
     highlights,
     productImage,
     stores,
-    videoReview,
+    videoReview
   } = washingMachineData;
 
   return (
-    <div className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex">
+    <div className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex ">
       <div className="w-36 md:w-56 mx-auto shrink-0">
-        <Image
+        {/* <Image
+          src={productImage.url}
+          alt={productImage.alt}
+          className="h-40 md:h-48 w-auto mx-auto"
+          width="200"
+          height="200"
+        /> */}
+        <img
           src={productImage.url}
           alt={productImage.alt}
           className="h-40 md:h-48 w-auto mx-auto"
@@ -100,6 +112,140 @@ const ProductCard = ({ washingMachineData }) => {
           {productName}
         </h2>
 
+        {/* flex flex-wrap gap-x-5 */}
+        {/* grid grid-cols-4 lg:grid-cols-5 */}
+
+        <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 mt-4 mb-6 border rounded-sm">
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
+            <RiSettingsLine size="1.6rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Function type</span>
+              <span className="block text-bold text-sm">
+                Fully automatic
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
+            <TbWashMachine size="2rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Type</span>
+              <span className="block text-bold text-sm">
+                Top Load
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
+            <PiDressLight size="2rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Capacity</span>
+              <span className="block text-bold text-sm">
+                7 Kilograms
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
+            <TbWash size="2rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Tub type</span>
+              <span className="block text-bold text-sm">
+                Metal
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
+            <ImSpinner10 size="1.6rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Rotation speed</span>
+              <span className="block text-bold text-sm">
+                680 RPM
+              </span>
+            </div>
+          </div>
+
+          <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border  gap-1 lg:hidden">
+            <SlSpeedometer size="1.5rem" />
+            <div>
+              <span className="text-slate-500 text-xs">Weight</span>
+              <span className="block text-bold text-sm">
+                30 kg 500 g
+              </span>
+            </div>
+          </div>
+        </div>
+
+
+        {/* <div className="inline-block space-y-4 my-4">
+          <div className="flex">
+            <div className="flex items-center gap-x-1 pr-4">
+              <TbWashMachine size="2rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Type</span>
+                <span className="block text-bold text-sm">
+                  Top Load
+                </span>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-x-1 px-4">
+              <PiDressLight size="2rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Capacity</span>
+                <span className="block text-bold text-sm">
+                  7 Kilograms
+                </span>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-x-1 px-4">
+              <TbWash size="2rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Tub type</span>
+                <span className="block text-bold text-sm">
+                  Metal
+                </span>
+              </div>
+            </div>
+          </div>
+
+          <div className="flex">
+            <div className="flex items-center gap-x-1 pr-4">
+              <RiSettingsLine size="1.6rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Function type</span>
+                <span className="block text-bold text-sm">
+                  Fully automatic
+                </span>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-x-1 px-4">
+              <SlSpeedometer size="1.5rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Weight</span>
+                <span className="block text-bold text-sm">
+                  30 kg 500 g
+                </span>
+              </div>
+            </div>
+
+            <div className="flex items-center gap-x-1 px-4">
+              <ImSpinner10 size="1.6rem" />
+              <div>
+                <span className="text-slate-500 text-xs">Rotation speed</span>
+                <span className="block text-bold text-sm">
+                  680 RPM
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>  */}
+
+
         {/* <div className="inline-flex flex-row gap-x-3 items-center px-4 py-2 text-white mt-3 rounded">
                     <span className="text-3xl font-medium text-primary">{rating}</span>
                     <div>
@@ -128,7 +274,7 @@ const ProductCard = ({ washingMachineData }) => {
           {({ open }) => (
             <>
               <div className="max-w-lg flex sm:justify-between items-center mt-4">
-                <div className="hidden sm:inline-flex flex-row gap-x-3 items-center py-2 text-white mt-3 sm:mt-0 rounded">
+                {/* <div className="hidden sm:inline-flex flex-row gap-x-3 items-center py-2 text-white mt-3 sm:mt-0 rounded">
                   <span className="text-3xl font-medium text-primary">
                     {rating}
                   </span>
@@ -199,11 +345,11 @@ const ProductCard = ({ washingMachineData }) => {
                       Exeptional
                     </span>
                   </div>
-                </div>
+                </div> */}
 
-                <WatchVideoReview videoReview={videoReview} />
+                {videoReview?.id && <WatchVideoReview videoReview={videoReview} />}
                 <Disclosure.Button className="flex gap-x-2 cursor-none sm:cursor-pointer items-center">
-                  <span className="text-sm w-[4.4rem] text-slate-700">
+                  <span className="text-sm w-[4.4rem] text-slate-700 hover:text-slate-800">
                     {open ? "View Less" : "View More"}
                   </span>
                   {open ? (
@@ -241,7 +387,8 @@ const ProductCard = ({ washingMachineData }) => {
             <a
               href={stores.amazon}
               target="_blank"
-              className="border-2 rounded bg-slate-100 flex-grow flex justify-center items-center"
+              className="border-2 rounded bg-slate-100 flex justify-center items-center w-44"
+            // style={{ width: '140px'}}
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -264,7 +411,7 @@ const ProductCard = ({ washingMachineData }) => {
             <a
               href={stores.flipkart}
               target="_blank"
-              className="border-2 rounded bg-slate-100 flex-grow  flex justify-center items-center"
+              className="border-2 rounded bg-slate-100 flex justify-center items-center w-44"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"

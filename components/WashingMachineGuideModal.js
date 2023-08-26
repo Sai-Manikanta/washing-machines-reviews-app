@@ -1,5 +1,6 @@
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
+import ReactPlayer from 'react-player'
 import { XCircleIcon } from '@heroicons/react/20/solid'
 
 export default function WashingMachineGuideModal() {
@@ -52,19 +53,25 @@ export default function WashingMachineGuideModal() {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full max-w-md transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all w-[700px]">
                                     <div className="flex justify-between items-center">
                                         <h2 className="font-sans text-lg">Washing Macine Buying Guide</h2>
-                                        <button onClick={closeModal} className="cursor-none">
+                                        <button onClick={closeModal} className="cursor-none sm:cursor-pointer">
                                             <XCircleIcon
-                                                className="ml-2 -mr-1 h-8 w-8 text-violet-200 hover:text-violet-100"
+                                                className="ml-2 -mr-1 h-8 w-8 text-gray-700 hover:text-gray-900"
                                                 aria-hidden="true"
                                             />
                                         </button>
                                     </div>
 
-                                    <div className="mt-2">
-                                        <iframe width="100%" src="https://www.youtube.com/embed/AGTayHKbg-Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" className="rounded" allowfullscreen></iframe>
+                                    <div className="mt-2" style={{ position: 'relative', paddingTop: '56.25%', borderRadius: '15px' }}>
+                                        <ReactPlayer
+                                            url="https://www.youtube.com/embed/AGTayHKbg-Q"
+                                            controls={true}
+                                            width='100%'
+                                            height='100%'
+                                            style={{ borderRadius: '15px', position: 'absolute', top: 0, left: 0 }}
+                                        />
                                     </div>
                                 </Dialog.Panel>
                             </Transition.Child>

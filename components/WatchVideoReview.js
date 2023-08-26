@@ -1,5 +1,6 @@
 import { Dialog, Transition } from '@headlessui/react'
 import { Fragment, useState } from 'react'
+import ReactPlayer from 'react-player'
 import { XCircleIcon } from '@heroicons/react/20/solid'
 import { PlayCircleIcon } from '@heroicons/react/20/solid'
 
@@ -16,7 +17,7 @@ export default function WatchVideoReview({ videoReview }) {
 
     return (
         <>
-            <div className="flex-grow inset-0 flex items-center sm:justify-center cursor-pointer">
+            <div className="flex-grow inset-0 flex items-center cursor-pointer">
                 {/* <button type="button" onClick={openModal} className="pl-4 pr-3 py-2 text-sm bg-primary text-white mx-auto block rounded-full relative -top-5">
                     <span className="flex items-center gap-x-1">
                         <span>Washing Machine Guide</span>
@@ -26,8 +27,8 @@ export default function WatchVideoReview({ videoReview }) {
                         </svg>
                     </span>
                 </button> */}
-                <span onClick={openModal} className="text-sm flex items-center gap-x-1 text-slate-700">
-                    <PlayCircleIcon className="h-6 w-6 text-slate-700" />
+                <span onClick={openModal} className="text-sm flex items-center gap-x-1 text-slate-700 hover:text-slate-800">
+                    <PlayCircleIcon className="h-6 w-6 text-slate-700 hover:text-slate-800" />
                     <span>Watch video review</span>
                 </span>
             </div>
@@ -57,19 +58,29 @@ export default function WatchVideoReview({ videoReview }) {
                                 leaveFrom="opacity-100 scale-100"
                                 leaveTo="opacity-0 scale-95"
                             >
-                                <Dialog.Panel className="w-full max-w-md transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all">
+                                <Dialog.Panel className="w-[700px] transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all">
                                     <div className="flex justify-between items-center">
-                                        <h2 className="font-sans text-lg">{videoReview.title}</h2>
+                                        <h2 className="font-sans text-lg">
+                                            {videoReview.title}
+                                        </h2>
                                         <button onClick={closeModal} className="cursor-none md:cursor-pointer">
                                             <XCircleIcon
-                                                className="ml-2 -mr-1 h-8 w-8 text-violet-200 hover:text-violet-100"
+                                                className="ml-2 -mr-1 h-8 w-8 text-gray-700 hover:text-gray-800"
                                                 aria-hidden="true"
                                             />
                                         </button>
                                     </div>
 
-                                    <div className="mt-2">
-                                        <iframe width="100%" height="auto" src={`https://www.youtube.com/embed/${videoReview.id}`} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                                    {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde, beatae blanditiis distinctio modi dolorem officiis suscipit pariatur perferendis excepturi laborum maiores expedita ipsum maxime eaque natus dignissimos, repudiandae debitis recusandae molestias quaerat? Fugiat omnis consequuntur fuga eveniet facilis voluptatum dolorem?</p> */}
+
+                                    <div className="mt-2" style={{ position: 'relative', paddingTop: '56.25%', borderRadius: '15px' }}>
+                                        <ReactPlayer
+                                            url={`https://www.youtube.com/embed/${videoReview.id}`}
+                                            controls={true}
+                                            width='100%'
+                                            height='100%'
+                                            style={{ borderRadius: '15px', position: 'absolute', top: 0, left: 0 }}
+                                        />
                                     </div>
                                 </Dialog.Panel>
                             </Transition.Child>
