@@ -21,7 +21,7 @@ export default function bestWashingMachinesUnder40000({ data }) {
 
 export async function getStaticProps() {
   const response = await axios.get(
-    "http://localhost:3000/api/washingMachinesUnder25000"
+    "https://washing-machines-reviews.vercel.app/api/washingMachinesUnder25000"
   );
   const data = await response.data;
   return {
