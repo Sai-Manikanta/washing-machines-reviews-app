@@ -149,59 +149,7 @@ export default {
       },
     },
   ],
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   under20000: [
-    {
-      productName: "Mani Samsung 7 kg Fully-Automatic Top Loading Washing Machine (WA70A4002GS/TL, Imperial Silver, Diamond drum)",
-      productImage: {
-        url: "https://m.media-amazon.com/images/I/613KfoiSsML._SY741_.jpg",
-        alt: "Washing Machine Photo"
-      },
-      rating: "8.6",
-      highlights: [
-        "Fully-automatic top load washing machine: Affordable with great wash quality, Easy to use",
-        "Capacity 7 Kg: Suitable For Families With 3 To 4 Members",
-        "Manufacturer Warranty: 2 years comprehensive warranty on the product.",
-        "Wash Programs: Normal, Quick Wash, Soak+Normal | Delicates | Eco Tub Clean | Energy Saving | 6",
-        "Digital Inverter : Enjoy a long-lasting, powerful performance with less energy and noise",
-        "Key Features : Child Lock | Diamond Drum | Magic Filter | Monsoon | Center Jet | Tempered Glass Window | 5 Levels",
-        "Included In The Box: e1N Machine Unit, N1 User Manual, 1N Installation Guide"
-      ],
-      specs: {
-        brand: "Samsung",
-        type: "Top Load",
-        capacity: "7 Kilograms",
-        tubType: "Metal",
-        functionType: "Fully-Automatic",
-        weight: "30 kg 500 g",
-        rotationSpeed: "680 RPM"
-      },
-      specialFeatures: "Inverter",
-      videoReview: {
-        title: "Samsung 7 kg Fully-Automatic",
-        id: "DLA_64yz8Ss"
-      },
-      stores: {
-        amazon: "https://www.amazon.in/Samsung-Fully-Automatic-WA70A4002GS-TL-Imperial/dp/B08GXYZFNB/ref=sr_1_4?keywords=washing+machine&qid=1692785868&sr=8-4",
-        flipkart: ""
-      }
-    },
     {
       productName:
         "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machine (WHITEMAGIC ELITE)",
