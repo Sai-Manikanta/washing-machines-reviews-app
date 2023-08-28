@@ -41,7 +41,7 @@ function Layout({ children, priceUnder }) {
         </header>
       </div>
 
-      <main className="p-5">
+      <main className="p-3">
         <section className="max-w-5xl mx-auto mt-8">
           <div className="sm:flex justify-between">
             <h1 className="text-xl sm:text-2xl font-medium text-slate-800">
