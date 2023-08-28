@@ -1,7 +1,8 @@
 import Head from "next/head";
 import ProductCard from "./../components/ProductCard";
 import Layout from "@/components/Layout";
-import axios from "axios";
+// import axios from "axios";
+import { data } from '../data/washingMachinesUnder10000'
 
 export default function Home({ data }) {
   return (
@@ -20,10 +21,10 @@ export default function Home({ data }) {
 }
 
 export async function getStaticProps() {
-  const response = await axios.get(
-    "http://localhost:3000/api/washingMachinesUnder10000"
-  );
-  const data = await response.data;
+  // const response = await axios.get(
+  //   "http://localhost:3000/api/washingMachinesUnder10000"
+  // );
+  // const data = await response.data;
   return {
     props: { data },
   };

@@ -1,7 +1,8 @@
 import Head from "next/head";
 import ProductCard from "./../components/ProductCard";
 import Layout from "@/components/Layout";
-import axios from "axios";
+// import axios from "axios";
+import { data } from '../data/washingMachinesUnder15000'
 
 export default function bestWashingMachinesUnder40000({ data }) {
   return (
@@ -20,10 +21,10 @@ export default function bestWashingMachinesUnder40000({ data }) {
 }
 
 export async function getStaticProps() {
-  const response = await axios.get(
-    "https://washing-machines-reviews.vercel.app/api/washingMachinesUnder30000"
-  );
-  const data = await response.data;
+  // const response = await axios.get(
+  //   "/api/washingMachinesUnder30000"
+  // );
+  // const data = response.data;
   return {
     props: { data },
   };
