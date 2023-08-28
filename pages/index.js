@@ -1,5 +1,5 @@
 import Head from "next/head";
-import ProductCard from "./../components/ProductCard";
+// import ProductCard from "./../components/ProductCard";
 import Layout from "@/components/Layout";
 // import axios from "axios";
 import { data } from '../data/washingMachinesUnder10000'
@@ -10,12 +10,17 @@ export default function Home({ data }) {
       <Head>
         <title>best washing machines under 10,000</title>
       </Head>
-      {data?.map((washingMachineData, i) => (
+      {/* {data?.map((washingMachineData, i) => (
         <ProductCard
           key={i}
           washingMachineData={{ orderNumber: i + 1, ...washingMachineData }}
         />
-      ))}
+      ))} */}
+      <footer className="bg-primary px-5 py-6 text-white">
+        <div className="max-w-5xl mx-auto">
+          <p >&#169; Copyright 2023</p>
+        </div>
+      </footer>
     </Layout>
   );
 }
