@@ -3,12 +3,12 @@ import { Fragment } from "react";
 import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import Link from "next/link";
 
-export default function ChangePriceDropdown() {
+export default function ChangePriceDropdown({priceUnder}) {
   return (
     <div className="text-right">
       <Menu as="div" className="relative inline-block text-left">
         <div>
-          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-secondary px-4 py-2 font-medium text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75">
+          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-secondary px-4 py-2 font-medium text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 hover:brightness-[120%]">
             Change
             <ChevronDownIcon
               className="ml-2 -mr-1 h-4 w-4 text-violet-200 hover:text-violet-100"
@@ -31,7 +31,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "40,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-40000"
                   >
@@ -45,7 +45,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "35,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-35000"
                   >
@@ -59,7 +59,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "30,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-30000"
                   >
@@ -73,7 +73,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "25,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-25000"
                   >
@@ -87,7 +87,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "20,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-20000"
                   >
@@ -101,7 +101,7 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "15,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-15000"
                   >
@@ -115,9 +115,9 @@ export default function ChangePriceDropdown() {
                 {({ active }) => (
                   <Link
                     className={`${
-                      active && "bg-primary text-white"
+                      (active || priceUnder == "10,000") && "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
-                    href="/"
+                    href="/best-washing-machines-under-10000"
                   >
                     Under ₹10,000
                   </Link>

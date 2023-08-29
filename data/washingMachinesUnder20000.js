@@ -3,7 +3,7 @@ export const data = [
         productName:
             "Whirlpool 7.5 kg Fully Automatic Top Load Washing Machine (WHITEMAGIC ELITE)",
         productImage: {
-            url: "/images/under20000/Whirlpool-7.5-kg-Fully-Automatic-Top-Load-Washing-Machine-(WHITEMAGI-ELITE).jpg",
+            url: "https://m.media-amazon.com/images/I/31WeMu6f8JL._SY445_SX342_QL70_FMwebp_.jpg",
             alt: "Product alt",
         },
         rating: 9.2,
@@ -18,13 +18,12 @@ export const data = [
             "Power Scrub Technology, Spiro Wash, Hard Water Wash Technology",
         ],
         specs: {
-            brand: "Whirlpoo",
             type: "Top Load",
-            capacity: "7.5 kg",
+            capacity: "7.5",
             tubeType: "stainless steel",
             functionType: "Fully Automatic",
             weight: "24 kg 800 g",
-            rotationSpeed: ""
+            rotationSpeed: "600 RPM"
         },
         videoReview: {
             title:
@@ -41,7 +40,7 @@ export const data = [
         productName:
             "Samsung 7 kg Fully-Automatic Top Loading Washing Machine (WA70A4002GS/TL, Imperial Silver, Diamond drum)",
         productImage: {
-            url: "/images/under20000/Samsung-7-kg-Fully-Automatic-Top-Loading-Washing-Machine-(WA70A4002GS).jpg",
+            url: "https://m.media-amazon.com/images/I/4160zTsjJeL._SX342_SY445_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: "8.8",
@@ -55,7 +54,7 @@ export const data = [
             "Included In The Box: 1N Machine Unit, N1 User Manual, 1N Installation Guide",
         ],
         specs: {
-            brand: "Samsung ",
+            brand: "Samsung",
             type: "Top Load",
             capacity: "7 kg ",
             tubeType: "stainless steel",
@@ -79,7 +78,7 @@ export const data = [
         productName:
             "Whirlpool 7 kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey  (MAGIC CLEAN 7.0 GENX GREY 5YMW)",
         productImage: {
-            url: "/images/under20000/Whirlpool-7-kg-Magic-Clean-5-Star-Fully-Automatic-Top-Load-Washing-Machine-Grey-(MAGIC-CLEAN-7-GENX-GREY-5YMW).jpg",
+            url: "https://rukminim2.flixcart.com/image/832/832/xif0q/washing-machine-new/p/1/g/-original-imagr5pa4shznqyh.jpeg?q=70",
             alt: "product alt",
         },
         rating: "8.4",
@@ -118,7 +117,7 @@ export const data = [
         productName:
             "Samsung 6.5 Kg 5 Star Inverter Fully-Automatic Top Loading Washing Machine (WA65T4262GG/TL, Gray, Wobble technology)",
         productImage: {
-            url: "/images/under20000/Samsung-6-5-Kg-5-Star-InverterFully-Automatic-Top-Loading-Washing-Machine-(WA65T4262GG/TL-Gray-Wobble-technology).jpg",
+            url: "https://m.media-amazon.com/images/I/31UcKRYnhWL._SX342_SY445_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: "8.6",
@@ -152,7 +151,7 @@ export const data = [
         productName:
             "LG 7 Kg 5 Star Inverter TurboDrum Fully Automatic Top Loading Washing Machine (T70SKSF1Z, Waterfall Circulation, Smart Motion, Middle Free Silver)",
         productImage: {
-            url: "/images/under20000/LG-7-Kg-5-Star-Inverter-TurboDrum-Fully-Automatic-Top-Loading-Washing-Machine-(T70SKSF1Z-Waterfall-Circulation-Smart-Motion-Middle-Free-Silver).jpg",
+            url: "https://m.media-amazon.com/images/I/41gXxH0hFGL._SY445_SX342_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: "8.4",
@@ -189,7 +188,7 @@ export const data = [
         productName:
             "SAMSUNG 7 kg 5 star, Eco Bubble Technology, Digital Inverter Motor, Dual Storm Fully Automatic Top Load Washing Machine Grey  (WA70BG4441YYTL)",
         productImage: {
-            url: "/images/under20000/SAMSUNG-7-kg-5-star-Eco-Bubble-Technology-Digital-Inverter-Motor-Dual-Storm-Fully-Automatic-Top-Load-WashingMachine-Grey-(WA70BG4441YYTL).jpg",
+            url: "https://m.media-amazon.com/images/I/31DnCEZ3LBL._SX342_SY445_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: 8.5,
@@ -230,7 +229,7 @@ export const data = [
         productName:
             "LG 8 Kg 5 Star Wind Jet Dry Rat Away Technology Semi-Automatic Top Loading Washing Machine (P8030SRAZ, Roller Jet Pulsator, Collar Scrubber, Lint Collector, Burgundy)",
         productImage: {
-            url: "/images/under20000/LG-8-Kg-5-Star-Wind-Jet-Dry-Rat-Away-Technology-Semi-Automatic-Top-Loading-Washing-Machine-(P8030SRAZ-Roller-Jet-Pulsator-Collar-Scrubber-Lint-Collector-Burgundy).jpg",
+            url: "https://m.media-amazon.com/images/I/514-v8I6ohL._SY445_SX342_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: 8.8,
@@ -271,7 +270,7 @@ export const data = [
         productName:
             "Whirlpool 6.5 Kg 4 Star StainWash Fully-Automatic Top Loading Washing Machine (STAINWASH PRO H 6.5, Shiny Grey, In-Built Heater)",
         productImage: {
-            url: "/images/under20000/Whirlpool-6-5-Kg-4-Star-StainWash-Fully-Automatic-Top-Loading-Washing-Machine-(STAINWASH-PRO-H-6-5-Shiny-Grey-In-Built-Heater).jpg",
+            url: "https://m.media-amazon.com/images/I/31xZv4KXTDL._SY445_SX342_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: 8.5,
@@ -311,7 +310,7 @@ export const data = [
         productName:
             "Whirlpool 10.5 kg 5 Star Ace XL Semi-Automatic Top Loading Washing Machine (ACE XL 10.5, Graphite Grey, 3D Scrub Technology)",
         productImage: {
-            url: "/images/under20000/Whirlpool-10-5-kg-5-Star-Ace-XL-Semi-Automatic-Top-Loading-Washing-Machine-(ACE-XL-10-5-Graphite-Grey-3D-Scrub-Technology).jpg",
+            url: "https://m.media-amazon.com/images/I/414xttnZ5uL._SY445_SX342_QL70_FMwebp_.jpg",
             alt: "product alt",
         },
         rating: 8.1,
@@ -352,7 +351,7 @@ export const data = [
         productName:
             "Whirlpool 9.5 kg 5 Star, Hard Water wash Semi Automatic Top Load Washing Machine Purple, White  (ACE XL 9.5 Royal Purple (5YR))",
         productImage: {
-            url: "/images/under20000/Whirlpool-9-5-kg-Star-Hard-Water-wash-Semi-Automatic-Top-Load-Washing-Machine-Purple-White-(ACE-XL-9-5-Royal-Purple-(5YR)).jpg",
+            url: "https://rukminim2.flixcart.com/image/832/832/jc7z0y80/washing-machine-new/a/r/b/ace-9-5-xl-whirlpool-original-imaffebazhhgb5xg.jpeg?q=70",
             alt: "product alt",
         },
         rating: 8.3,
