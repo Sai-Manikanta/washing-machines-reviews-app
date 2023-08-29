@@ -3,7 +3,7 @@ import { Fragment } from "react";
 import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import Link from "next/link";
 
-export default function ChangePriceDropdown({priceUnder}) {
+export default function ChangePriceDropdown({ priceUnder }) {
   return (
     <div className="text-right">
       <Menu as="div" className="relative inline-block text-left">
@@ -31,7 +31,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "40,000") && "bg-primary text-white"
+                      (active || priceUnder == "40,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-40000"
                   >
@@ -45,7 +46,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "35,000") && "bg-primary text-white"
+                      (active || priceUnder == "35,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-35000"
                   >
@@ -59,7 +61,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "30,000") && "bg-primary text-white"
+                      (active || priceUnder == "30,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-30000"
                   >
@@ -73,7 +76,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "25,000") && "bg-primary text-white"
+                      (active || priceUnder == "25,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-25000"
                   >
@@ -87,7 +91,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "20,000") && "bg-primary text-white"
+                      (active || priceUnder == "20,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-20000"
                   >
@@ -101,7 +106,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "15,000") && "bg-primary text-white"
+                      (active || priceUnder == "15,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-15000"
                   >
@@ -115,7 +121,8 @@ export default function ChangePriceDropdown({priceUnder}) {
                 {({ active }) => (
                   <Link
                     className={`${
-                      (active || priceUnder == "10,000") && "bg-primary text-white"
+                      (active || priceUnder == "10,000") &&
+                      "bg-primary text-white"
                     } group flex w-full items-center rounded-md px-2 py-2 text-sm`}
                     href="/best-washing-machines-under-10000"
                   >
