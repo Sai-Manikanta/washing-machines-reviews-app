@@ -23,14 +23,19 @@ function Header() {
             </div>
           </div>
           <div>
-            <Image
+            <video autoPlay muted loop className="hidden sm:block w-100 mx-auto w-[600px] ">
+              <source src="/videos/washingMachine.webm" type="video/webm" />
+              Your browser does not support the video tag.
+            </video>
+
+            {/* <Image
               src="/images/washingMachine.gif"
               alt="Picture of the author"
               width={600}
               height={500}
               className="hidden sm:block w-100 mx-auto"
               priority={true}
-            />
+            /> */}
           </div>
         </div>
         <hr
