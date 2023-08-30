@@ -1,3 +1,5 @@
+///https://www.flipkart.com/ifb-7-kg-5-star-aqua-conserve-hard-water-wash-smart-sense-4-years-comprehensive-warranty-fully-automatic-top-load-washing-machine-grey/p/itm67486aa4ef9af?pid=WMNG537SWTPVHADW&lid=LSTWMNG537SWTPVHADWEUIGJG&marketplace=FLIPKART&q=IFB+7+Kg+5+Star+Fully-Automatic+Top+Loading+Washing+Machine+%28TL-RGS+Aqua%2C+Grey%2CAuto+Imbalance+System%2C3D+Wash+Technology%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=618c995f-dd8e-45f4-ad50-1e23dab37674.WMNG537SWTPVHADW.SEARCH&ppt=pp&ppn=pp&ssid=t9znnweuds0000001693379578800&qH=94b853d5f1677786
+
 export const data = [
     {
         productName:
