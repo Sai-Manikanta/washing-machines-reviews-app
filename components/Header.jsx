@@ -18,6 +18,11 @@ function Header() {
               height={500}
               className="sm:hidden w-100 mx-auto"
             /> */}
+
+            <video autoPlay muted loop className="sm:hidden w-100 mx-auto w-[600px]">
+              <source src="/videos/washingMachine.webm" type="video/webm" />
+              Your browser does not support the video tag.
+            </video>
             <div>
               <WashingMachineGuideModal />
             </div>
