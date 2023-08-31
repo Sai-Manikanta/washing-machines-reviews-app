@@ -9,15 +9,15 @@ function Header() {
         <div className="grid sm:grid-cols-2">
           <div className="sm:pt-5 md:pt-8 lg:pt-10 pl-0 sm:pl-5 md:pl-10 lg:pl-0">
             <span className="text-3xl block font-bold p-5 sm:pl-0 sm:text-3xl md:text-4xl lg:text-5xl sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.2]">
-              Find the best washing machine for you.
+              Find the best washing machine for you...
             </span>
-            <Image
+            {/* <Image
               src="/images/washingMachine.gif"
               alt="Picture of the author"
               width={600}
               height={500}
               className="sm:hidden w-100 mx-auto"
-            />
+            /> */}
             <div>
               <WashingMachineGuideModal />
             </div>
