@@ -29,9 +29,12 @@ const ProductCard = ({ washingMachineData }) => {
           className="h-40 md:h-48 w-auto mx-auto"
           width="200"
           height="200"
+          // BEST PRACTICES
+          decoding="async"
+          loading="lazy"
+          style="color:transparent"
+          // srcset="/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F31WeMu6f8…"
         />
-
-
 
         <div className=" flex flex-col bg-primary items-center p-4 text-white absolute top-0 right-0 rounded-tr-md rounded-bl-md">
           <span className="text-2xl font-medium">{rating}</span>
@@ -257,7 +260,7 @@ const ProductCard = ({ washingMachineData }) => {
               target="_blank"
               className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
             >
-              <span class="sr-only">Visit Flipkart Store</span>
+              <span class="sr-only">Visit  Store</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xmlnsXlink="http://www.w3.org/1999/xlink"

@@ -21,6 +21,7 @@ function Header() {
 
             <video autoPlay muted loop className="sm:hidden w-100 mx-auto w-[600px]">
               <source src="/videos/washingMachine.webm" type="video/webm" />
+              <track kind="subtitles" srclang="en" />
               Your browser does not support the video tag.
             </video>
             <div>
