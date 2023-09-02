@@ -1,6 +1,6 @@
 import React from "react";
 import WashingMachineGuideModal from "./WashingMachineGuideModal";
-import Image from "next/image";
+// import Image from "next/image";
 
 function Header() {
   return (
@@ -30,6 +30,7 @@ function Header() {
           <div>
             <video autoPlay muted loop className="hidden sm:block w-100 mx-auto w-[600px] ">
               <source src="/videos/washingMachine.webm" type="video/webm" />
+              <track kind="subtitles" srclang="en" />
               Your browser does not support the video tag.
             </video>
 

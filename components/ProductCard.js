@@ -30,7 +30,10 @@ const ProductCard = ({ washingMachineData }) => {
           width="200"
           height="200"
         />
-        <div className="sm:hidden flex flex-col bg-primary items-center p-4 text-white absolute top-0 right-0 rounded-tr-md rounded-bl-md">
+
+
+
+        <div className=" flex flex-col bg-primary items-center p-4 text-white absolute top-0 right-0 rounded-tr-md rounded-bl-md">
           <span className="text-2xl font-medium">{rating}</span>
           <div className="flex mt-1">
             <svg
@@ -96,13 +99,16 @@ const ProductCard = ({ washingMachineData }) => {
           </div>
           <span className="text-xs mt-1">Exeptional</span>
         </div>
+
+
+
         <span className="text-2xl sm:text-lg absolute top-6 sm:top-6 left-7 sm:left-7 text-slate-700">
           {orderNumber}
         </span>
       </div>
 
       <div className="flex-grow">
-        <h2 className="mt-4 sm:text-lg sm:mt-0 text-slate-900 line-clamp-3">
+        <h2 className="mt-4 sm:text-lg sm:mt-0 text-slate-900 line-clamp-3 sm:mr-20">
           {productName}
         </h2>
 
@@ -227,6 +233,7 @@ const ProductCard = ({ washingMachineData }) => {
               target="_blank"
               className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
             >
+              <span class="sr-only">Visit Amazon Store</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width={110}
@@ -250,6 +257,7 @@ const ProductCard = ({ washingMachineData }) => {
               target="_blank"
               className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
             >
+              <span class="sr-only">Visit Flipkart Store</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xmlnsXlink="http://www.w3.org/1999/xlink"
