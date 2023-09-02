@@ -135,7 +135,7 @@ const ProductCard = ({ washingMachineData }) => {
               <div>
                 <span className="text-slate-500 text-xs">Capacity</span>
                 <span className="block text-bold text-sm">
-                  {specs?.capacity} Kilograms
+                  {specs?.capacity}
                 </span>
               </div>
             </div>
