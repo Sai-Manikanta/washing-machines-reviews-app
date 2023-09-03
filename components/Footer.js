@@ -4,9 +4,9 @@ const Footer = () => {
   return (
     <footer className="bg-primary px-5 pt-10 pb-6 text-white">
       <div className="max-w-5xl mx-auto">
-        <h4 className="text-lg border-l-4 pl-2 mb-4 font-bold">
-          Usefull Links
-        </h4>
+        <h2 className="text-lg border-l-4 pl-2 mb-4 font-bold">
+          Usefull Links of Top washing machines
+        </h2>
         <div className="flex flex-col md:flex-row md:gap-12">
           <div>
             <Link
