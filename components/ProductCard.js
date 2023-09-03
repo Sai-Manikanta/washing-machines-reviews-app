@@ -29,13 +29,7 @@ const ProductCard = ({ washingMachineData }) => {
           className="h-40 md:h-48 w-auto mx-auto"
           width="200"
           height="200"
-          // BEST PRACTICES
-          decoding="async"
-          loading="lazy"
-          style="color:transparent"
-          // srcset="/_next/image?url=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F31WeMu6f8…"
         />
-
         <div className=" flex flex-col bg-primary items-center p-4 text-white absolute top-0 right-0 rounded-tr-md rounded-bl-md">
           <span className="text-2xl font-medium">{rating}</span>
           <div className="flex mt-1">

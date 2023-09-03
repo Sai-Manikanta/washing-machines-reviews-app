@@ -33,8 +33,7 @@ export const data = [
             id: "",
         },
         stores: {
-            amazon:
-                "https://www.amazon.in/Whirlpool-Fully-Automatic-WHITEMAGIC-ELITE-10YMW/dp/B07NSRNF79/ref=sr_1_3?crid=3EJT810Y6ZIGF&keywords=Whirlpool+7.5+Kg+5+Star+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ELITE+7.5%2C+Grey%2C+Hard+Water+Wash%29&qid=1690177795&sprefix=whirlpool+7.5+kg+5+star+fully-automatic+top+loading+washing+machine+whitemagic+elite+7.5%2C+grey%2C+hard+water+wash+%2Caps%2C215&sr=8-3",
+            amazon: "https://amzn.to/3L7nj8A",
             flipkart: "",
         },
     },
@@ -70,8 +69,7 @@ export const data = [
             id: "",
         },
         stores: {
-            amazon:
-                "https://www.amazon.in/Samsung-Fully-Automatic-WA70A4002GS-TL-Imperial/dp/B08GXYZFNB/ref=sr_1_3?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690185916&refinements=p_36%3A5271574031&rnid=5271547031&s=kitchen&sr=1-3&th=1",
+            amazon: "https://amzn.to/3PohOon",
             flipkart:
                 "https://www.flipkart.com/samsung-7-kg-3-star-fully-automatic-top-load-washing-machine-silver/p/itm45d6cd26e5975?pid=WMNFV6ZYYAEZX6HM&lid=LSTWMNFV6ZYYAEZX6HMNJZL4B&marketplace=FLIPKART&q=Samsung+7+kg+Fully-Automatic+Top+Loading+Washing+Machine+%28WA70A4002GS%2FTL%2C+Imperial+Silver%2C+Diamond+drum%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=4d41614c-1e9a-4b1e-8b9a-f0ce68203950.WMNFV6ZYYAEZX6HM.SEARCH&ppt=sp&ppn=sp&ssid=vry6k11iyo0000001690185949214&qH=fdadff181abb5d2e",
         },
@@ -145,7 +143,7 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA65T4262GG-TL/dp/B0861C4YCG/ref=sr_1_2_sspa?crid=2CVUZLAB1LOFJ&keywords=Whirlpool%2B7%2Bkg%2BMagic%2BClean%2B5%2BStar%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BGrey%2B(MAGIC%2BCLEAN%2B7.0%2BGENX%2BGREY%2B5YMW)&qid=1690189528&s=kitchen&sprefix=whirlpool%2B7%2Bkg%2Bmagic%2Bclean%2B5%2Bstar%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bgrey%2Bmagic%2Bclean%2B7.0%2Bgenx%2Bgrey%2B5ymw%2B%2Ckitchen%2C288&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+                "https://amzn.to/3L6ZAFo",
             flipkart: "",
         },
     },
@@ -180,12 +178,11 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/LG-Inverter-Fully-Automatic-Loading-T70SKSF1Z/dp/B08DF1Y7T7/ref=sr_1_5?keywords=best+washing+machine+under+20000&qid=1690185916&refinements=p_36%3A5271574031&rnid=5271547031&s=kitchen&sr=1-5",
+                "https://amzn.to/45CaFGE",
             flipkart:
                 "https://www.flipkart.com/lg-7-kg-smart-diagnosis-inverter-fully-automatic-top-load-washing-machine-silver/p/itm4b6f044047234?pid=WMNFUBJFUZHQGFPZ&lid=LSTWMNFUBJFUZHQGFPZX0OQTY&marketplace=FLIPKART&q=LG+7+Kg+5+Star+Inverter+TurboDrum+Fully+Automatic+Top+Loading+Washing+Machine+%28T70SKSF1Z%2C+Waterfall+Circulation%2C+Smart+Motion%2C+Middle+Free+Silver%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=14385621-b0d6-4652-bc9c-e6bfe34f6dab.WMNFUBJFUZHQGFPZ.SEARCH&ppt=sp&ppn=sp&ssid=9ki84ym4u80000001690191647058&qH=00597031961e3e92",
         },
     },
-
     {
         productName:
             "SAMSUNG 7 kg 5 star, Eco Bubble Technology, Digital Inverter Motor, Dual Storm Fully Automatic Top Load Washing Machine Grey  (WA70BG4441YYTL)",
@@ -222,7 +219,7 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA70BG4441YYTL-Technology/dp/B0B8NHX62W/ref=sr_1_4?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690192098&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sr=1-4&th=1",
+                "https://amzn.to/45AEWFY",
             flipkart:
                 "https://www.flipkart.com/samsung-7-kg-5-star-eco-bubble-technology-digital-inverter-motor-dual-storm-fully-automatic-top-load-washing-machine-grey/p/itmfad620b791ea9?pid=WMNGGUWZK6VEQPXD&lid=LSTWMNGGUWZK6VEQPXDBGVOA0&marketplace=FLIPKART&q=Samsung+7+kg%2C+5+star%2C+Eco+Bubble+Technology%2C+Digital+Inverter+Motor%2C+Dual+Storm%2C+Fully-Automatic+Top+Load+Washing+Machine+%28WA70BG4441YYTL%2C+Lavender+Gray%29&store=j9e%2Fabm&spotlightTagId=BestsellerId_j9e%2Fabm&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=bcb024c8-1934-4924-b14d-1c6fe285f60a.WMNGGUWZK6VEQPXD.SEARCH&ppt=sp&ppn=sp&ssid=xj6ggjpq1s0000001690192155582&qH=b3b7136548262b38",
         },
@@ -263,7 +260,7 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/LG-Wash-P8030SRAZ-Roller-Pulsator/dp/B08CHFTJHZ/ref=sr_1_11_mod_primary_new?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690192098&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-11&th=1",
+                "https://amzn.to/4807utX",
             flipkart:
                 "https://www.flipkart.com/lg-8-kg-roller-jet-pulsator-wind-dry-5-star-rated-semi-automatic-top-load-washing-machine-multicolor/p/itme46032c6324b4?pid=WMNGGYQTWHG5VVYZ&lid=LSTWMNGGYQTWHG5VVYZKSZC2W&marketplace=FLIPKART&q=LG+8+Kg+5+Star+Wind+Jet+Dry+Rat+Away+Technology+Semi-Automatic+Top+Loading+Washing+Machine+%28P8030SRAZ%2C+Roller+Jet+Pulsator%2C+Collar+Scrubber%2C+Lint+Collector%2C+Burgundy%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=1d425c73-3263-4c26-9c69-af9794b0d43a.WMNGGYQTWHG5VVYZ.SEARCH&ppt=sp&ppn=sp&ssid=b4l6kro7n40000001690193149726&qH=014088937201de9b",
         },
@@ -303,7 +300,7 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/Whirlpool-6-5-Fully-Automatic-STAINWASH-PRO/dp/B084CM7DT2/ref=sr_1_23?keywords=best+washing+machine+under+20000&qid=1690193757&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sr=1-23",
+                "https://amzn.to/45WQpiK",
             flipkart:
                 "https://www.flipkart.com/whirlpool-6-5-kg-5-star-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm065aad7f07d32?pid=WMNFZZ6JAC3CFTMH&lid=LSTWMNFZZ6JAC3CFTMHD2HXXH&marketplace=FLIPKART&q=Whirlpool+6.5+Kg+4+Star+StainWash+Fully-Automatic+Top+Loading+Washing+Machine+%28STAINWASH+PRO+H+6.5%2C+Shiny+Grey%2C+In-Built+Heater%29&store=j9e%2Fabm%2F8qx&spotlightTagId=TrendingId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=d4330c52-a290-4945-bb3a-bd9965e93f13.WMNFZZ6JAC3CFTMH.SEARCH&ppt=sp&ppn=sp&ssid=de4x4urhio0000001690193797047&qH=145ef658dd1aff37",
         },
@@ -344,7 +341,7 @@ export const data = [
         },
         stores: {
             amazon:
-                "https://www.amazon.in/Whirlpool-10-5-Semi-Automatic-ACE-XL/dp/B07BNLKS7V/ref=sr_1_35?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690194186&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sr=1-35&th=1",
+                "https://amzn.to/45Q4izg",
             flipkart:
                 "https://www.flipkart.com/whirlpool-9-kg-5-star-hard-water-wash-semi-automatic-top-load-washing-machine-grey/p/itmd945a10939cf2?pid=WMNFZZC7YHYMQJEQ&lid=LSTWMNFZZC7YHYMQJEQ3NTRRR&marketplace=FLIPKART&q=Whirlpool+10.5+kg+5+Star+Ace+XL+Semi-Automatic+Top+Loading+Washing+Machine+%28ACE+XL+10.5%2C+Graphite+Grey%2C+3D+Scrub+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=d9ee0a72-a061-4618-b784-e3fb6cdd48e6.WMNFZZC7YHYMQJEQ.SEARCH&ppt=sp&ppn=sp&ssid=ze2u7i8p8g0000001690195120323&qH=a1b13f70fde037bb",
         },
