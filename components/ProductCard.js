@@ -19,7 +19,6 @@ const ProductCard = ({ id, washingMachineData }) => {
     stores,
     videoReview,
   } = washingMachineData;
-
   return (
     <div className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex" id={`product-${id}`}>
       <div className="w-36 md:w-56 mx-auto shrink-0">
@@ -138,19 +137,19 @@ const ProductCard = ({ id, washingMachineData }) => {
               <div>
                 <span className="text-slate-500 text-xs">Capacity</span>
                 <span className="block text-bold text-sm">
-                  {specs?.capacity} Kilograms
+                  {specs?.capacity}
                 </span>
               </div>
             </div>
           )}
 
-          {specs.tubeType && (
+          {specs.tubType && (
             <div className="flex items-center lg:justify-center shrink-0 pl-3 py-1 lg:pl-0 border gap-1">
               <TbWash size="2rem" />
               <div>
                 <span className="text-slate-500 text-xs">Tub type</span>
                 <span className="block text-bold text-sm">
-                  {specs?.tubeType}
+                  {specs?.tubType}
                 </span>
               </div>
             </div>
@@ -230,7 +229,7 @@ const ProductCard = ({ id, washingMachineData }) => {
               target="_blank"
               className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
             >
-              <span class="sr-only">Visit Amazon Store</span>
+              <span className="sr-only">Visit Amazon Store</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 width={110}
@@ -254,7 +253,7 @@ const ProductCard = ({ id, washingMachineData }) => {
               target="_blank"
               className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
             >
-              <span class="sr-only">Visit  Store</span>
+              <span className="sr-only">Visit  Store</span>
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 xmlnsXlink="http://www.w3.org/1999/xlink"
