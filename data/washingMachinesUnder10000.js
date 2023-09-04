@@ -20,7 +20,6 @@ export const data = [
       "Special Features: Rat Protection, Rust-proof Body, Caster Wheel",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "6 Kg",
       tubType: "Plastic",
@@ -56,7 +55,6 @@ export const data = [
       "7.5 Kg",
     ],
     specs: {
-      brand: "realme TechLife",
       type: "Top Load",
       capacity: "7.5 Kg",
       tubType: "Polypropylene",
@@ -94,12 +92,11 @@ export const data = [
       "In Box: 1 Washing Machine Unit, Inlet Pipe, Outlet Pipe",
     ],
     specs: {
-      brand: "eWhirlpool",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Plastic",
       functionType: "Semi Automatic",
-      weight: "4 Kg 630 g",
+      weight: "21 kg",
       rotationSpeed: "1400 RPM",
     },
     specialFeatures:
@@ -134,12 +131,11 @@ export const data = [
       "In Box: 1 Washing Machine Unit, Inlet Pipe, Outlet Pipe",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "6 Kg",
       tubType: "Plastic",
       functionType: "Semi Automatic",
-      weight: "4 Kg 630 g",
+      weight: "21 kg",
       rotationSpeed: "1400 RPM",
     },
     specialFeatures:
@@ -171,7 +167,6 @@ export const data = [
       "Controls type: Semi Automatic",
     ],
     specs: {
-      brand: "Onida",
       type: "Top Load",
       capacity: "9 Kg",
       tubType: "Polypropylene",
@@ -207,7 +202,6 @@ export const data = [
       "7.5 Kg",
     ],
     specs: {
-      brand: "MarQ by Flipkart",
       type: "Top Load",
       capacity: "7.5 Kg",
       tubType: "Polypropylene",
@@ -241,7 +235,6 @@ export const data = [
       "7.5 Kg",
     ],
     specs: {
-      brand: "Thomson",
       type: "Top Load",
       capacity: "7.5 Kg",
       tubType: "Plastic",
@@ -276,7 +269,6 @@ export const data = [
       "8 Kg",
     ],
     specs: {
-      brand: "ONIDA",
       type: "Top Load",
       capacity: "8 Kg",
       tubType: "Plastic",
@@ -314,7 +306,6 @@ export const data = [
       "Installation Type: Free Standing; Voltage: 230.0 Volts; Controls Type: Semi Automatic; Capacity: 7.0 Kg; Form Factor: Top-Loading; Maximum Rotational Speed: 1450.0 RPM; Included Components: 1 N Washing Machine, 1 N Inlet Hose,1 N Spin Cap, 1 N Drain Hose,1 N User Manual",
     ],
     specs: {
-      brand: "eOnida",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Polypropylene",
@@ -351,7 +342,6 @@ export const data = [
       "Wash Programs:Gentle & Strong",
     ],
     specs: {
-      brand: "Onida",
       type: "Top Load",
       capacity: "7.5 Kg",
       tubType: "Plastic",

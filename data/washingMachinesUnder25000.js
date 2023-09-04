@@ -361,3 +361,6 @@ export const data = [
     },
   },
 ];
+
+//https://www.amazon.in/LG-Inverter-Fully-Automatic-Loading-T80SJMB1Z/dp/B08DF1RHFZ/ref=sr_1_2?crid=25CXBTC4BD7ET&keywords=T80SJSF1Z&qid=1693651954&sprefix=t80sjsf1z%2Caps%2C281&sr=8-2&th=1
+//https://www.flipkart.com/lg-8-kg-jet-sprey-auto-pre-wash-smart-diagnosis-closing-door-10-water-levels-fully-automatic-top-load-washing-machine-silver/p/itm1cd6375748864?pid=WMNFTW2TSVJY5UF8&lid=LSTWMNFTW2TSVJY5UF8MWMAHR&marketplace=FLIPKART&q=washing+machine&store=j9e%2Fabm%2F8qx&srno=s_4_93&otracker=AS_QueryStore_OrganicAutoSuggest_2_9_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_9_na_na_na&fm=search-autosuggest&iid=b5a83e10-0b0c-4361-b603-558dfc1d7ae2.WMNFTW2TSVJY5UF8.SEARCH&ppt=sp&ppn=sp&qH=b3522a5e7056c9c0

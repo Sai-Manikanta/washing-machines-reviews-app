@@ -11,17 +11,15 @@ function Header() {
             <span className="text-3xl block font-bold p-5 sm:pl-0 sm:text-3xl md:text-4xl lg:text-5xl sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.2]">
               Find the best washing machine for you...
             </span>
-            {/* <Image
-              src="/images/washingMachine.gif"
-              alt="Picture of the author"
-              width={600}
-              height={500}
-              className="sm:hidden w-100 mx-auto"
-            /> */}
-
-            <video autoPlay muted loop className="sm:hidden w-100 mx-auto w-[600px]">
+            <video
+              disableRemotePlayback
+              autoPlay
+              muted
+              loop
+              className="sm:hidden w-100 mx-auto w-[600px]"
+            >
               <source src="/videos/washingMachine.webm" type="video/webm" />
-              <track kind="subtitles" srclang="en" />
+              <track kind="subtitles" srcLang="en" />
               Your browser does not support the video tag.
             </video>
             <div>
@@ -29,20 +27,17 @@ function Header() {
             </div>
           </div>
           <div>
-            <video autoPlay muted loop className="hidden sm:block w-100 mx-auto w-[600px] ">
+            <video
+              disableRemotePlayback
+              autoPlay
+              muted
+              loop
+              className="hidden sm:block w-100 mx-auto w-[600px] "
+            >
               <source src="/videos/washingMachine.webm" type="video/webm" />
-              <track kind="subtitles" srclang="en" />
+              <track kind="subtitles" srcLang="en" />
               Your browser does not support the video tag.
             </video>
-
-            {/* <Image
-              src="/images/washingMachine.gif"
-              alt="Picture of the author"
-              width={600}
-              height={500}
-              className="hidden sm:block w-100 mx-auto"
-              priority={true}
-            /> */}
           </div>
         </div>
         <hr
