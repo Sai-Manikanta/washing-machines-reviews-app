@@ -19,7 +19,6 @@ export const data = [
         "Tempered Glass Door, 170 Degree Door Opening Angle, 300 MM Door Diameter | Anti-Rat Cover | Input Wattage (Motor): 1700 W (Maximum)"
       ],
       specs: {
-        brand: "LG",
         type: "Front Load",
         capacity: "7 Kg",
         tubType: "Stainless Steel",
@@ -33,7 +32,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/LG-Inverter-Control-Fully-Automatic-FHM1207SDL/dp/B09LM39YR9/ref=sr_1_1_sspa?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693470399&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        amazon: "https://amzn.to/47S7Frg",
         flipkart: "https://www.flipkart.com/lg-7-Kg-steam-fully-automatic-front-load-washing-machine-in-built-heater-silver/p/itm3ac9375676037?pid=WMNG8ZBHP9QSSZYZ&lid=LSTWMNG8ZBHP9QSSZYZRHIL0E&marketplace=FLIPKART&q=+LG+7+Kg+5+Star+Inverter+Touch+Control+Fully-Automatic+Front+Load+Washing+Machine+with+Heater+%28FHM1207SDL%2C+Silver%2C+6+Motion+Direct+Drive%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=75f48f3a-819a-4bad-abcd-d6fbe7dbe3b9.WMNG8ZBHP9QSSZYZ.SEARCH&ppt=sp&ppn=sp&ssid=iwxe800ne80000001693471431870&qH=d2bd548a521b5aba"
       }
     },
@@ -52,7 +51,6 @@ export const data = [
         "Key Features - Digital Inverter Technology: Enjoy greater energy efficiency, less noise and a long-lasting performance | Diamond Drum for gentle fabric care | Smart Check - Easy Trouble Shooting with Smart Phone App | Drum Clean - Keep the inside of your washer hygienically clean | StayClean Drawer - Stop wasting detergent and avoid the tedious task of cleaning the detergent drawer"
       ],
       specs: {
-        brand: "Samsung",
         type: "Front Load",
         capacity: "8 Kg",
         tubType: "Stainless Steel",
@@ -66,7 +64,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/Samsung-Inverter-Hygiene-Fully-Automatic-WW80T4040CE1TL/dp/B09KGW3NWL/ref=sr_1_6?crid=K5HN6DYSGS9X&keywords=washing+machines&qid=1693470399&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing+%2Caps%2C577&sr=8-6",
+        amazon: "https://amzn.to/3qX70nO",
         flipkart: "https://www.flipkart.com/samsung-8-Kg-5-star-ai-wi-fi-digital-inverter-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmc178c749b4a47?pid=WMNG87FQHDDFGQYX&lid=LSTWMNG87FQHDDFGQYXBXX53D&marketplace=FLIPKART&q=Samsung+8+Kg+5+Star+Inverter%2C+Hygiene+Steam+Fully-Automatic+Front+Loading+Washing+Machine+%28WW80T4040CE1TL%2C+White%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=a3796f4f-81e2-4558-aae7-a4e3edb0ca05.WMNG87FQHDDFGQYX.SEARCH&ppt=pp&ppn=pp&ssid=sdfs1unru80000001693470636544&qH=c483024a67d14d6a"
       }
     },
@@ -90,7 +88,6 @@ export const data = [
         "Vario Drum - Tough on Dirt Yet Gentle on Fabric"
       ],
       specs: {
-        brand: "Bosch",
         type: "Front Load",
         capacity: "7 Kg",
         tubType: "Stainless Steel",
@@ -103,7 +100,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/Bosch-Control-Automatic-Heater-WAJ2426AIN/dp/B08SR4L6X2/ref=sr_1_26?crid=K5HN6DYSGS9X&keywords=washing+machines&qid=1693471117&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing+%2Caps%2C577&sr=8-26",
+        amazon: "https://amzn.to/47UqBG5",
         flipkart: "https://www.flipkart.com/bosch-8-Kg-antitangle-antivibration-1200RPM-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm18a592d07d5e8?pid=WMNFZBM8BPEEYKGU&lid=LSTWMNFZBM8BPEEYKGUVXPXQH&marketplace=FLIPKART&q=Bosch+8+Kg+5+Star+Touch+Control+Fully+Automatic+Front+Load+with+Heater+%28WAJ2426AIN%2C+White%29&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=c2efaa50-7fcb-4203-be71-fa1e69578e30.WMNFZBM8BPEEYKGU.SEARCH&ppt=sp&ppn=sp&ssid=928t0jg6yo0000001693471154865&qH=dc6b6a723ebfbf6e"
       }
     },
@@ -127,7 +124,6 @@ export const data = [
         "Included In The Box: 1 unit of Washing machine, 1 Unit of Inlet Hose, 1 Unit of Spanner, 1 Unit Owner's Manual, 1 Unit of Anti-Rat Cover"
       ],
       specs: {
-        brand: "LG",
         type: "Front Load",
         capacity: "8 Kg",
         tubType: "Stainless Steel",
@@ -141,43 +137,10 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/LG-Inverter-Control-Fully-Automatic-FHM1408BDW/dp/B0B1DNMQG6/ref=sr_1_9?crid=K5HN6DYSGS9X&keywords=washing+machines&qid=1693471263&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing+%2Caps%2C577&sr=8-9",
+        amazon: "https://amzn.to/3L5uRsk",
         flipkart: "https://www.flipkart.com/lg-8-Kg-steam-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmb3a8fb6e624e5?pid=WMNGEMHRVXGCYR9V&lid=LSTWMNGEMHRVXGCYR9VYYND4L&marketplace=FLIPKART&q=LG+8+Kg+5+Star+Inverter+Direct+Drive+Fully+Automatic+Front+Load+Washing+Machine+%28FHM1408BDW%2C+Steam+Wash%2C+In-Built+Heater%2C+Touch+Panel%2C+White%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=117f5c88-eeb6-439f-99aa-f116cdea76ac.WMNGEMHRVXGCYR9V.SEARCH&ppt=sp&ppn=sp&ssid=ix8jpury9s0000001693472098031&qH=111a923c2b5919ce"
       }
     },
-    // {
-    //   productName: "Bosch 8 Kg 5 Star Inverter Touch Control Fully Automatic Front Loading Washing Machine with In- built Heater (WAJ2426MIN,White)",
-    //   productImage: {
-    //     url: "https://m.media-amazon.com/images/I/51R6rpJFPyL._SX300_SY300_QL70_FMwebp_.jpg",
-    //     alt: "Washing Machine Photo"
-    //   },
-    //   rating: "8.8",
-    //   highlights: [
-    //     "8 KG Capacity - Ideal for Bigger Families",
-    //     "BEE 5 Star Rating",
-    //     "Hygenic Wash With 99.99% Bacteria Reduction.",
-    //     "Manufacturer Warranty:2 Years on Product, 12 Years on Motor",
-    //     "Wash Programs :15. Noise level spinning: 73",
-    //     "Anti Tangle Function - Keep Clothes Free From Tangles & Damage",
-    //     "1200 RPM Spinning Speed For Quick Drying",
-    //     "ReLoad Function - Makes Adding Items after Cycle Start",
-    //     "Anti Vibration Side Panels Reduces Noise & Vibration to Minimum",
-    //     "Vario Drum - Tough on Dirt Yet Gentle on Fabric"
-    //   ],
-    //   specs: {
-    //     tubType: "Stainless Steel",
-    //     functionType: "Fully Automatic",
-    //     weight: "71 Kg 400 g"
-    //   },
-    //   videoReview: {
-    //     title: "",
-    //     id: ""
-    //   },
-    //   stores: {
-    //     amazon: "https://www.amazon.in/Bosch-Inverter-Control-Automatic-WAJ2426MIN/dp/B08SR5BPLK/ref=sr_1_13?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693471263&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-13&th=1",
-    //     flipkart: "https://www.flipkart.com/bosch-8-Kg-antitangle-antivibration-1200RPM-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itme7ba15ba1ea74?pid=WMNFZBM8THPHZ8MK&lid=LSTWMNFZBM8THPHZ8MKVZUZXV&marketplace=FLIPKART&q=Bosch+8+Kg+5+Star+Inverter+Touch+Control+Fully+Automatic+Front+Loading+Washing+Machine+with+In-+built+Heater+%28WAJ2426MIN%2CWhite%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=9dd01c6e-cb10-4947-9d5f-0afc630b684f.WMNFZBM8THPHZ8MK.SEARCH&ppt=pp&ppn=pp&ssid=4e4tztmwg00000001693472273372&qH=178957f8be80a915"
-    //   }
-    // },
     {
       productName: "Samsung 7 Kg 5 Star AI Control & Wi-Fi, Fully-Automatic Front Loading Washing Machine (WW70T502NAN1TL, Inox, Digital Inverter)",
       productImage: {
@@ -193,7 +156,6 @@ export const data = [
         "Key Features - Intelligent washing with AI Control | Wi-Fi Connectivity through SmartThings App support | Digital Inverter Technology: Enjoy greater energy efficiency, less noise and a long-lasting performance | Diamond Drum for gentle fabric care | Drum Clean - Keep the inside of your washer hygienically clean | StayClean Drawer - Stop wasting detergent and avoid the tedious task of cleaning the detergent drawer"
       ],
       specs: {
-        brand: "Samsung",
         type: "Front Load",
         capacity: "7 Kg",
         tubType: "Stainless Steel",
@@ -207,7 +169,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/Samsung-Control-Fully-Automatic-WW70T502NAN1TL-Inverter/dp/B09KGYCR7Z/ref=sr_1_5?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693471263&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-5&th=1",
+        amazon: "https://amzn.to/3PpDII3",
         flipkart: "https://www.flipkart.com/samsung-7-Kg-5-star-ai-wi-fi-digital-inverter-fully-automatic-front-load-washing-machine-in-built-heater-silver/p/itmb2a2336207b22?pid=WMNG87FQVRVSZ5DF&lid=LSTWMNG87FQVRVSZ5DFEQEBP1&marketplace=FLIPKART&q=WW70T502NAN1TL&store=search.flipkart.com&spotlightTagId=FkPickId_search.flipkart.com&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=7d257d0c-9985-4b3e-b6ae-9e511bd7e0cf.WMNG87FQVRVSZ5DF.SEARCH&ppt=sp&ppn=sp&ssid=2zrypm80u80000001693472555498&qH=b8d5e87004768f46"
       }
     },
@@ -231,7 +193,6 @@ export const data = [
         "Included in the Box: Washing machine, drain hose, inlet pipe, user manual+Warranty card, Clip ring, Screw Fitting, Protective rat mash cover"
       ],
       specs: {
-        brand: "IFB",
         type: "Front Load",
         capacity: "6.5 Kg",
         tubType: "Stainless Steel",
@@ -245,46 +206,8 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/IFB-ELENA-ZSS-6510-Comprehensive/dp/B09R72LPKN/ref=sr_1_14?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693471263&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-14&th=1",
+        amazon: "https://amzn.to/3R865vx",
         flipkart: "https://www.flipkart.com/ifb-6-5-Kg-steam-wash-aqua-energie-anti-allergen-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-in-built-heater-silver/p/itmcd906b09f5c60?pid=WMNGAM87YUAQYURE&lid=LSTWMNGAM87YUAQYURE4G9V5D&marketplace=FLIPKART&q=ELENA+ZSS+6510&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=bd34bb76-222e-4f4c-afb0-f3aa2faf65bf.WMNGAM87YUAQYURE.SEARCH&ppt=sp&ppn=sp&ssid=skl7k9uy0g0000001693472696590&qH=b28d6a0d8a82530e"
-      }
-    },
-    {
-      productName: "IFB 6.5 Kg 5 Star Front Load Washing Machine 2X Power Steam (SENORITA SXS 6510, Silver & Black, In-built Heater, 4 years Comprehensive Warranty)",
-      productImage: {
-        url: "https://m.media-amazon.com/images/I/61mAsRm2K1L._SY741_.jpg",
-        alt: "Washing Machine Photo"
-      },
-      rating: "8.4",
-      highlights: [
-        "Fully-automatic Front load washing machine: Best Wash Quality, Energy and Water efficient",
-        "Capacity 6.5 Kg: Suitable for small families / singles & couples",
-        "Energy Rating 5 Star: Best in class efficiency",
-        "TRISHIELD PROTECTION : IFB washers come with India’s best warranty 4 Years Comprehensive Warranty + 10 years Motor Warranty + 10 years Spares Support",
-        "1000 RPM: higher spin speeds helps in faster drying",
-        "10 Wash Programmes: Cradlewash for Delicates, Baby Wear, Mixed/Daily/Soiled, Cotton Normal, Synthetic, Express Wash, Cotton Eco Plus, Woollens, Spin Dry/Drain, Rinse+Spin, Panel - Smart LED Lit Programme Selector Knob, Digital Display",
-        "Built with innovative stainless steel crescent moon drum design that creates a gentle water cushion, preventing damage to fabrics & optimally placed holes provide the mechanical action required to get the desired wash results.",
-        "Key Features: Power Dual Steam Cycle for Power Cleaning, Aqua Energue Device for Water Softening, Better Detergent Action & Color Protection, Cradle Wash for Delicates, Time Saver: Saves Water, Power, Detergent & Time, Laundry Add, Quick Express Wash",
-        "Inbuilt Heater Temperature Range: Hot, Warm, Cold, Self Diagnosis, Program Memory Back up, Child Lock, High-Low Voltage Protection, Auto Imbalance Control, Protective Rat Mesh, Foam Detection, Auto Restart, Auto Tub Clean, Anti Rust proof body, Silent Operation",
-        "Included in the Box: Washing machine, drain hose, inlet pipe, user manual+Warranty card, Clip ring, Screw Fitting, Protective rat mash cover"
-      ],
-      specs: {
-        brand: "IFB",
-        type: "Front Load",
-        capacity: "6.5 Kg",
-        tubType: "Stainless Steel",
-        functionType: "Fully Automatic",
-        weight: "60 Kg",
-        rotationSpeed: "1000 RPM"
-      },
-      specialFeatures: "Child Lock, Auto Restart, High-Low Voltage Protection, Aqua Energie, Cradle Wash for Delicates, Protective Rat Mesh, Foam Detection, Time Saver, 2x Power Dual Steam, Stainless Steel Crescent Moon Drum, Auto Imbalance Control, Inbuilt Heater, Self Diagnosis",
-      videoReview: {
-        title: "",
-        id: ""
-      },
-      stores: {
-        amazon: "https://www.amazon.in/IFB-Automatic-SENORITA-SXS-6510/dp/B09QM4NT19/ref=sr_1_16?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693471263&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-16&th=1",
-        flipkart: "https://www.flipkart.com/ifb-6-5-Kg-steam-wash-hard-water-active-color-protection-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-silver/p/itm6aeb4d2a58fe6?pid=WMNGAM87GSNGWJER&lid=LSTWMNGAM87GSNGWJERR2JN2J&marketplace=FLIPKART&q=SENORITA+SXS+6510&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=4af648e8-2b42-4822-b1c4-fa85c45b087e.WMNGAM87GSNGWJER.SEARCH&ppt=pp&ppn=pp&ssid=rk8c9tnqhs0000001693472778863&qH=620d447f34e941b7"
       }
     },
     {
@@ -307,7 +230,6 @@ export const data = [
         "Included in the Box: Washing machine, drain hose, inlet pipe, user manual+Warranty card, Clip ring, Screw Fitting, Protective rat mash cover"
       ],
       specs: {
-        brand: "IFB",
         type: "Front Load",
         capacity: "7 Kg",
         tubType: "Stainless Steel",
@@ -321,7 +243,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/IFB-NEO-DIVA-VXS-7010/dp/B09R72WXSS/ref=sr_1_21?crid=K5HN6DYSGS9X&keywords=washing%2Bmachines&qid=1693472854&refinements=p_72%3A1318476031%2Cp_36%3A3000000-3500000&rnid=5271547031&sprefix=washing%2B%2Caps%2C577&sr=8-21&th=1",
+        amazon: "https://amzn.to/482UROQ",
         flipkart: "https://www.flipkart.com/ifb-7-Kg-steam-wash-aqua-energie-anti-allergen-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm0e243d537ca95?pid=WMNGAM87UHG237MK&lid=LSTWMNGAM87UHG237MKG5BCBV&marketplace=FLIPKART&q=NEO+DIVA+VXS+7010&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=156657b5-70b4-4969-a454-3ff91e874ad7.WMNGAM87UHG237MK.SEARCH&ppt=sp&ppn=sp&ssid=1cmju97bxc0000001693472901249&qH=152abfa9b17d6431"
       }
     },
@@ -340,7 +262,6 @@ export const data = [
         "6.5 Kg"
       ],
       specs: {
-        brand: "LG",
         type: "Front Load",
         capacity: "6.5 Kg",
         tubType: "Stainless Steel",
@@ -373,7 +294,6 @@ export const data = [
         "1200 RPM: Higher spin speeds helps in faster drying"
       ],
       specs: {
-        brand: "Samsung",
         type: "Front Load",
         capacity: "7 Kg",
         tubType: "Stainless Steel",
@@ -387,7 +307,7 @@ export const data = [
         id: ""
       },
       stores: {
-        amazon: "https://www.amazon.in/Samsung-Digital-Inverter-Fully-Automatic-WW70T4020CX1TL/dp/B09QM5H7XK/ref=sr_1_1?crid=3BU92EBM9QMP4&keywords=WW70T4020CX1TL&qid=1693474363&sprefix=ww70t4020cx1tl%2Caps%2C199&sr=8-1&th=1",
+        amazon: "https://amzn.to/44zigEF",
         flipkart: "https://www.flipkart.com/samsung-7-Kg-fully-automatic-front-load-washing-machine-in-built-heater-black/p/itm81fecceb96aca?pid=WMNGARPYDJHXYRYU&lid=LSTWMNGARPYDJHXYRYUI0B3XW&marketplace=FLIPKART&q=washing+machhines&store=j9e%2Fabm%2F8qx&srno=s_1_18&otracker=search&otracker1=search&fm=Search&iid=en_ua2d6XUOKEm7CYY4hu_WWeSClA-0jgdPTlBT7-6nqsKdicbCkRsrBHbY-OOnuq42i6O2nlPNJAFxn6CktdA9hQ%3D%3D&ppt=sp&ppn=sp&qH=42676251d7054dc2"
       }
     }

@@ -34,7 +34,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Semi Automatic-WT60R2000LL-TL-technology/dp/B08FMN5ZQM/ref=sr_1_3?crid=37AUR0JWSF03C&keywords=washing+machines&qid=1693367815&refinements=p_36%3A5271572031%2Cp_72%3A1318476031%2Cp_n_format_browse-bin%3A13462099031&s=kitchen&sprefix=wasing+machine%2Caps%2C253&sr=1-3",
+        "https://amzn.to/45wCal0",
       flipkart:
         "https://www.flipkart.com/samsung-6-Kg-5-star-air-turbo-drying-Semi Automatic-top-load-washing-machine-white-grey-purple/p/itmc4c87248a9a26?pid=WMNFUGBCYDGMKE74&lid=LSTWMNFUGBCYDGMKE74FUYZ3U&marketplace=FLIPKART&q=Samsung+6+Kg%2C+5+star%2C+Semi Automatic+Washing+Machine+%28WT60R2000LL%2FTL%2C+Air+Turbo+Drying%2C+LIGHT+GRAY%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=cd19d7c5-9687-4cee-95cb-e70f4f218fba.WMNFUGBCYDGMKE74.SEARCH&ppt=hp&ppn=homepage&ssid=z9w8boz8ow0000001693367913609&qH=f1b5687e3a6df0ed",
     },
@@ -107,7 +107,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Whirlpool-SUPERB-ATOM-GREY-DAZZLE/dp/B07WGD8QQT/ref=sr_1_4?crid=37AUR0JWSF03C&keywords=washing%2Bmachines&qid=1693367815&refinements=p_36%3A5271572031%2Cp_72%3A1318476031%2Cp_n_format_browse-bin%3A13462099031&s=kitchen&sprefix=wasing%2Bmachine%2Caps%2C253&sr=1-4&th=1",
+        "https://amzn.to/48btwu6",
       flipkart:
         "https://www.flipkart.com/whirlpool-7-Kg-5-star-turbo-scrub-technology-Semi Automatic-top-load-washing-machine-grey/p/itm82ee7ce49e04c?pid=WMNFH8WMMYH8WVAQ&lid=LSTWMNFH8WMMYH8WVAQ3WTUET&marketplace=FLIPKART&q=Whirlpool+7+Kg+5+Star+Superb+Atom+Semi Automatic+Top+Loading+Washing+Machine+%28SUPERB+ATOM+70I+Grey+Dazzle%2C+TurboScrub+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=027ce6ed-984a-4582-9bb9-e85bb6249c02.WMNFH8WMMYH8WVAQ.SEARCH&ppt=sp&ppn=sp&ssid=ic1oiamlw00000001693368497469&qH=680fdf0493839680",
     },
@@ -146,7 +146,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Whirlpool-Semi Automatic-SUPERB-ATOM-60I/dp/B083G1WGLF/ref=sr_1_5?crid=37AUR0JWSF03C&keywords=washing%2Bmachines&qid=1693367815&refinements=p_36%3A5271572031%2Cp_72%3A1318476031%2Cp_n_format_browse-bin%3A13462099031&s=kitchen&sprefix=wasing%2Bmachine%2Caps%2C253&sr=1-5&th=1",
+        "https://amzn.to/3L6OoIZ",
       flipkart:
         "https://www.flipkart.com/whirlpool-6-Kg-5-star-turbo-scrub-technology-Semi Automatic-top-load-washing-machine-grey/p/itmb6b736202c98b?pid=WMNFZC36AEHYZCEZ&lid=LSTWMNFZC36AEHYZCEZ6FXJFN&marketplace=FLIPKART&q=Whirlpool+6+Kg+5+Star+Superb+Atom+Semi Automatic+Top+Loading+Washing+Machine+%28SUPERB+ATOM+60I%2C+Grey+Dazzle%2C+TurboScrub+Technology%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&iid=65f89597-36b6-4b25-ae71-e56bcc6cee3c.WMNFZC36AEHYZCEZ.SEARCH&ssid=jcbfleqd5s0000001693390990109&qH=c54f09e6a41660b8",
     },
@@ -321,7 +321,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Onida-Semi Automatic-Loading-Washing-S70OIB/dp/B08C7RK6TJ/ref=sr_1_3?keywords=ONIDA+7.5+Kg+5+star+Semi+Automatic+Top+Load+Washing+Machine+Blue%2C+White+%28S75TIB%29&qid=1693369799&s=kitchen&sr=1-3",
+        "https://amzn.to/3sFXYfH",
       flipkart: "",
     },
   },
@@ -356,7 +356,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Onida-Semi Automatic-Loading-Washing-S75TIB/dp/B0963R8D3Z/ref=sr_1_1?keywords=ONIDA+7.5+Kg+5+star+Semi+Automatic+Top+Load+Washing+Machine+Blue%2C+White+%28S75TIB%29&qid=1693369799&s=kitchen&sr=1-1",
+        "https://amzn.to/3qWXO2M",
       flipkart:
         "https://www.flipkart.com/onida-7-5-Kg-5-star-Semi Automatic-top-load-washing-machine-blue-white/p/itm8b3d46f8fc457?pid=WMNG4RH2A5ES8JKZ&lid=LSTWMNG4RH2A5ES8JKZOA2WKU&marketplace=FLIPKART&q=Onida+7.5+Kg+5+Star+Semi Automatic+Top+Loading+Washing+Machine+%28S75TIB%2C+Blue%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=fcf9e08b-1720-47ec-95fc-af33e77ace8a.WMNG4RH2A5ES8JKZ.SEARCH&ppt=sp&ppn=sp&ssid=u38dihfjgw0000001693370469778&qH=04a28a5c5ba65217",
     },

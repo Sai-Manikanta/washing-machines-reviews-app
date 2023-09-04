@@ -15,7 +15,6 @@ export const data = [
       "Wash Programs: 10",
     ],
     specs: {
-      brand: "Samsung",
       type: "Front Load",
       capacity: "6 Kg",
       tubType: "Stainless Steel",
@@ -30,7 +29,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Fully-Automatic-Loading-WW60R20GLMA-TL/dp/B084LGQKD7/ref=sr_1_3?keywords=washing%2Bmachines&qid=1693373564&refinements=p_72%3A1318476031%2Cp_n_feature_sixteen_browse-bin%3A2753055031%2Cp_36%3A2000000-2500000&rnid=5271547031&s=kitchen&sr=1-3&th=1",
+        "https://amzn.to/3R2TaLp",
       flipkart:
         "https://www.flipkart.com/samsung-6-Kg-inverter-5-star-hygiene-steam-digital-inverter-fully-automatic-front-load-washing-machine-in-built-heater-silver/p/itmbe741e42ffe68?pid=WMNFU5XFAYQANNBZ&lid=LSTWMNFU5XFAYQANNBZHZTBVS&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_unHuqEzcdlLtahPsBwid33Y7ZsN6KZErrWqEKS-hZKFUisZa6j7Xez9stLOFpuObU06zdN3Rt25rXcARiPY4ZA%3D%3D&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -51,7 +50,6 @@ export const data = [
       "2 years comprehensive warranty on the product, 20 years warranty on the DIT Motor",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -65,7 +63,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-EcobubbleTM-Automatic-WA70BG4542BYTL_Lavender-technology/dp/B0BJ2Z6JVS/ref=sr_1_1_sspa?keywords=washing%2Bmachines&qid=1693373564&refinements=p_72%3A1318476031%2Cp_n_feature_sixteen_browse-bin%3A2753055031%2Cp_36%3A2000000-2500000&rnid=5271547031&s=kitchen&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "https://amzn.to/3R6WO6V",
       flipkart:
         "https://www.flipkart.com/samsung-7-Kg-5-star-ecobubble-wi-fi-digital-inverter-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm0484e1b609cf4?pid=WMNGGUWZU2HZGVQX&lid=LSTWMNGGUWZU2HZGVQXQRQY6M&marketplace=FLIPKART&q=Samsung+7+Kg+5+Star+Ecobubble%E2%84%A2+Wi-Fi%2C+Inverter+Fully+Automatic+Top+Load+Washing+Machine+%28WA70BG4542BYTL_Lavender+Gray%29%2C+Bubble+Storm+technology&store=j9e%2Fabm%2F8qx&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cbad4a7c-4e47-4f1b-b7fb-48889452cf07.WMNGGUWZU2HZGVQX.SEARCH&ppt=sp&ppn=sp&ssid=545xhu0heo0000001693373984787&qH=7396a17359263d1c",
     },
@@ -85,7 +83,6 @@ export const data = [
       "6 Kg",
     ],
     specs: {
-      brand: "IFB",
       type: "Front Load",
       capacity: "6 Kg",
       tubType: "Stainless Steel",
@@ -114,7 +111,6 @@ export const data = [
     rating: "8.0",
     highlights: ["Anti Tangle; Anti Bacteria; Touch Control"],
     specs: {
-      brand: "Bosch",
       type: "Front Load",
       capacity: "6.5 Kg",
       tubType: "Stainless Steel",
@@ -129,7 +125,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Bosch-1000RPM-INVERTER-Automatic-WLJ2006EIN/dp/B08SR3GJRS/ref=sr_1_1?keywords=BOSCH+6.5+Kg+Drive+Motor%2C+Anti+Tangle%2C+Anti+Vibration+Fully+Automatic+Front+Load+Washing+Machine+with+In-built+Heater+White+%28WLJ2006EIN%29&qid=1693374556&s=kitchen&sr=1-1",
+        "https://amzn.to/3sMG4aM",
       flipkart:
         "https://www.flipkart.com/bosch-6-5-Kg-drive-motor-anti-tangle-vibration-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm342fa99fe8f72?pid=WMNFZBM8NZQJRWEP&lid=LSTWMNFZBM8NZQJRWEPUX1AVZ&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=6fe2e240-9f3f-4afa-b900-b4344e7004c9.WMNFZBM8NZQJRWEP.SEARCH&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -155,7 +151,6 @@ export const data = [
       "Also Included in the Box: 1 Washer unit, 1 User Manual, 1 Warranty Card, Inlet Pipe: 1.5 meters, Outlet Pipe: 0.8 meter",
     ],
     specs: {
-      brand: "Panasonic",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -169,7 +164,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Panasonic-Fully-Automatic-Loading-NA-F70A10LRB-Compatible/dp/B0B8JRF883/ref=sr_1_1?crid=1ELDP4NBI6L0M&keywords=Panasonic%2B7%2BKg%2BWifi%2BSmart%2BWashing%2BMachine%2BFully%2BAutomatic%2BTop%2BLoad%2BSilver%2B(NA-F70A10LRB)&qid=1693374709&s=kitchen&sprefix=%2Ckitchen%2C261&sr=1-1&th=1",
+        "https://amzn.to/45Br8em",
       flipkart:
         "https://www.flipkart.com/panasonic-7-Kg-wifi-smart-washing-machine-fully-automatic-top-load-silver/p/itmb622f8813d5cc?pid=WMNGGUVZXCJ2HGZZ&lid=LSTWMNGGUVZXCJ2HGZZ9VXMTY&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_unHuqEzcdlLtahPsBwid33Y7ZsN6KZErrWqEKS-hZKF8GfbKQSUI5Gj-e4knc3y9nXNE-uJwMPnAV9cCLF6Uzg%3D%3D&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -190,7 +185,6 @@ export const data = [
       "Hard Water Wash Unique hard water wash program that gives better dirt and stain removal even in hard water conditions.",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "9 Kg",
       tubType: "Plastic",
@@ -204,7 +198,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Whirlpool-Bloomwash-Fully-Automatic-Loading-Washing/dp/B0C43LH7TH/ref=sr_1_7?keywords=washing%2Bmachines&qid=1693373564&refinements=p_72%3A1318476031%2Cp_n_feature_sixteen_browse-bin%3A2753055031%2Cp_36%3A2000000-2500000&rnid=5271547031&s=kitchen&sr=1-7&th=1",
+        "https://amzn.to/3Z2CGos",
       flipkart:
         "https://www.flipkart.com/whirlpool-9-Kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itmb2b943205e2fd?pid=WMNGZVMVGJHNXRP6&lid=LSTWMNGZVMVGJHNXRP6VEYOUY&marketplace=FLIPKART&q=Whirlpool+9+Kg+5+Star+Bloomwash+Pro+Fully-Automatic+Top+Loading+Washing+Machine+-+Built+In+Heater+%28360+BW+PRO+%28570%29+H+9.0+MIDNIGHT+GREY+10YMW%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=085d823c-bbec-46a7-95ab-6315152aae7f.WMNGZVMVGJHNXRP6.SEARCH&ppt=sp&ppn=sp&ssid=dpo131x4w00000001693374946326&qH=4057d54c41f8e5e1",
     },
@@ -224,7 +218,6 @@ export const data = [
       "6 Kg",
     ],
     specs: {
-      brand: "BOSCH",
       type: "Front Load",
       capacity: "6 Kg",
       tubType: "Stainless Steel",
@@ -264,7 +257,6 @@ export const data = [
       "Included in the Box: Washing machine, drain hose, inlet pipe, user manual+Warranty card, Clip ring, Screw Fitting, Protective rat mash cover",
     ],
     specs: {
-      brand: "IFB",
       type: "Front Load",
       capacity: "6 Kg",
       tubType: "Stainless Steel",
@@ -280,7 +272,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/IFB-DIVA-AQUA-GBS-6010/dp/B0CB1FS1WR/ref=sr_1_2?keywords=washing%2Bmachines&qid=1693373564&refinements=p_72%3A1318476031%2Cp_n_feature_sixteen_browse-bin%3A2753055031%2Cp_36%3A2000000-2500000&rnid=5271547031&s=kitchen&sr=1-2&th=1",
+        "https://amzn.to/3YZK4AZ",
       flipkart:
         "https://www.flipkart.com/ifb-7-Kg-5-star-2x-power-steam-hard-water-wash-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmae1b351a1f461?pid=WMNGHHY8GKAFTKKZ&lid=LSTWMNGHHY8GKAFTKKZXIT3UJ&marketplace=FLIPKART&q=IFB+6+Kg+5+Star+Front+Load+Washing+Machine+2X+Power+Steam+%28DIVA+AQUA+GBS+6010%2C+2023+Model%2C+Grey%2C+In-built+Heater%2C+4+years+Comprehensive+Warranty%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=91c389e3-82ab-476f-85fd-d652a8a99fc4.WMNGHHY8GKAFTKKZ.SEARCH&ppt=sp&ppn=sp&ssid=rwdu6cucls0000001693378337367&qH=180ab900b990667d",
     },
@@ -306,12 +298,12 @@ export const data = [
       "Special Features: WiFi Embedded, SmartThings App Support, Eco Bubble Technology, BubbleStorm, Dual Storm, Soft Closing Door, Delay End, Smart Control, Smart Check, Water Level : 10 Levels, Auto Restart, Rat Protection, Rust-proof Body, Tempered Glass Window, Child Lock, Monsoon",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "9 Kg",
       tubType: "Stainless Steel",
       functionType: "Fully Automatic",
       weight: "29 Kg 500 g",
+      rotationSpeed: "",
     },
     specialFeatures: "Inverter, Water Level 10.00",
     videoReview: {
@@ -320,7 +312,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Fully-Automatic-Ecobubble-WA90BG4542BDTL-technology/dp/B0B8NHPWZF/ref=sr_1_8?keywords=washing%2Bmachines&qid=1693373564&refinements=p_72%3A1318476031%2Cp_n_feature_sixteen_browse-bin%3A2753055031%2Cp_36%3A2000000-2500000&rnid=5271547031&s=kitchen&sr=1-8&th=1",
+        "https://amzn.to/3sH9gQH",
       flipkart:
         "https://www.flipkart.com/samsung-9-Kg-5-star-ecobubble-wi-fi-digital-inverter-fully-automatic-top-load-washing-machine-grey/p/itm33fa5f2e01d9a?pid=WMNGGUWZNN6FRA5Z&lid=LSTWMNGGUWZNN6FRA5ZDJRBHW&marketplace=FLIPKART&q=Samsung+9+Kg%2C+5+star%2C+Eco+Bubble+Technology%2C+Wi-Fi%2C+Digital+Inverter+Motor%2C+Dual+Storm%2C+Fully-Automatic+Top+Load+Washing+Machine+%28WA90BG4542BDTL%2C+Versailles+Gray%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=6801abf9-6d05-449f-8db2-95b2b570d31d.WMNGGUWZNN6FRA5Z.SEARCH&ppt=sp&ppn=sp&ssid=t5968q8kzk0000001693378889240&qH=04e6a9f394ac764c",
     },
@@ -341,12 +333,12 @@ export const data = [
       "Normal: Option To Clear Stain-Removal Concern, Gentle (Wool Saree), Duvet, Strong Wave, Aqua Reserve Capacity 9 Kg: Suitable For Large Families",
     ],
     specs: {
-      brand: "LG",
       type: "Top Load",
       capacity: "9 Kg",
       tubType: "Stainless Steel",
       functionType: "Fully Automatic",
-      weight: "7 Kg 720 g",
+      weight: "35.5 Kg",
+      rotationSpeed: "",
     },
     specialFeatures: "Inverter, Child Lock, Time Remaining Display, TurboDrum",
     videoReview: {
@@ -355,12 +347,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/LG-Inverter-Fully-Automatic-THD09NPF-Technology/dp/B0BD8ZGBD3/ref=sr_1_17?keywords=washing%2Bmachines&qid=1693379942&refinements=p_72%3A1318476031%2Cp_36%3A2500000-3000000&rnid=5271547031&s=kitchen&sr=1-17&th=1",
+        "https://amzn.to/3L85Lco",
       flipkart:
         "https://www.flipkart.com/lg-9-Kg-fully-automatic-top-load-washing-machine-silver/p/itme8dc8cac3273f?pid=WMNGZDPCGA8GNMNG&lid=LSTWMNGZDPCGA8GNMNG7P5DT2&marketplace=FLIPKART&q=LG+9+Kg+5+Star+Inverter+Fully-Automatic+Top+Load+Washing+Machine+%28THD09NPF%2C+Middle+Free+Silver%2C+AIDD+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=TrendingId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=074b8fd2-91fe-43f1-ad7e-cd960ce775c9.WMNGZDPCGA8GNMNG.SEARCH&ppt=sp&ppn=sp&ssid=h9475abozk0000001693380097722&qH=fa48eec9b449f68c",
     },
   },
 ];
-
-//https://www.amazon.in/LG-Inverter-Fully-Automatic-Loading-T80SJMB1Z/dp/B08DF1RHFZ/ref=sr_1_2?crid=25CXBTC4BD7ET&keywords=T80SJSF1Z&qid=1693651954&sprefix=t80sjsf1z%2Caps%2C281&sr=8-2&th=1
-//https://www.flipkart.com/lg-8-kg-jet-sprey-auto-pre-wash-smart-diagnosis-closing-door-10-water-levels-fully-automatic-top-load-washing-machine-silver/p/itm1cd6375748864?pid=WMNFTW2TSVJY5UF8&lid=LSTWMNFTW2TSVJY5UF8MWMAHR&marketplace=FLIPKART&q=washing+machine&store=j9e%2Fabm%2F8qx&srno=s_4_93&otracker=AS_QueryStore_OrganicAutoSuggest_2_9_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_2_9_na_na_na&fm=search-autosuggest&iid=b5a83e10-0b0c-4361-b603-558dfc1d7ae2.WMNFTW2TSVJY5UF8.SEARCH&ppt=sp&ppn=sp&qH=b3522a5e7056c9c0

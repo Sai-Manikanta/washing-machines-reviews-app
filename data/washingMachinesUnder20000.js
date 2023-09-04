@@ -32,7 +32,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Whirlpool-Fully-Automatic-WHITEMAGIC-ELITE-10YMW/dp/B07NSRNF79/ref=sr_1_3?crid=3EJT810Y6ZIGF&keywords=Whirlpool+7.5+Kg+5+Star+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ELITE+7.5%2C+Grey%2C+Hard+Water+Wash%29&qid=1690177795&sprefix=whirlpool+7.5+Kg+5+star+fully-automatic+top+loading+washing+machine+whitemagic+elite+7.5%2C+grey%2C+hard+water+wash+%2Caps%2C215&sr=8-3",
+        "https://amzn.to/47YkVL6",
       flipkart: "",
     },
   },
@@ -54,7 +54,6 @@ export const data = [
       "Included In The Box: 1N Machine Unit, N1 User Manual, 1N Installation Guide",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "7 Kg ",
       tubType: "Stainless Steel",
@@ -69,7 +68,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Fully-Automatic-WA70A4002GS-TL-Imperial/dp/B08GXYZFNB/ref=sr_1_3?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690185916&refinements=p_36%3A5271574031&rnid=5271547031&s=kitchen&sr=1-3&th=1",
+        "https://amzn.to/47YZBVE",
       flipkart:
         "https://www.flipkart.com/samsung-7-Kg-3-star-fully-automatic-top-load-washing-machine-silver/p/itm45d6cd26e5975?pid=WMNFV6ZYYAEZX6HM&lid=LSTWMNFV6ZYYAEZX6HMNJZL4B&marketplace=FLIPKART&q=Samsung+7+Kg+Fully-Automatic+Top+Loading+Washing+Machine+%28WA70A4002GS%2FTL%2C+Imperial+Silver%2C+Diamond+drum%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=4d41614c-1e9a-4b1e-8b9a-f0ce68203950.WMNFV6ZYYAEZX6HM.SEARCH&ppt=sp&ppn=sp&ssid=vry6k11iyo0000001690185949214&qH=fdadff181abb5d2e",
     },
@@ -89,7 +88,6 @@ export const data = [
       "Wash Programs: 9",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "6.5 Kg",
       tubType: "Stainless Steel",
@@ -104,7 +102,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA65T4262GG-TL/dp/B0861C4YCG/ref=sr_1_2_sspa?crid=2CVUZLAB1LOFJ&keywords=Whirlpool%2B7%2BKg%2BMagic%2BClean%2B5%2BStar%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BGrey%2B(MAGIC%2BCLEAN%2B7.0%2BGENX%2BGREY%2B5YMW)&qid=1690189528&s=kitchen&sprefix=whirlpool%2B7%2BKg%2Bmagic%2Bclean%2B5%2Bstar%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bgrey%2Bmagic%2Bclean%2B7.0%2Bgenx%2Bgrey%2B5ymw%2B%2Ckitchen%2C288&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "https://amzn.to/3Z4bPbt",
       flipkart: "",
     },
   },
@@ -124,7 +122,6 @@ export const data = [
       "Also Included In The Box: 1 Washing Machine, 1 Anti Rat Cover, 1 Owners Manual,Ot Hose,Drain Hose,Qrg,Detergent Powder(200Gm Packet)",
     ],
     specs: {
-      brand: "LG ",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -139,7 +136,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/LG-Inverter-Fully-Automatic-Loading-T70SKSF1Z/dp/B08DF1Y7T7/ref=sr_1_5?keywords=best+washing+machine+under+20000&qid=1690185916&refinements=p_36%3A5271574031&rnid=5271547031&s=kitchen&sr=1-5",
+        "https://amzn.to/3Pq2ms6",
       flipkart:
         "https://www.flipkart.com/lg-7-Kg-smart-diagnosis-inverter-fully-automatic-top-load-washing-machine-silver/p/itm4b6f044047234?pid=WMNFUBJFUZHQGFPZ&lid=LSTWMNFUBJFUZHQGFPZX0OQTY&marketplace=FLIPKART&q=LG+7+Kg+5+Star+Inverter+TurboDrum+Fully+Automatic+Top+Loading+Washing+Machine+%28T70SKSF1Z%2C+Waterfall+Circulation%2C+Smart+Motion%2C+Middle+Free+Silver%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=14385621-b0d6-4652-bc9c-e6bfe34f6dab.WMNFUBJFUZHQGFPZ.SEARCH&ppt=sp&ppn=sp&ssid=9ki84ym4u80000001690191647058&qH=00597031961e3e92",
     },
@@ -165,7 +162,6 @@ export const data = [
       "Special Features: Eco Bubble Technology, BubbleStorm, Dual Storm, Soft Closing Door, Delay End, Water Level : 5 Levels, Auto Restart, Rat Protection, Rust-proof Body, Tempered Glass Window, Child Lock",
     ],
     specs: {
-      brand: "SAMSUNG",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -180,7 +176,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Samsung-Inverter-Fully-Automatic-WA70BG4441YYTL-Technology/dp/B0B8NHX62W/ref=sr_1_4?keywords=best%2Bwashing%2Bmachine%2Bunder%2B20000&qid=1690192098&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sr=1-4&th=1",
+        "https://amzn.to/3qXrFYT",
       flipkart:
         "https://www.flipkart.com/samsung-7-Kg-5-star-eco-bubble-technology-digital-inverter-motor-dual-storm-fully-automatic-top-load-washing-machine-grey/p/itmfad620b791ea9?pid=WMNGGUWZK6VEQPXD&lid=LSTWMNGGUWZK6VEQPXDBGVOA0&marketplace=FLIPKART&q=Samsung+7+Kg%2C+5+star%2C+Eco+Bubble+Technology%2C+Digital+Inverter+Motor%2C+Dual+Storm%2C+Fully-Automatic+Top+Load+Washing+Machine+%28WA70BG4441YYTL%2C+Lavender+Gray%29&store=j9e%2Fabm&spotlightTagId=BestsellerId_j9e%2Fabm&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=bcb024c8-1934-4924-b14d-1c6fe285f60a.WMNGGUWZK6VEQPXD.SEARCH&ppt=sp&ppn=sp&ssid=xj6ggjpq1s0000001690192155582&qH=b3b7136548262b38",
     },
@@ -205,7 +201,6 @@ export const data = [
       "Drum: Steel | Body Material : Stainless Steel",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Loading",
       capacity: "6.5 Kg",
       tubType: "Stainless Steel",
@@ -220,7 +215,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Whirlpool-6-5-Fully-Automatic-STAINWASH-PRO/dp/B084CM7DT2/ref=sr_1_23?keywords=best+washing+machine+under+20000&qid=1690193757&refinements=p_36%3A5271574031%2Cp_n_format_browse-bin%3A13462099031%2Cp_72%3A1318476031&rnid=1318475031&s=kitchen&sr=1-23",
+        "https://amzn.to/3LaHu5r",
       flipkart:
         "https://www.flipkart.com/whirlpool-6-5-Kg-5-star-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm065aad7f07d32?pid=WMNFZZ6JAC3CFTMH&lid=LSTWMNFZZ6JAC3CFTMHD2HXXH&marketplace=FLIPKART&q=Whirlpool+6.5+Kg+4+Star+StainWash+Fully-Automatic+Top+Loading+Washing+Machine+%28STAINWASH+PRO+H+6.5%2C+Shiny+Grey%2C+In-Built+Heater%29&store=j9e%2Fabm%2F8qx&spotlightTagId=TrendingId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=d4330c52-a290-4945-bb3a-bd9965e93f13.WMNFZZ6JAC3CFTMH.SEARCH&ppt=sp&ppn=sp&ssid=de4x4urhio0000001690193797047&qH=145ef658dd1aff37",
     },
@@ -241,7 +236,6 @@ export const data = [
       "Installation Type: Free Standing",
     ],
     specs: {
-      brand: "IFB",
       type: "Top Load",
       capacity: "6.5 Kilograms",
       tubType: "Stainless Steel",
@@ -257,7 +251,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/IFB-6-5-Fully-Automatic-Loading-REW/dp/B084R6N14J/ref=sr_1_1?crid=2O16VWZRTW6HH&keywords=IFB%2B7%2BKg%2B5%2BStar%2BAqua%2BConserve%2BHard%2BWater%2BWash%2C%2BSmart%2BSense%2B4%2Byears%2BComprehensive%2BWarranty%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BGrey%2B(TL%2BRES%2B7.0%2BKg%2BAqua)&qid=1693467566&refinements=p_36%3A1500000-2000000&rnid=5271547031&sprefix=ifb%2B7%2BKg%2B5%2Bstar%2Baqua%2Bconserve%2Bhard%2Bwater%2Bwash%2C%2Bsmart%2Bsense%2B4%2Byears%2Bcomprehensive%2Bwarranty%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bgrey%2Btl%2Bres%2B7.0%2BKg%2Baqua%2B%2Caps%2C190&sr=8-1&th=1",
+        "https://amzn.to/45ChlVh",
       flipkart: "",
     },
   },
@@ -282,7 +276,6 @@ export const data = [
       "Inlet Pipe: 1.5 meters, Outlet Pipe: 0.8 meter",
     ],
     specs: {
-      brand: "Panasonic",
       type: "Top Load",
       capacity: "6.7 Kilograms",
       tubType: "Stainless Steel",
@@ -297,7 +290,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Panasonic-Fully-Automatic-Loading-Washing-NA-F67BH8MRB/dp/B07W94JJH2/ref=sr_1_3_sspa?crid=2O16VWZRTW6HH&keywords=IFB%2B7%2BKg%2B5%2BStar%2BAqua%2BConserve%2BHard%2BWater%2BWash%2C%2BSmart%2BSense%2B4%2Byears%2BComprehensive%2BWarranty%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BGrey%2B(TL%2BRES%2B7.0%2BKg%2BAqua)&qid=1693467566&refinements=p_36%3A1500000-2000000&rnid=5271547031&sprefix=ifb%2B7%2BKg%2B5%2Bstar%2Baqua%2Bconserve%2Bhard%2Bwater%2Bwash%2C%2Bsmart%2Bsense%2B4%2Byears%2Bcomprehensive%2Bwarranty%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bgrey%2Btl%2Bres%2B7.0%2BKg%2Baqua%2B%2Caps%2C190&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&th=1",
+        "https://amzn.to/45sLypP",
       flipkart:
         "https://www.flipkart.com/panasonic-6-7-Kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm30bad78a7d708?pid=WMNG55J2TGCHBYF8&lid=LSTWMNG55J2TGCHBYF8ZHNLJ0&marketplace=FLIPKART&q=Panasonic+6.7+Kg+Built-in+Heater+Fully-Automatic+Top+Loading+Washing+Machine+%28NA-F67BH8MRB%2CMiddle+free+silver%2CActive+Foam+System%29+with+Water+Reuse&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=c74ed15c-e0de-4cb6-a014-6576a3626e91.WMNG55J2TGCHBYF8.SEARCH&ppt=sp&ppn=sp&ssid=9scy7nyp0g0000001693471940805&qH=35cedfc7d8aab9b5",
     },
@@ -322,7 +315,6 @@ export const data = [
       "Also included in box: 1 Unit of Machine, 1 Unit of Drain Hose,1 unit of User Manual",
     ],
     specs: {
-      brand: "Onida",
       type: "Top Load",
       capacity: "8 Kilograms",
       tubType: "Stainless Steel",
@@ -337,7 +329,7 @@ export const data = [
     },
     stores: {
       amazon:
-        "https://www.amazon.in/Automatic-Washing-Machine-T80CMB-Crystal/dp/B0B2RTBFWM/ref=sr_1_1?crid=29A5PES7CB8KB&keywords=ONIDA%2B8%2BKg%2B5%2BStar%2BWith%2BHexa%2BCrystal%2BDrum%2BTechnology%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BBlack%2B(T80CMB)&qid=1693471778&sprefix=onida%2B8%2BKg%2B5%2Bstar%2Bwith%2Bhexa%2Bcrystal%2Bdrum%2Btechnology%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bblack%2Bt80cmb%2B%2Caps%2C241&sr=8-1&th=1",
+        "https://amzn.to/3Pq3oEu",
       flipkart:
         "https://www.flipkart.com/onida-8-Kg-5-star-hexa-crystal-drum-technology-fully-automatic-top-load-washing-machine-black/p/itmea3ba58a6a4d1?pid=WMNGF24DE7BM33NW&lid=LSTWMNGF24DE7BM33NWEECRJH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=3c99f126-085c-464a-9edd-c8ce2d356449.WMNGF24DE7BM33NW.SEARCH&ppt=sp&ppn=sp&ssid=6tcy3sz9ds0000001693467926072&qH=bcadf718d561cab9",
     },
@@ -358,7 +350,6 @@ export const data = [
       "8 Kg",
     ],
     specs: {
-      brand: "realme TechLife",
       type: "Top Load",
       capacity: "8 Kg",
       tubType: "Stainless Steel",

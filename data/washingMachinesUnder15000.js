@@ -19,7 +19,6 @@ export const data = [
       "Drum: Steel | Body Material : Stainless Steel",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -34,9 +33,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Whirlpool-Fully-Automatic-WHITEMAGIC-ROYAL-7-0/dp/B08QP41KBP/ref=sr_1_1?crid=9Q6H6XZHVCNH&keywords=washing%2Bmachines&qid=1693370883&refinements=p_72%3A1318476031%2Cp_36%3A5271573031%2Cp_n_feature_sixteen_browse-bin%3A2753055031&rnid=2753054031&s=kitchen&sprefix=washng%2Bmachine%2Caps%2C263&sr=1-1&th=1",
+        "https://amzn.to/3R6J9wM",
       flipkart:
-        "  https://www.flipkart.com/whirlpool-7-Kg-hard-water-wash-fully-automatic-top-load-washing-machine-grey/p/itmda9428f9a44c8?pid=WMNFYGG2CZMZXG7S&lid=LSTWMNFYGG2CZMZXG7SWLUMXS&marketplace=FLIPKART&q=Whirlpool+7+Kg+5+Star+Royal+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ROYAL+7.0+GENX%2C+Grey%2C+Hard+Water+Wash%2C+ZPF+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=3acbf19b-8d0b-4d0f-81f8-34d472b6ac88.WMNFYGG2CZMZXG7S.SEARCH&ppt=sp&ppn=sp&ssid=v22ik9e0w00000001693370950544&qH=872cd2b1f2fc74dd",
+        "https://www.flipkart.com/whirlpool-7-Kg-hard-water-wash-fully-automatic-top-load-washing-machine-grey/p/itmda9428f9a44c8?pid=WMNFYGG2CZMZXG7S&lid=LSTWMNFYGG2CZMZXG7SWLUMXS&marketplace=FLIPKART&q=Whirlpool+7+Kg+5+Star+Royal+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ROYAL+7.0+GENX%2C+Grey%2C+Hard+Water+Wash%2C+ZPF+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=3acbf19b-8d0b-4d0f-81f8-34d472b6ac88.WMNFYGG2CZMZXG7S.SEARCH&ppt=sp&ppn=sp&ssid=v22ik9e0w00000001693370950544&qH=872cd2b1f2fc74dd",
     },
   },
   {
@@ -60,7 +59,6 @@ export const data = [
       "Also Included in the box: 1 Washer unit, 1 User Manual, 1 Warranty Card, Inlet Pipe: 1.25 meters, Outlet Pipe: 0.8 meter",
     ],
     specs: {
-      brand: "Panasonic",
       type: "Top Load",
       capacity: "6.5 Kg",
       tubType: "Stainless Steel",
@@ -76,9 +74,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Panasonic-Fully-Automatic-Loading-Washing-NA-F65LF2MRB/dp/B09YD879Y4/ref=sr_1_2?crid=9Q6H6XZHVCNH&keywords=washing%2Bmachines&qid=1693370883&refinements=p_72%3A1318476031%2Cp_36%3A5271573031%2Cp_n_feature_sixteen_browse-bin%3A2753055031&rnid=2753054031&s=kitchen&sprefix=washng%2Bmachine%2Caps%2C263&sr=1-2&th=1",
+        "https://amzn.to/44FFSrj",
       flipkart:
-        "  https://www.flipkart.com/panasonic-6-5-Kg-12-wash-programs-active-foam-fully-automatic-top-load-washing-machine-silver/p/itmb27a85d749e11?pid=WMNGEFD6ZGH8CJMF&lid=LSTWMNGEFD6ZGH8CJMFTNJQ9Y&marketplace=FLIPKART&q=Panasonic+6.5+Kg+5+Star+Fully-Automatic+Top+Load+Washing+Machine+%282022+Model%2C+NA-F65LF2MRB%2C+Grey%2C+12+Wash+Program%2C+Active+Foam+Wash+Technology%2C+Antibacterial+Water+Inlet%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=a37a1166-5077-4d28-8fb4-500877fe55df.WMNGEFD6ZGH8CJMF.SEARCH&ppt=pp&ppn=pp&ssid=8r9gcuvpi80000001693371128707&qH=03ee32b12c3bbd76",
+        "https://www.flipkart.com/panasonic-6-5-Kg-12-wash-programs-active-foam-fully-automatic-top-load-washing-machine-silver/p/itmb27a85d749e11?pid=WMNGEFD6ZGH8CJMF&lid=LSTWMNGEFD6ZGH8CJMFTNJQ9Y&marketplace=FLIPKART&q=Panasonic+6.5+Kg+5+Star+Fully-Automatic+Top+Load+Washing+Machine+%282022+Model%2C+NA-F65LF2MRB%2C+Grey%2C+12+Wash+Program%2C+Active+Foam+Wash+Technology%2C+Antibacterial+Water+Inlet%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=a37a1166-5077-4d28-8fb4-500877fe55df.WMNGEFD6ZGH8CJMF.SEARCH&ppt=pp&ppn=pp&ssid=8r9gcuvpi80000001693371128707&qH=03ee32b12c3bbd76",
     },
   },
   {
@@ -101,7 +99,6 @@ export const data = [
       "Additional Features : Aqua Store | Auto Tub Clean | Spiro Wash | ZPF Technology | Express Wash | Low Noise Level",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "6 Kg",
       tubType: "Steel",
@@ -117,9 +114,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Whirlpool-Fully-Automatic-Loading-WHITEMAGIC-Technology/dp/B0C3MHB63Q/ref=sr_1_3?crid=9Q6H6XZHVCNH&keywords=washing%2Bmachines&qid=1693370883&refinements=p_72%3A1318476031%2Cp_36%3A5271573031%2Cp_n_feature_sixteen_browse-bin%3A2753055031&rnid=2753054031&s=kitchen&sprefix=washng%2Bmachine%2Caps%2C263&sr=1-3&th=1",
+        "https://amzn.to/3Z0XjBi",
       flipkart:
-        "  https://www.flipkart.com/whirlpool-6-Kg-hard-water-wash-fully-automatic-top-load-washing-machine-grey/p/itmcb6f9bac28d1a?pid=WMNFYGG2RXGZGGFG&lid=LSTWMNFYGG2RXGZGGFGNIOBC0&marketplace=FLIPKART&q=Whirlpool+6+Kg+5+Star+Royal+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ROYAL+6+GENX%2C+Grey%2C+Hard+Water+Wash%2C+ZPF+Technology%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=9e3572e2-4ccb-46f3-8128-d70782b6aff0.WMNFYGG2RXGZGGFG.SEARCH&ppt=sp&ppn=sp&ssid=9qe28q5q1s0000001693371409333&qH=8a5ad80d5ffa83ff",
+        "https://www.flipkart.com/whirlpool-6-Kg-hard-water-wash-fully-automatic-top-load-washing-machine-grey/p/itmcb6f9bac28d1a?pid=WMNFYGG2RXGZGGFG&lid=LSTWMNFYGG2RXGZGGFGNIOBC0&marketplace=FLIPKART&q=Whirlpool+6+Kg+5+Star+Royal+Fully-Automatic+Top+Loading+Washing+Machine+%28WHITEMAGIC+ROYAL+6+GENX%2C+Grey%2C+Hard+Water+Wash%2C+ZPF+Technology%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=9e3572e2-4ccb-46f3-8128-d70782b6aff0.WMNFYGG2RXGZGGFG.SEARCH&ppt=sp&ppn=sp&ssid=9qe28q5q1s0000001693371409333&qH=8a5ad80d5ffa83ff",
     },
   },
   {
@@ -140,7 +137,6 @@ export const data = [
       "Included In The Box: 1N Machine Unit, N1 User Manual, 1N Installation Guide",
     ],
     specs: {
-      brand: "Samsung",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -155,9 +151,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Samsung-Fully-Automatic-WA70A4002GS-TL-Imperial/dp/B08GXYZFNB/ref=sr_1_1?keywords=SAMSUNG+6.5+Kg+Diamond+Drum+feature+Fully+Automatic+Top+Load+Washing+Machine+Silver+%28WA65A4002VS%2FTL%29&qid=1693371527&s=kitchen&sr=1-1",
+        "https://amzn.to/45XScUM",
       flipkart:
-        "  https://www.flipkart.com/samsung-6-5-Kg-diamond-drum-feature-fully-automatic-top-load-washing-machine-silver/p/itme1ba4fde1563a?pid=WMNFV6ZYDFQFJGT5&lid=LSTWMNFV6ZYDFQFJGT5TJW2UD&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZkbo9-PV74bYEiQlEfRMRqsoSlVdp5y28SO8Fx3FidcdQ%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+        "https://www.flipkart.com/samsung-6-5-Kg-diamond-drum-feature-fully-automatic-top-load-washing-machine-silver/p/itme1ba4fde1563a?pid=WMNFV6ZYDFQFJGT5&lid=LSTWMNFV6ZYDFQFJGT5TJW2UD&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZkbo9-PV74bYEiQlEfRMRqsoSlVdp5y28SO8Fx3FidcdQ%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
     },
   },
   {
@@ -181,7 +177,6 @@ export const data = [
       "Inlet Pipe: 1.25 meters, Outlet Pipe: 0.8 meter",
     ],
     specs: {
-      brand: "Panasonic",
       type: "Top Load",
       capacity: "6 Kg",
       tubType: "Stainless Steel",
@@ -196,9 +191,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Panasonic-Fully-Automatic-Loading-Washing-NA-F60LF1HRB/dp/B08B9756FB/ref=sr_1_1?crid=3D5AITEPW22TP&keywords=Panasonic%2B6%2BKg%2B5%2BStar%2B8%2BWash%2BProgram%2BAquaBeat%2BWash%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2BGrey%2B(NA-F60LF1HRB)&qid=1693372142&s=kitchen&sprefix=panasonic%2B6%2BKg%2B5%2Bstar%2B8%2Bwash%2Bprogram%2Baquabeat%2Bwash%2Bfully%2Bautomatic%2Btop%2Bload%2Bwashing%2Bmachine%2Bgrey%2Bna-f60lf1hrb%2B%2Ckitchen%2C211&sr=1-1&th=1",
+        "https://amzn.to/45YmfeX",
       flipkart:
-        "  https://www.flipkart.com/panasonic-6-Kg-5-star-8-wash-program-aquabeat-fully-automatic-top-load-washing-machine-grey/p/itm909929dc404cc?pid=WMNFSNKN2K2ZAAYH&lid=LSTWMNFSNKN2K2ZAAYHDBW38K&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZnHrvINLLLXghD1_AxYG408xENvsliJs69JP81pJad3Zg%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+        "https://www.flipkart.com/panasonic-6-Kg-5-star-8-wash-program-aquabeat-fully-automatic-top-load-washing-machine-grey/p/itm909929dc404cc?pid=WMNFSNKN2K2ZAAYH&lid=LSTWMNFSNKN2K2ZAAYHDBW38K&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZnHrvINLLLXghD1_AxYG408xENvsliJs69JP81pJad3Zg%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
     },
   },
   {
@@ -217,7 +212,6 @@ export const data = [
       "7 Kg",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -252,7 +246,6 @@ export const data = [
       "7.5 Kg",
     ],
     specs: {
-      brand: "realme TechLife",
       type: "Top Load",
       capacity: "7.5 Kg",
       tubType: "Stainless Steel",
@@ -287,7 +280,6 @@ export const data = [
       "6.5 Kg",
     ],
     specs: {
-      brand: "Whirlpool",
       type: "Top Load",
       capacity: "6.5 Kg",
       tubType: "Stainless Steel",
@@ -321,7 +313,6 @@ export const data = [
       "6.2 Kg",
     ],
     specs: {
-      brand: "ONIDA",
       type: "Top Load",
       capacity: "6.2 Kg",
       tubType: "Stainless Steel",
@@ -356,7 +347,6 @@ export const data = [
       "Wash programs: 8 wash programs",
     ],
     specs: {
-      brand: "Haier",
       type: "Top Load",
       capacity: "7 Kg",
       tubType: "Stainless Steel",
@@ -371,9 +361,9 @@ export const data = [
     },
     stores: {
       amazon:
-        "  https://www.amazon.in/Haier-Automatic-Washing-HWM70-AE-Moonlight/dp/B08ZJHJ5DJ/ref=sr_1_6?crid=9Q6H6XZHVCNH&keywords=washing%2Bmachines&qid=1693372974&refinements=p_72%3A1318476031%2Cp_36%3A5271573031%2Cp_n_feature_sixteen_browse-bin%3A2753055031&rnid=2753054031&s=kitchen&sprefix=washng%2Bmachine%2Caps%2C263&sr=1-6&th=1",
+        "https://amzn.to/3qQCbBn",
       flipkart:
-        "  https://www.flipkart.com/haier-7-Kg-5-star-oceanus-wave-drum-washing-machine-fully-automatic-top-load-brown-grey/p/itm70c0d26236280?pid=WMNGFHFP4WG4PRVR&lid=LSTWMNGFHFP4WG4PRVRNYV3TD&marketplace=FLIPKART&q=Haier+7+Kg+5+Star+Fully+Automatic+Top+Load+Washing+Machine+%282023+Model%2C+HWM70-AE%2C+Oceanus+Wave+Drum%2C+Moon+Light+Grey%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=e0ef035a-3e99-41f6-ae92-f92a957b9e97.WMNGFHFP4WG4PRVR.SEARCH&ppt=sp&ppn=sp&ssid=ad80w8ejuo0000001693373057610&qH=6fbbd885e1af79e2",
+        "https://www.flipkart.com/haier-7-Kg-5-star-oceanus-wave-drum-washing-machine-fully-automatic-top-load-brown-grey/p/itm70c0d26236280?pid=WMNGFHFP4WG4PRVR&lid=LSTWMNGFHFP4WG4PRVRNYV3TD&marketplace=FLIPKART&q=Haier+7+Kg+5+Star+Fully+Automatic+Top+Load+Washing+Machine+%282023+Model%2C+HWM70-AE%2C+Oceanus+Wave+Drum%2C+Moon+Light+Grey%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=e0ef035a-3e99-41f6-ae92-f92a957b9e97.WMNGFHFP4WG4PRVR.SEARCH&ppt=sp&ppn=sp&ssid=ad80w8ejuo0000001693373057610&qH=6fbbd885e1af79e2",
     },
   },
 ];
