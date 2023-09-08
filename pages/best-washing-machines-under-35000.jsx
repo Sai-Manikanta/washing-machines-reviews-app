@@ -20,6 +20,7 @@ export default function bestWashingMachinesUnder40000({ data }) {
         {data?.map((washingMachineData, i) => (
           <ProductCard
             key={i}
+            id={i + 1}
             washingMachineData={{ orderNumber: i + 1, ...washingMachineData }}
           />
         ))}

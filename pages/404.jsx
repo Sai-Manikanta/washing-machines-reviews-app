@@ -1,4 +1,8 @@
+import { useRouter } from 'next/router';
+
 export default function Custom404() {
+  const router = useRouter();
+
   return (
     <div className="h-screen">
       <div className="h-5/6 flex flex-col justify-center items-center">
@@ -209,7 +213,7 @@ export default function Custom404() {
           <p className="text-center text-slate-600 text-center font-medium text-lg mt-1 mb-4 px-6 sm:text-xl md:text-2xl sm:mt-2 md:mt-3 sm:mb-5 md:mb-6">
             Hey Captain! looks like you'r heading to a wrong planet!
           </p>
-          <button className="mx-auto block bg-primary text-white rounded-full px-6 py-2 text-xs font-medium sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl sm:px-7 md:px-8 lg:px-9 xl:px-10 2xl:px-12 sm:py-2 md:py-2 lg:py-2 xl:py-2 2xl:py-2 ">
+          <button onClick={() => router.push('/')} className="mx-auto block bg-primary text-white rounded-full px-6 py-2 text-xs font-medium sm:text-sm md:text-base lg:text-lg xl:text-xl 2xl:text-2xl sm:px-7 md:px-8 lg:px-9 xl:px-10 2xl:px-12 sm:py-2 md:py-2 lg:py-2 xl:py-2 2xl:py-2 ">
             Go to Home
           </button>
         </div>

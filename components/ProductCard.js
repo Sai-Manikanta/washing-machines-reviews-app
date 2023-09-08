@@ -185,7 +185,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                 className={`max-w-lg flex sm:justify-between items-center mt-4`}
               >
                 <Disclosure.Button className="flex flex-grow gap-x-2 cursor-none sm:cursor-pointer items-center">
-                  <span className="text-sm w-[6rem] flex justify-between items-center text-slate-600 hover:text-slate-900 hover:font-semibold">
+                  <span className="text-sm w-[6rem] flex justify-between items-center text-slate-600 hover:text-slate-900">
                     {open ? "View Less" : "View More"}
                     {open ? (
                       <ChevronUpIcon
