@@ -1,9 +1,9 @@
 import Head from "next/head";
 import Link from "next/link";
 import Header from "@/components/Header";
-import { data as washingMachinesUnder40000} from "@/data/washingMachinesUnder40000";
-import { data as washingMachinesUnder35000} from "@/data/washingMachinesUnder35000";
-import { data as washingMachinesUnder30000} from "@/data/washingMachinesUnder30000";
+import { data as washingMachinesUnder40000 } from "@/data/washingMachinesUnder40000";
+import { data as washingMachinesUnder35000 } from "@/data/washingMachinesUnder35000";
+import { data as washingMachinesUnder30000 } from "@/data/washingMachinesUnder30000";
 import HomePageProductCard from "@/components/HomePageProductCard";
 
 export default function Home() {
@@ -19,16 +19,31 @@ export default function Home() {
       </Head>
       <Header />
       <main className="p-6">
-        <div className="flex snap-x snap-mandatory-x w-full mx:auto overflow-x-scroll">
-          {
-            washingMachinesUnder40000.map((product,index) => {
+        <div>
+          <div className="flex justify-between items-start ml-3 mr-0.5 mb-5">
+            <h1 className="color-primary text-md font-bold md:text-3xl ml-0 pl-0 mt-0 pt-0">
+              Best Washing Machines under 40,000
+            </h1>
+            <button className="bg-primary text-white py-2 px-3 border-0 outline-0 rounded text-xs w-28 mt-1 md:w-30 md:text-base ">
+              View All
+            </button>
+          </div>
+          <div className="flex snap-x snap-mandatory-x w-full mx:auto overflow-x-scroll">
+            {washingMachinesUnder40000.map((product, index) => {
               return (
-                <div key={index} className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
-                  <HomePageProductCard productImage={product.productImage.url} productAlt={product.productImage.alt} productName={product.productName}/>
+                <div
+                  key={index}
+                  className="snap-start shrink-0 g-amber-200 place-items-center text-8xl"
+                >
+                  <HomePageProductCard
+                    productImage={product.productImage.url}
+                    productAlt={product.productImage.alt}
+                    productName={product.productName}
+                  />
                 </div>
-              )
-            })
-          }
+              );
+            })}
+          </div>
         </div>
         {/* <Link href="/best-washing-machines-under-20000#product-1">Product 1</Link><br />
         <Link href="/best-washing-machines-under-20000#product-2">Product 2</Link><br />
