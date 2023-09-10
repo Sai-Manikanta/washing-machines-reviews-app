@@ -1,6 +1,5 @@
-import { useEffect } from 'react';
+import ReactGA from 'react-ga';
 import { Inter } from '@next/font/google';
-import { initGA, logPageView } from '../utils/googleAnalytics';
 import '@/styles/globals.css';
 
 const inter = Inter({
@@ -9,12 +8,7 @@ const inter = Inter({
 });
 
 export default function App({ Component, pageProps }) {
-  useEffect(() => {
-    // Initialize Google Analytics
-    initGA();
-    // Log the initial pageview
-    logPageView();
-  }, []);
+  ReactGA.initialize('G-PVYNK6W112'); // Replace with your actual tracking ID
 
   return (
     <div className={`${inter.className} font-sans`}>

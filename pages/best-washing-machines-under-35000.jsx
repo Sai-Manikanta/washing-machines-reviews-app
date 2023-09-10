@@ -1,3 +1,5 @@
+import { useEffect } from 'react';
+import ReactGA from 'react-ga';
 import Head from "next/head";
 import ProductCard from "./../components/ProductCard";
 import Layout from "@/components/Layout";
@@ -5,6 +7,10 @@ import Layout from "@/components/Layout";
 import { data } from "../data/washingMachinesUnder35000";
 
 export default function bestWashingMachinesUnder40000({ data }) {
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
+
   return (
     <Layout priceUnder="35,000">
       <Head>

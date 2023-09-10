@@ -1,7 +1,9 @@
+import { useEffect } from 'react';
 import Head from "next/head";
 import Link from "next/link";
 import Header from "@/components/Header";
 import { useRouter } from "next/router";
+import ReactGA from 'react-ga';
 import { data as washingMachinesUnder40000 } from "@/data/washingMachinesUnder40000";
 import { data as washingMachinesUnder35000 } from "@/data/washingMachinesUnder35000";
 import { data as washingMachinesUnder30000 } from "@/data/washingMachinesUnder30000";
@@ -9,6 +11,10 @@ import HomePageProductCard from "@/components/HomePageProductCard";
 
 export default function Home() {
   const router = useRouter();
+
+  useEffect(() => {
+    ReactGA.pageview(window.location.pathname + window.location.search);
+  }, []);
 
   return (
     <>
