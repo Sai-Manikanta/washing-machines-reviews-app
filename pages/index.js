@@ -34,7 +34,7 @@ const Home = () => {
       </Head>
       <Header />
       <main className="p-6 max-w-5xl mx-auto">
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />
           <HorizontalScroller>
             {washingMachinesUnder40000.map((product, index) => {
@@ -44,8 +44,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-40000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -58,7 +59,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-3 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="35,000" priceForURL="35000" />
           <HorizontalScroller>
             {washingMachinesUnder35000.map((product, index) => {
@@ -68,8 +69,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-35000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -82,7 +84,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-3 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="30,000" priceForURL="30000" />
           <HorizontalScroller>
             {washingMachinesUnder30000.map((product, index) => {
@@ -92,8 +94,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-30000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -106,7 +109,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-3 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="25,000" priceForURL="25000" />
           <HorizontalScroller>
             {washingMachinesUnder25000.map((product, index) => {
@@ -116,8 +119,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-25000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -130,7 +134,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-3 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="20,000" priceForURL="20000" />
           <HorizontalScroller>
             {washingMachinesUnder20000.map((product, index) => {
@@ -140,8 +144,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-20000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -154,7 +159,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-3 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="15,000" priceForURL="15000" />
           <HorizontalScroller>
             {washingMachinesUnder15000.map((product, index) => {
@@ -164,8 +169,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-15000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
@@ -178,7 +184,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-0 md:mb-4 lg:mb-6">
           <ScrollersHeader price="10,000" priceForURL="10000" />
           <HorizontalScroller>
             {washingMachinesUnder10000.map((product, index) => {
@@ -188,8 +194,9 @@ const Home = () => {
                   href={`/best-washing-machines-under-10000#product-${
                     index + 1
                   }`}
+                  className="cursor-none md:cursor-pointer"
                 >
-                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl py-5">
+                  <div className="snap-start shrink-0 g-amber-200 place-items-center text-8xl">
                     <HomePageProductCard
                       productImage={product.productImage.url}
                       productAlt={product.productImage.alt}
