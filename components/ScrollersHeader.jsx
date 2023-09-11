@@ -6,7 +6,7 @@ function ScrollersHeader({price,priceForURL}) {
 
   return (
     <div className="flex justify-between items-center ml-3 mr-0.5 mb-[-10px] md:mb-1 text-slate-700">
-      <h1 className="color-primary text-md sm:text-2xl font-bold  ml-0 pl-0 mt-0 pt-0">
+      <h1 className="color-primary text-md sm:text-xl md:text-2xl font-bold  ml-0 pl-0 mt-0 pt-0">
         Best Washing Machines under {price}
       </h1>
       <button

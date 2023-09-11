@@ -58,7 +58,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-3 lg:mb-6">
           <ScrollersHeader price="35,000" priceForURL="35000" />
           <HorizontalScroller>
             {washingMachinesUnder35000.map((product, index) => {
@@ -82,7 +82,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-3 lg:mb-6">
           <ScrollersHeader price="30,000" priceForURL="30000" />
           <HorizontalScroller>
             {washingMachinesUnder30000.map((product, index) => {
@@ -106,7 +106,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-3 lg:mb-6">
           <ScrollersHeader price="25,000" priceForURL="25000" />
           <HorizontalScroller>
             {washingMachinesUnder25000.map((product, index) => {
@@ -130,7 +130,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-3 lg:mb-6">
           <ScrollersHeader price="20,000" priceForURL="20000" />
           <HorizontalScroller>
             {washingMachinesUnder20000.map((product, index) => {
@@ -154,7 +154,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
 
-        <div className="mb-0 md:mb-3 lg:mb-6">
+        <div className="mb-3 md:mb-3 lg:mb-6">
           <ScrollersHeader price="15,000" priceForURL="15000" />
           <HorizontalScroller>
             {washingMachinesUnder15000.map((product, index) => {
