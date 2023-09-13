@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import logo from "../public/images/logo.png";
+// import logo from "../public/images/logo.png";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useState } from "react";
@@ -21,7 +21,7 @@ function Header() {
       <header className="relative z-10 bg-white py-5 px-4 shadow-sm">
         <div className="max-w-5xl mx-auto flex justify-between items-center ">
           <div>
-            <Image src={logo} width="200" height="200" />
+            {/* <Image src={logo} width="200" height="200" /> */}
           </div>
           <div>
             <span className="text-2xl" onClick={openModal}>

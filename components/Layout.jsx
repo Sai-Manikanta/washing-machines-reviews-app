@@ -2,12 +2,12 @@ import React from "react";
 import ChangePriceDropdown from "./ChangePriceDropdown";
 import HeroSection from "./HeroSection";
 import Footer from "./Footer";
-import Header from "./Header";
+// import Header from "./Header";
 
 function Layout({ children, priceUnder}) {
   return (
     <>
-      <Header />
+      {/* <Header /> */}
       <HeroSection />
       <main>
         <section className="max-w-5xl mx-auto mt-8 p-3">
