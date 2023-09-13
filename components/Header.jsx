@@ -18,14 +18,16 @@ function Header() {
 
   return (
     <>
-      <header className="relative z-10 bg-white py-5 px-4 flex justify-between items-center shadow-md">
-        <div>
-          <Image src={logo} width="200" height="200" />
-        </div>
-        <div>
-          <span className="text-2xl" onClick={openModal}>
-            <RxHamburgerMenu />
-          </span>
+      <header className="relative z-10 bg-white py-5 px-4 shadow-sm">
+        <div className="max-w-5xl mx-auto flex justify-between items-center ">
+          <div>
+            <Image src={logo} width="200" height="200" />
+          </div>
+          <div>
+            <span className="text-2xl" onClick={openModal}>
+              <RxHamburgerMenu />
+            </span>
+          </div>
         </div>
       </header>
 

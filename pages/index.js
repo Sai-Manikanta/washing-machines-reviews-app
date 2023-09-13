@@ -1,7 +1,8 @@
 import { useEffect } from 'react';
 import Head from "next/head";
 import Link from "next/link";
-import Header from "@/components/HeroSection";
+import Header from "@/components/Header";
+import HeroSection from "@/components/HeroSection";
 import { useRouter } from "next/router";
 import ReactGA from 'react-ga';
 import { data as washingMachinesUnder40000 } from "@/data/washingMachinesUnder40000";
@@ -33,7 +34,8 @@ const Home = () => {
         />
       </Head>
       <Header />
-      <main className="p-6 max-w-5xl mx-auto">
+      <HeroSection />
+      <main className="mt-4 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />
           <HorizontalScroller>
