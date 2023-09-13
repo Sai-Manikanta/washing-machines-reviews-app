@@ -1,7 +1,7 @@
 import { useEffect } from 'react';
 import Head from "next/head";
 import Link from "next/link";
-import Header from "@/components/Header";
+// import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
 import { useRouter } from "next/router";
 import ReactGA from 'react-ga';
@@ -33,7 +33,7 @@ const Home = () => {
           content="washing machines,best washing machines"
         />
       </Head>
-      <Header />
+      {/* <Header /> */}
       <HeroSection />
       <main className="mt-4 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
