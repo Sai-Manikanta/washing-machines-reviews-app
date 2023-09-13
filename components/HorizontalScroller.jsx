@@ -14,7 +14,7 @@ export default function HorizontalScroller({ children }) {
       <ScrollMenu
         LeftArrow={() => LeftArrow(isOnHover)}
         RightArrow={() => RightArrow(isOnHover)}
-        scrollContainerClassName="snap-x snap-mandatory-x pt-5 pb-3"
+        scrollContainerClassName="snap-x snap-mandatory-x lg:snap-none pt-5 pb-3"
       >
         {children}
       </ScrollMenu>
