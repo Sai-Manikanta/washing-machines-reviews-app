@@ -12,7 +12,7 @@ export default function App({ Component, pageProps }) {
 
   return (
     <div className={`${inter.className} font-sans`}>
-      <Component {...pageProps} />
+        <Component {...pageProps} />
     </div>
   );
 }

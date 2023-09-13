@@ -1,12 +1,14 @@
 import React from "react";
 import ChangePriceDropdown from "./ChangePriceDropdown";
-import Header from "./Header";
+import HeroSection from "./HeroSection";
 import Footer from "./Footer";
+import Header from "./Header";
 
 function Layout({ children, priceUnder}) {
   return (
     <>
       <Header />
+      <HeroSection />
       <main>
         <section className="max-w-5xl mx-auto mt-8 p-3">
           <div className="sm:flex justify-between">
