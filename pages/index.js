@@ -15,6 +15,7 @@ import { data as washingMachinesUnder10000 } from "@/data/washingMachinesUnder10
 import HomePageProductCard from "@/components/HomePageProductCard";
 import HorizontalScroller from "@/components/HorizontalScroller";
 import ScrollersHeader from "@/components/ScrollersHeader";
+import Image from "next/image";
 
 const Home = () => {
   const router = useRouter();
@@ -35,6 +36,14 @@ const Home = () => {
       </Head>
       <Header home/>
       <HeroSection />
+
+      <div>
+        <Image src="/images/screenshot.png" width="200" height="200"/>
+        <Image src="/images/logo.png" width="200" height="200"/>
+      </div>
+
+
+
       <main className="p-6 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />
