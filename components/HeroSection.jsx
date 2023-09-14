@@ -7,7 +7,7 @@ function HeroSection() {
       <div className="max-w-5xl mx-auto sm:bg-white">
         <div className="grid sm:grid-cols-2">
           <div className="sm:pt-5 md:pt-8 lg:pt-10 pl-0 sm:pl-5 md:pl-10 lg:pl-0">
-            <span className="text-3xl block font-bold p-5 sm:pl-0 sm:text-3xl md:text-4xl lg:text-5xl sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.2]">
+            <span className="text-3xl block font-bold pt-8 pl-5 pr-5 pb-3 sm:pl-0 sm:text-3xl md:text-4xl  lg:text-5xl sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.2]">
               Find the best washing machine for you...
             </span>
             <video
