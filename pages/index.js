@@ -1,7 +1,8 @@
 import { useEffect } from "react";
 import Head from "next/head";
 import Link from "next/link";
-import HeroSection from "../components/HeroSection";
+import Header from "@/components/Header";
+import HeroSection from "@/components/HeroSection";
 import { useRouter } from "next/router";
 import ReactGA from "react-ga";
 import { data as washingMachinesUnder40000 } from "@/data/washingMachinesUnder40000";
@@ -14,7 +15,6 @@ import { data as washingMachinesUnder10000 } from "@/data/washingMachinesUnder10
 import HomePageProductCard from "@/components/HomePageProductCard";
 import HorizontalScroller from "@/components/HorizontalScroller";
 import ScrollersHeader from "@/components/ScrollersHeader";
-import Header from "@/components/Header";
 
 const Home = () => {
   const router = useRouter();

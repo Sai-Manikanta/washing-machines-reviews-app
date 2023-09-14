@@ -1,8 +1,8 @@
 import React from "react";
-import ChangePriceDropdown from "./ChangePriceDropdown";
-import HeroSection from "./HeroSection";
-import Footer from "./Footer";
 import Header from "./Header";
+import HeroSection from "./HeroSection";
+import ChangePriceDropdown from "./ChangePriceDropdown";
+import Footer from "./Footer";
 
 function Layout({ children, priceUnder}) {
   return (
