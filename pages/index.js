@@ -39,7 +39,7 @@ const Home = () => {
 
       <div>
         <Image src="/images/screenshot.png" width="200" height="200"/>
-        <Image src="/images/logo.png" width="200" height="200"/>
+        <Image src="/images/screenshot2.png" width="200" height="200"/>
       </div>
 
 
