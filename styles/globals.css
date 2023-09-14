@@ -20,7 +20,3 @@ body {
   color: #182953;
   background: #f2f2f2;
 }
-
-::-webkit-scrollbar {
-  width: 0.1rem;
-}
