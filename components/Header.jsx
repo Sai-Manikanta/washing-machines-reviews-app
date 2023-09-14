@@ -1,11 +1,13 @@
 import React from "react";
 import Image from "next/image";
-import logo from "../public/images/logo.png";
+// import logo from "../public/images/logo.png";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useState } from "react";
+import Link from "next/link";
+import { RxCross2 } from "react-icons/rx";
 
-function Header() {
+function Header({home,aboutUs,FAQ}) {
   const [isOpen, setIsOpen] = useState(false);
 
   function closeModal() {
@@ -18,14 +20,44 @@ function Header() {
 
   return (
     <>
-      <header className="relative z-10 bg-white py-5 px-4 flex justify-between items-center shadow-md">
-        <div>
-          <Image src={logo} width="200" height="200" />
-        </div>
-        <div>
-          <span className="text-2xl" onClick={openModal}>
-            <RxHamburgerMenu />
-          </span>
+      <header className="relative z-10 bg-primary py-5 px-4">
+        <div className="max-w-5xl mx-auto flex justify-between items-center">
+          <div>
+            <Link href="/">
+              <Image
+                className="w-40 h-auto"
+                src="/images/logo.png"
+                width="200"
+                height="35"
+                alt="bestelectro.in logo"
+              />
+            </Link>
+          </div>
+          <div>
+            <div className="hidden sm:block">
+            <Link
+              href="/"
+              className={`text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary ${home && "hidden"}`}
+            >
+              Home
+            </Link>
+            <Link
+              href="/about-us"
+              className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${aboutUs && "hidden"}`}
+            >
+              About Us
+            </Link>
+            <Link
+              href="/faq"
+              className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${FAQ && "hidden"}`}
+            >
+              FAQ
+            </Link>
+            </div>
+            <span className="text-2xl text-white sm:hidden" onClick={openModal}>
+              <RxHamburgerMenu />
+            </span>
+          </div>
         </div>
       </header>
 
@@ -48,42 +80,103 @@ function Header() {
               <div className="flex min-h-full items-center justify-center p-4 text-center">
                 <Transition.Child
                   as={Fragment}
-                //   enter="ease-out duration-300"
-                //   enterFrom="opacity-0 scale-95"
-                //   enterTo="opacity-100 scale-100"
-                //   leave="ease-in duration-200"
-                //   leaveFrom="opacity-100 scale-100"
-                //   leaveTo="opacity-0 scale-95"
-                enter="ease-out duration-500"
-                enterFrom="translate-x-[100%]"
-                enterTo="translate-x-0"
-                leave="ease-out duration-500"
-                leaveFrom="translate-x-0"
-                leaveTo="translate-x-[-100%]"
+                  enter="ease-out duration-500"
+                  enterFrom="translate-x-[100%]"
+                  enterTo="translate-x-0"
+                  leave="ease-out duration-500"
+                  leaveFrom="translate-x-0"
+                  leaveTo="translate-x-[100%]"
                 >
-                  <Dialog.Panel className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white p-6 text-center align-middle shadow-xl transition-all">
-                    <Dialog.Title
-                      as="h3"
-                      className="text-lg font-medium leading-6 text-gray-900"
-                    >
-                      Payment successful
-                    </Dialog.Title>
-                    <div className="mt-2">
-                      <p className="text-sm text-gray-500">
-                        Your payment has been successfully submitted. We’ve sent
-                        you an email with all of the details of your order.
-                      </p>
+                  <Dialog.Panel className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white pt-14 pb-8 text-center align-middle shadow-xl transition-all">
+                    <div className="mb-5">
+                      <Image
+                        className="mx-auto w-40 h-auto"
+                        src="/images/logo.png"
+                        alt="bestelectro.in logo"
+                        width="200"
+                        height="35"
+                      />
+                    </div>
+                    <div className="mb-5">
+                      <Link
+                        href="/"
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${home && "hidden"}`}
+                      >
+                        Home
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-40000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹40,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-35000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹35,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-30000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹30,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-25000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹25,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-20000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹20,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-15000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹15,000
+                      </Link>
+
+                      <Link
+                        href="/best-washing-machines-under-10000"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                      >
+                        Best washing machines under ₹10,000
+                      </Link>
+
+                      <Link
+                        href="/about-us"
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${aboutUs && "hidden"}`}
+                      >
+                        About Us
+                      </Link>
+
+                      <Link
+                        href="/faq"
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${FAQ && "hidden"}`}
+                      >
+                        FAQ
+                      </Link>
                     </div>
 
-                    <div className="mt-4">
-                      <button
-                        type="button"
-                        className="inline-flex justify-center rounded-md border border-transparent bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900 hover:bg-blue-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-blue-500 focus-visible:ring-offset-2"
-                        onClick={closeModal}
-                      >
-                        Got it, thanks!
-                      </button>
-                    </div>
+                    <button
+                      className="rounded-full border-2 border-white text-4xl text-white focus:outline-none"
+                      onClick={closeModal}
+                    >
+                      <div className="flex justify-center items-center w-16 h-16">
+                        <RxCross2 />
+                      </div>
+                    </button>
                   </Dialog.Panel>
                 </Transition.Child>
               </div>

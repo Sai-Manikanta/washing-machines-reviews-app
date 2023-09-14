@@ -21,7 +21,19 @@ export default function bestWashingMachinesUnder40000({ data }) {
         />
       </Head>
 
-      <div className="grid grid-cols-1 gap-8 mt-6">
+      {/* <div className="grid grid-cols-1 gap-8 mt-6">
+        {data?.map((washingMachineData, i) => (
+          <ProductCard
+            key={i}
+            id={i + 1}
+            washingMachineData={{
+              orderNumber: i + 1,
+              ...washingMachineData,
+            }}
+          />
+        ))}
+      </div> */}
+      <div>
         {data?.map((washingMachineData, i) => (
           <ProductCard
             key={i}

@@ -1,9 +1,9 @@
-import { useEffect } from 'react';
+import { useEffect } from "react";
 import Head from "next/head";
 import Link from "next/link";
-import Header from "@/components/HeroSection";
+import HeroSection from "../components/HeroSection";
 import { useRouter } from "next/router";
-import ReactGA from 'react-ga';
+import ReactGA from "react-ga";
 import { data as washingMachinesUnder40000 } from "@/data/washingMachinesUnder40000";
 import { data as washingMachinesUnder35000 } from "@/data/washingMachinesUnder35000";
 import { data as washingMachinesUnder30000 } from "@/data/washingMachinesUnder30000";
@@ -14,6 +14,7 @@ import { data as washingMachinesUnder10000 } from "@/data/washingMachinesUnder10
 import HomePageProductCard from "@/components/HomePageProductCard";
 import HorizontalScroller from "@/components/HorizontalScroller";
 import ScrollersHeader from "@/components/ScrollersHeader";
+import Header from "@/components/Header";
 
 const Home = () => {
   const router = useRouter();
@@ -32,7 +33,8 @@ const Home = () => {
           content="washing machines,best washing machines"
         />
       </Head>
-      <Header />
+      <Header home/>
+      <HeroSection />
       <main className="p-6 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />

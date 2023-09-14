@@ -8,7 +8,7 @@ export default function ChangePriceDropdown({ priceUnder }) {
     <div className="text-right">
       <Menu as="div" className="relative inline-block text-left">
         <div>
-          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-secondary px-4 py-2 font-medium text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 brightness-[120%]">
+          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-secondary px-4 py-2 font-medium text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 brightness-[120%] hover:brightness-100">
             Change Price
             <ChevronDownIcon
               className="ml-2 -mr-1 h-4 w-4 text-violet-200 hover:text-violet-100"

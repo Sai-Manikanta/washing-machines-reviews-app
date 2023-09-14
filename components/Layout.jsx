@@ -7,7 +7,7 @@ import Header from "./Header";
 function Layout({ children, priceUnder}) {
   return (
     <>
-      <Header />
+      <Header/>
       <HeroSection />
       <main>
         <section className="max-w-5xl mx-auto mt-8 p-3">
