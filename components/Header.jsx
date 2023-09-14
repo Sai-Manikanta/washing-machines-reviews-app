@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-// import logo from "../public/images/logo.png";
 import { RxHamburgerMenu } from "react-icons/rx";
 import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useState } from "react";
@@ -26,7 +25,7 @@ function Header({home,aboutUs,FAQ}) {
             <Link href="/">
               <Image
                 className="w-40 h-auto"
-                src="/images/logo.png"
+                src="/images/bestElectroLogo.png"
                 width="200"
                 height="35"
                 alt="bestelectro.in logo"
@@ -91,7 +90,7 @@ function Header({home,aboutUs,FAQ}) {
                     <div className="mb-5">
                       <Image
                         className="mx-auto w-40 h-auto"
-                        src="/images/logo.png"
+                        src="/images/bestElectroLogo.png"
                         alt="bestelectro.in logo"
                         width="200"
                         height="35"
