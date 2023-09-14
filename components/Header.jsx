@@ -99,77 +99,77 @@ function Header({home,aboutUs,FAQ}) {
                     <div className="mb-5">
                       <Link
                         href="/"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${home && "hidden"}`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${home && "hidden"} outline-0`}
                       >
                         Home
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-40000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹40,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-35000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹35,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-30000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹30,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-25000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹25,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-20000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹20,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-15000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹15,000
                       </Link>
 
                       <Link
                         href="/best-washing-machines-under-10000"
-                        className="block py-2 capitalize font-medium hover:bg-blue-900"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Best washing machines under ₹10,000
                       </Link>
 
                       <Link
                         href="/about-us"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${aboutUs && "hidden"}`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${aboutUs && "hidden"} outline-0`}
                       >
                         About Us
                       </Link>
 
                       <Link
                         href="/faq"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${FAQ && "hidden"}`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${FAQ && "hidden"} outline-0`}
                       >
                         FAQ
                       </Link>
                     </div>
 
                     <button
-                      className="rounded-full border-2 border-white text-4xl text-white focus:outline-none"
+                      className="rounded-full border-2 border-white text-4xl text-white focus:outline-none outline-0"
                       onClick={closeModal}
                     >
                       <div className="flex justify-center items-center w-16 h-16">
