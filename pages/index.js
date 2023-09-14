@@ -33,9 +33,9 @@ const Home = () => {
           content="washing machines,best washing machines"
         />
       </Head>
-      <Header home/>
+      <Header home />
       <HeroSection />
-      <main className="py-6 max-w-5xl mx-auto">
+      <main className="p-6 md:py-6 md:px-0 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />
           <HorizontalScroller>
