@@ -211,7 +211,8 @@ const Home = () => {
           </HorizontalScroller>
         </div>
       </main>
-      <footer className="bg-primary px-5 py-6 text-white">
+      
+      <footer className="select-none bg-primary px-5 py-6 text-white">
         <div className="max-w-5xl mx-auto">
           <p>&#169; Copyright 2023</p>
         </div>

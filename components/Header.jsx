@@ -6,7 +6,7 @@ import { Fragment, useState } from "react";
 import Link from "next/link";
 import { RxCross2 } from "react-icons/rx";
 
-function Header({home,aboutUs,FAQ}) {
+function Header({ home, aboutUs, FAQ }) {
   const [isOpen, setIsOpen] = useState(false);
 
   function closeModal() {
@@ -34,24 +34,30 @@ function Header({home,aboutUs,FAQ}) {
           </div>
           <div>
             <div className="hidden sm:block">
-            <Link
-              href="/"
-              className={`text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary ${home && "hidden"}`}
-            >
-              Home
-            </Link>
-            <Link
-              href="/about-us"
-              className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${aboutUs && "hidden"}`}
-            >
-              About Us
-            </Link>
-            <Link
-              href="/faq"
-              className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${FAQ && "hidden"}`}
-            >
-              FAQ
-            </Link>
+              <Link
+                href="/"
+                className={`text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary ${
+                  home && "hidden"
+                }`}
+              >
+                Home
+              </Link>
+              <Link
+                href="/about-us"
+                className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${
+                  aboutUs && "hidden"
+                }`}
+              >
+                About Us
+              </Link>
+              <Link
+                href="/faq"
+                className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${
+                  FAQ && "hidden"
+                }`}
+              >
+                FAQ
+              </Link>
             </div>
             <span className="text-2xl text-white sm:hidden" onClick={openModal}>
               <RxHamburgerMenu />
@@ -99,7 +105,9 @@ function Header({home,aboutUs,FAQ}) {
                     <div className="mb-5">
                       <Link
                         href="/"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${home && "hidden"} outline-0`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${
+                          home && "hidden"
+                        } outline-0`}
                       >
                         Home
                       </Link>
@@ -155,14 +163,18 @@ function Header({home,aboutUs,FAQ}) {
 
                       <Link
                         href="/about-us"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${aboutUs && "hidden"} outline-0 cursor-none sm:cursor-pointer`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${
+                          aboutUs && "hidden"
+                        } outline-0 cursor-none sm:cursor-pointer`}
                       >
                         About Us
                       </Link>
 
                       <Link
                         href="/faq"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${FAQ && "hidden"} outline-0 cursor-none sm:cursor-pointer`}
+                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${
+                          FAQ && "hidden"
+                        } outline-0 cursor-none sm:cursor-pointer`}
                       >
                         FAQ
                       </Link>

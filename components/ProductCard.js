@@ -243,7 +243,7 @@ const ProductCard = ({ id, washingMachineData }) => {
         </div>
 
         <div className="max-w-lg flex gap-x-3 mt-4">
-          {stores.amazon && (
+          {/* {stores.amazon && (
             <a
               href={stores.amazon}
               target="_blank"
@@ -266,7 +266,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                 />
               </svg>
             </a>
-          )}
+          )} */}
           {stores.flipkart && (
             <a
               href={stores.flipkart}

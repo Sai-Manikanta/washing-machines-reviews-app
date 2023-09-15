@@ -1,5 +1,5 @@
-import { useEffect } from 'react';
-import ReactGA from 'react-ga';
+import { useEffect } from "react";
+import ReactGA from "react-ga";
 import Head from "next/head";
 import ProductCard from "./../components/ProductCard";
 import Layout from "@/components/Layout";
@@ -21,18 +21,6 @@ export default function bestWashingMachinesUnder40000({ data }) {
         />
       </Head>
 
-      {/* <div className="grid grid-cols-1 gap-8 mt-6">
-        {data?.map((washingMachineData, i) => (
-          <ProductCard
-            key={i}
-            id={i + 1}
-            washingMachineData={{
-              orderNumber: i + 1,
-              ...washingMachineData,
-            }}
-          />
-        ))}
-      </div> */}
       <div>
         {data?.map((washingMachineData, i) => (
           <ProductCard
