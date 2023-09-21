@@ -32,49 +32,57 @@ function aboutUs() {
               <img
                 src="/images/teamMembers/kiran.jpg"
                 alt="Kiran Teammate"
-                className="w-full h-auto block mb-4
+                className="w-full h-auto block
                 "
               />
-              <p className="text-md font-semibold">Devi Kiran</p>
-              <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-              <p className="text-sm font-medium mb-7">
-                Reviewer & <br /> Frontend developer
-              </p>
+              <div className="p-2">
+                <p className="text-md font-semibold">Devi Kiran</p>
+                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
+                <p className="text-sm font-medium">
+                  Reviewer & <br /> Frontend developer
+                </p>
+              </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
               <img
                 src="/images/teamMembers/pradeep.jpg"
                 alt="Pradeep Teammate"
-                className="w-full h-auto block mb-4
+                className="w-full h-auto block
                 "
               />
-              <p className="text-md font-semibold">Pradeep Kumar</p>
-              <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-              <p className="text-sm font-medium mb-7">Frontend developer</p>
+              <div className="p-2">
+                <p className="text-md font-semibold">Pradeep Kumar</p>
+                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
+                <p className="text-sm font-medium">Frontend developer</p>
+              </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
               <img
                 src="/images/teamMembers/laxmi.jpg"
                 alt="Laxmi Teammate"
-                className="w-full h-auto block mb-4
+                className="w-full h-auto block
                 "
               />
-              <p className="text-md font-semibold">Laxmi</p>
-              <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-              <p className="text-sm font-medium mb-7">Digitel marketer</p>
+              <div className="p-2">
+                <p className="text-md font-semibold">Laxmi</p>
+                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
+                <p className="text-sm font-medium">Digitel marketer</p>
+              </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-start-5 md:col-end-9">
               <img
                 src="/images/teamMembers/SaiManiKanta.jpg"
                 alt="SaiManikanta Teammate"
-                className="w-full h-auto block mb-4
+                className="w-full h-auto block
                 "
               />
-              <p className="text-md font-semibold">SaiManikanta</p>
-              <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-              <p className="text-sm font-medium mb-7">
-                UI UX & <br /> Full Stack Developer
-              </p>
+              <div className="p-2">
+                <p className="text-md font-semibold">SaiManikanta</p>
+                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
+                <p className="text-sm font-medium">
+                  UI UX & <br /> Full Stack Developer
+                </p>
+              </div>
             </div>
           </div>
         </div>
