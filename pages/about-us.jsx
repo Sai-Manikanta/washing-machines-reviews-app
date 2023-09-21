@@ -71,7 +71,7 @@ function aboutUs() {
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-start-5 md:col-end-9">
               <img
-                src="/images/teamMembers/SaiManiKanta.jpg"
+                src="/images/teamMembers/manikanta.jpg"
                 alt="SaiManikanta Teammate"
                 className="w-full h-auto block
                 "
