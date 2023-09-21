@@ -19,7 +19,7 @@ function Header({ home, aboutUs, FAQ }) {
 
   return (
     <>
-      <header className="fixed top-0 left-0 right-0 z-10 bg-primary py-5 px-4">
+      <header style={{boxShadow: "0px 2px 10px rgba(0,0,0,0.5)"}} className="fixed top-0 left-0 right-0 z-10 bg-primary py-5 px-4">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
           <div>
             <Link href="/">
