@@ -19,7 +19,7 @@ function Header({ home, aboutUs, FAQ }) {
 
   return (
     <>
-      <header className="relative z-10 bg-primary py-5 px-4">
+      <header className="fixed top-0 left-0 right-0 z-10 bg-primary py-5 px-4">
         <div className="max-w-5xl mx-auto flex justify-between items-center">
           <div>
             <Link href="/">
