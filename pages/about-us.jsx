@@ -7,9 +7,8 @@ function aboutUs() {
       <Header aboutUs />
 
       <section className="flex flex-col items-center max-w-5xl mx-auto px-7 lg:px-0">
-        <div className="my-6">
-          <h1 className="text-primary text-3xl font-extrabold">About Us</h1>
-        </div>
+        <h1 className="text-primary text-3xl font-extrabold my-6">About Us</h1>
+
         <p className="text-primar text-md font-medium indent-14 lg:text-lg">
           BestElectro.in is your premier online destination for electronics,
           gadgets, and home appliances. We provide expert reviews,
@@ -21,22 +20,22 @@ function aboutUs() {
           you for choosing BestElectro.in as your trusted source for all things
           electronic.
         </p>
+
+        <hr className="bg-slate-400 h-0.5 mt-9 mb-2 w-full" />
+
         <div className="w-full">
-          <hr className="bg-slate-400 h-0.5 mt-9 mb-2" />
-        </div>
-        <div className="w-full">
-          <h1 className="text-primary text-3xl font-extrabold mt-7 mb-4 text-center">
+          <h2 className="text-primary text-3xl font-extrabold mt-6 mb-5 text-center">
             Meet Team
-          </h1>
+          </h2>
           <div className="grid grid-cols-12 gap-6">
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
               <img
                 src="/images/teamMembers/kiran.jpg"
-                alt="Kiran"
+                alt="Kiran Teammate"
                 className="w-full h-auto block mb-4
                 "
               />
-              <h1 className="text-md font-semibold">Devi Kiran</h1>
+              <p className="text-md font-semibold">Devi Kiran</p>
               <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
               <p className="text-sm font-medium mb-7">
                 Reviewer & <br /> Frontend developer
@@ -45,33 +44,33 @@ function aboutUs() {
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
               <img
                 src="/images/teamMembers/pradeep.jpg"
-                alt="Pradeep"
+                alt="Pradeep Teammate"
                 className="w-full h-auto block mb-4
                 "
               />
-              <h1 className="text-md font-semibold">Pradeep Kumar</h1>
+              <p className="text-md font-semibold">Pradeep Kumar</p>
               <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
               <p className="text-sm font-medium mb-7">Frontend developer</p>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
               <img
                 src="/images/teamMembers/laxmi.jpg"
-                alt="Laxmi"
+                alt="Laxmi Teammate"
                 className="w-full h-auto block mb-4
                 "
               />
-              <h1 className="text-md font-semibold">Laxmi</h1>
+              <p className="text-md font-semibold">Laxmi</p>
               <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
               <p className="text-sm font-medium mb-7">Digitel marketer</p>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-start-5 md:col-end-9">
               <img
                 src="/images/teamMembers/SaiManiKanta.jpg"
-                alt="SaiManikanta"
+                alt="SaiManikanta Teammate"
                 className="w-full h-auto block mb-4
                 "
               />
-              <h1 className="text-md font-semibold">SaiManikanta</h1>
+              <p className="text-md font-semibold">SaiManikanta</p>
               <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
               <p className="text-sm font-medium mb-7">
                 UI UX & <br /> Full Stack Developer
@@ -79,11 +78,10 @@ function aboutUs() {
             </div>
           </div>
         </div>
-        <div>
-          <button className="bg-primary text-md px-12 py-3 text-white font-bold my-12 rounded shadow">
-            <a href="mailto:contact@bestelectro.in">Contact Us</a>
-          </button>
-        </div>
+
+        <button className="bg-primary text-md px-12 py-3 text-white font-bold my-12 rounded shadow">
+          <a href="mailto:contact@bestelectro.in">Contact Us</a>
+        </button>
       </section>
       <footer className="bg-primary px-5 py-6 text-white">
         <div className="max-w-5xl mx-auto">
