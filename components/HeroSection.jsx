@@ -1,9 +1,9 @@
 import React from "react";
 import WashingMachineGuideModal from "./WashingMachineGuideModal";
 
-function HeroSection() {
+function HeroSection({home}) {
   return (
-    <div className="sm:bg-white mt-16">
+    <div className={`sm:bg-white ${home && "mt-16"}`}>
       <div className="max-w-5xl mx-auto sm:bg-white">
         <div className="grid sm:grid-cols-2">
           <div className="sm:pt-5 md:pt-8 lg:pt-10 pl-0 sm:pl-5 md:pl-10 lg:pl-0">
