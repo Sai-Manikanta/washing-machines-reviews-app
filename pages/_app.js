@@ -8,7 +8,7 @@ const inter = Inter({
 });
 
 export default function App({ Component, pageProps }) {
-  ReactGA.initialize('G-PVYNK6W112'); // Replace with your actual tracking ID
+  ReactGA.initialize('G-PVYNK6W112');
 
   return (
     <div className={`${inter.className} font-sans`}>

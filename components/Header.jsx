@@ -92,7 +92,7 @@ function Header({ home, aboutUs, FAQ }) {
                   leaveFrom="translate-x-0"
                   leaveTo="translate-x-[100%]"
                 >
-                  <Dialog.Panel className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white pt-14 pb-8 text-center align-middle shadow-xl transition-all">
+                  <Dialog.Panel style={{fontFamily: "verdana"}} className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white pt-14 pb-8 text-center align-middle shadow-xl transition-all">
                     <div className="mb-5">
                       <Image
                         className="mx-auto w-40 h-auto"
