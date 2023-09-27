@@ -32,7 +32,7 @@ function aboutUs() {
               <img
                 src="/images/teamMembers/kiran.jpg"
                 alt="Kiran Teammate"
-                className="w-full h-auto block
+                className="w-full h-48 object-cover block
                 "
               />
               <div className="p-2">
@@ -47,7 +47,7 @@ function aboutUs() {
               <img
                 src="/images/teamMembers/pradeep.jpg"
                 alt="Pradeep Teammate"
-                className="w-full h-auto block
+                className="w-full h-48 block object-cover
                 "
               />
               <div className="p-2">
@@ -60,7 +60,7 @@ function aboutUs() {
               <img
                 src="/images/teamMembers/laxmi.jpg"
                 alt="Laxmi Teammate"
-                className="w-full h-auto block
+                className="w-full h-48 block object-cover
                 "
               />
               <div className="p-2">
@@ -73,7 +73,7 @@ function aboutUs() {
               <img
                 src="/images/teamMembers/manikanta.jpg"
                 alt="SaiManikanta Teammate"
-                className="w-full h-auto block
+                className="w-full h-48 object-cover block
                 "
               />
               <div className="p-2">
