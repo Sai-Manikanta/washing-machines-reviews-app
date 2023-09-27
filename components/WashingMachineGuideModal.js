@@ -72,7 +72,7 @@ export default function WashingMachineGuideModal() {
                 leaveFrom="opacity-100 scale-100"
                 leaveTo="opacity-0 scale-95"
               >
-                <Dialog.Panel style={{fontFamily: "verdana"}} className="font-semibold transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all w-[700px]">
+                <Dialog.Panel style={{fontFamily: "verdana"}} className="transform overflow-hidden rounded-md bg-white px-4 pt-3 pb-5 text-left align-middle shadow-xl transition-all w-[700px]">
                   <div className="flex justify-between items-center">
                     <h2 className="text-lg">
                       Washing Macine Buying Guide
