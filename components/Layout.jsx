@@ -14,7 +14,7 @@ function Layout({ children, priceUnder}) {
       <main>
         <section className="max-w-5xl mx-auto mt-8 p-3">
           <div className="sm:flex justify-between">
-            <h1 className="text-xl sm:text-2xl font-medium text-slate-800">
+            <h1 className="text-xl sm:text-2xl font-medium text-slate-800 mb-1.5 sm:mb-0">
               Best washing machines under <span className="font-semibold">₹{priceUnder}</span>
             </h1>
             <div className="flex justify-end">

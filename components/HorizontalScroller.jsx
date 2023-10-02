@@ -11,7 +11,7 @@ export default function HorizontalScroller({ children }) {
       onMouseLeave={() => setOnHover(false)}
       className="relative"
     >
-      {/* Hello */}
+     
       <ScrollMenu
         LeftArrow={() => LeftArrow(isOnHover)}
         RightArrow={() => RightArrow(isOnHover)}

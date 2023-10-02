@@ -19,7 +19,7 @@ function Header({ home, aboutUs, FAQ }) {
 
   return (
     <>
-      <header className="relative z-10 bg-primary py-5 px-4">
+      <header style={{boxShadow: "0px 2px 10px rgba(0,0,0,0.5)"}} className={`${home || aboutUs || FAQ ? "fixed top-0 left-0 right-0" : "relative"} z-10 bg-primary py-5 px-4`}>
         <div className="max-w-5xl mx-auto flex justify-between items-center">
           <div>
             <Link href="/">
@@ -92,7 +92,7 @@ function Header({ home, aboutUs, FAQ }) {
                   leaveFrom="translate-x-0"
                   leaveTo="translate-x-[100%]"
                 >
-                  <Dialog.Panel className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white pt-14 pb-8 text-center align-middle shadow-xl transition-all">
+                  <Dialog.Panel style={{fontFamily: "verdana"}} className="fixed top-0 left-0 right-0 bottom-0 transform overflow-hidden bg-primary text-white pt-14 pb-8 text-center align-middle shadow-xl transition-all">
                     <div className="mb-5">
                       <Image
                         className="mx-auto w-40 h-auto"
