@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Header";
+import GoogleAnalytics from '@/components/GoogleAnalytics';
 import HeroSection from "./HeroSection";
 import ChangePriceDropdown from "./ChangePriceDropdown";
 import Footer from "./Footer";
@@ -7,6 +8,7 @@ import Footer from "./Footer";
 function Layout({ children, priceUnder}) {
   return (
     <>
+      <GoogleAnalytics GA_MEASUREMENT_ID='G-PVYNK6W112' />
       <Header/>
       <HeroSection />
       <main>
