@@ -7,12 +7,8 @@ export default function bestWashingMachinesUnder10000({ data }) {
   return (
     <Layout priceUnder="10,000">
       <Head>
-        <title>best washing machines under 10,000</title>
-        <meta name="description" content="best washing machines under 10,000" />
-        <meta
-          name="keywords"
-          content="washing machines,best washing machines under 10,000"
-        />
+        <title>Best Washing Machines Today Under 10,000 - BestElectro</title>
+        <meta name="description" content="Discover today's top washing machines under 10,000. Make informed choices with expert reviews" />
       </Head>
 
       <div>

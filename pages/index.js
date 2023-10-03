@@ -17,12 +17,8 @@ const Home = () => {
   return (
     <>
       <Head>
-        <title>best washing machines</title>
-        <meta name="description" content="best washing machines" />
-        <meta
-          name="keywords"
-          content="washing machines,best washing machines"
-        />
+        <title>Today's Best Washing Machines in India - BestElectro</title>
+        <meta name="description" content="Discover daily recommendations for front load, top load, fully automatic, and semi-automatic washing machines in India by price ranges" />
       </Head>
       <Header home />
       <HeroSection home />
