@@ -4,57 +4,64 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
 <url>
   <loc>https://www.bestelectro.in/</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/about-us</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/faq</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-40000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-35000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-30000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-25000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-20000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-15000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://www.bestelectro.in/best-washing-machines-under-10000</loc>
-  <lastmod>2023-10-08T06:43:44+00:00</lastmod>
+  <lastmod>2023-10-08T14:02:55+00:00</lastmod>
+  <changefreq>hourly</changefreq>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
