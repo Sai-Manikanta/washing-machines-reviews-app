@@ -253,6 +253,7 @@ const ProductCard = ({ id, washingMachineData }) => {
           <div className="max-w-lg flex gap-x-3 mt-4">
             {stores.amazon && (
               <a
+                rel="nofollow"
                 href={stores.amazon}
                 target="_blank"
                 className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
@@ -275,8 +276,9 @@ const ProductCard = ({ id, washingMachineData }) => {
                 </svg>
               </a>
             )}
-            {stores.flipkart && (
+            {/* {stores.flipkart && (
               <a
+                rel="nofollow"
                 href={stores.flipkart}
                 target="_blank"
                 className="border-2 rounded bg-slate-100 flex justify-center items-center w-44 hover:brightness-[95%]"
@@ -437,7 +439,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                   </g>
                 </svg>
               </a>
-            )}
+            )} */}
           </div>
         </div>
       </div>
