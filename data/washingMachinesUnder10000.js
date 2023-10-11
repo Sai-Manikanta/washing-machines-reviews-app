@@ -8,16 +8,16 @@ export const data = [
     },
     rating: "8.2",
     highlights: [
-      "Semi Automatic top load washing maching: Economical, Low water and energy consumption",
-      "Capacity 6 Kg: Suitable for small families",
-      "Energy Star rating : 5 Star- Best in class efficiency",
-      "Manufacturer Warranty: 2 Years comprehensive on product and 5 Years on motor",
-      "Motor: 700 RPM: Higher spin speeds helps in faster wash and drying, With its high speed and efficiency, it's perfect for busy households or those who want to get laundry done quickly and effectively",
-      "Wash Programs: 3 Wash Programs – Heavy, Normal, Soak",
-      "Air Turbo Drying - Reduce drying times by removing more water using the Air Turbo Drying System.",
-      "EASY MOBILITY - Equipped with 4 wheels, the machine can be moved around by sliding it with ease",
-      "Water & Shock Proof Panel : The machine can be placed anywhere without worrying about water damage",
-      "Special Features: Rat Protection, Rust-proof Body, Caster Wheel",
+      "Semi Automatic Top Load Washing Machine: Offers an economical, low water, and energy consumption solution.",
+      "Capacity 6 Kg: Suitable for small families or light laundry loads.",
+      "5 Star Energy Rating: Provides best-in-class energy efficiency.",
+      "Manufacturer Warranty: Enjoy a 2-year comprehensive warranty on the product and a 5-year warranty on the motor.",
+      "Motor Speed: 700 RPM for faster washing and drying, making it ideal for busy households or those seeking efficient laundry solutions.",
+      "Wash Programs: Comes with 3 wash programs – Heavy, Normal, and Soak for versatile washing options.",
+      "Air Turbo Drying: Reduces drying times by efficiently removing excess water using the Air Turbo Drying System.",
+      "Easy Mobility: Equipped with 4 wheels for effortless machine movement and positioning.",
+      "Water & Shock-Proof Panel: Worry-free placement anywhere without concerns about water damage.",
+      "Special Features: Includes Rat Protection, Rust-proof Body, and Caster Wheel for added convenience and durability.",
     ],
     specs: {
       type: "Top Load",
@@ -33,8 +33,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/45wCal0",
+      amazon: "https://amzn.to/45wCal0",
       flipkart:
         "https://www.flipkart.com/samsung-6-Kg-5-star-air-turbo-drying-Semi Automatic-top-load-washing-machine-white-grey-purple/p/itmc4c87248a9a26?pid=WMNFUGBCYDGMKE74&lid=LSTWMNFUGBCYDGMKE74FUYZ3U&marketplace=FLIPKART&q=Samsung+6+Kg%2C+5+star%2C+Semi Automatic+Washing+Machine+%28WT60R2000LL%2FTL%2C+Air+Turbo+Drying%2C+LIGHT+GRAY%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=cd19d7c5-9687-4cee-95cb-e70f4f218fba.WMNFUGBCYDGMKE74.SEARCH&ppt=hp&ppn=homepage&ssid=z9w8boz8ow0000001693367913609&qH=f1b5687e3a6df0ed",
     },
@@ -48,11 +47,11 @@ export const data = [
     },
     rating: "8.4",
     highlights: [
-      "Semi Automatic Top Load",
-      "1400 RPM : Higher the spin speed, lower the drying time",
-      "Number of wash programs - 2",
-      "5 Star Rating",
-      "7.5 Kg",
+      "Semi Automatic Top Load: Features a semi-automatic top-loading design.",
+      "1400 RPM Spin Speed: Faster spin speed for quicker drying.",
+      "2 Wash Programs: Offers a choice of 2 different wash programs.",
+      "5 Star Energy Rating: Highly energy-efficient appliance.",
+      "7.5 Kg Capacity: Suitable for loads up to 7.5 kilograms.",
     ],
     specs: {
       type: "Top Load",
@@ -82,14 +81,14 @@ export const data = [
     },
     rating: "8.6",
     highlights: [
-      "Capacity: 7 Kg , 3 Wash Programs (Delicate, Normal and Heavy)",
-      "Energy Rating - 5 Star",
-      "Special Feature: Smart Scrub Station, Water & Shock Proof Panel, Superior Drying, Lint Filter,Wash Timer",
-      "1402 RPM motor: In this washing machine ensures powerful performance and faster spin speeds, resulting in quicker drying times and cleaner clothes. With its high speed and efficiency, it's perfect for busy households or those who want to get laundry done quickly and effectively",
-      "2 Years Comprehensive Warranty and 5 Years Warranty on Wash Motor and Prime Mover",
-      "EASY MOBILITY - Equipped with 4 wheels, the machine can be moved around by sliding it with ease",
-      "Water & Shock Proof Panel : The machine can be placed anywhere without worrying about water damage",
-      "In Box: 1 Washing Machine Unit, Inlet Pipe, Outlet Pipe",
+      "Capacity: 7 Kg with 3 Wash Programs (Delicate, Normal, and Heavy) for versatile laundry options.",
+      "Energy Rating: 5 Star for high energy efficiency.",
+      "Special Features: Smart Scrub Station, Water & Shock-Proof Panel, Superior Drying, Lint Filter, and Wash Timer for added convenience and performance.",
+      "1402 RPM Motor: This washing machine boasts a powerful motor with a 1402 RPM spin speed for quicker drying and efficient cleaning, making it suitable for busy households and those looking for fast laundry solutions.",
+      "Warranty: Enjoy a 2-year comprehensive warranty and a 5-year warranty on the wash motor and prime mover.",
+      "Easy Mobility: Equipped with 4 wheels, making it easy to move and position the machine as needed.",
+      "Water & Shock-Proof Panel: Worry-free placement anywhere without concerns about water damage.",
+      "In the Box: Includes 1 Washing Machine Unit, Inlet Pipe, and Outlet Pipe for a complete setup.",
     ],
     specs: {
       type: "Top Load",
@@ -106,8 +105,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/48btwu6",
+      amazon: "https://amzn.to/48btwu6",
       flipkart:
         "https://www.flipkart.com/whirlpool-7-Kg-5-star-turbo-scrub-technology-Semi Automatic-top-load-washing-machine-grey/p/itm82ee7ce49e04c?pid=WMNFH8WMMYH8WVAQ&lid=LSTWMNFH8WMMYH8WVAQ3WTUET&marketplace=FLIPKART&q=Whirlpool+7+Kg+5+Star+Superb+Atom+Semi Automatic+Top+Loading+Washing+Machine+%28SUPERB+ATOM+70I+Grey+Dazzle%2C+TurboScrub+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=027ce6ed-984a-4582-9bb9-e85bb6249c02.WMNFH8WMMYH8WVAQ.SEARCH&ppt=sp&ppn=sp&ssid=ic1oiamlw00000001693368497469&qH=680fdf0493839680",
     },
@@ -121,14 +119,14 @@ export const data = [
     },
     rating: "8.6",
     highlights: [
-      "Capacity: 6 Kg , 3 Wash Programs (Delicate, Normal and Heavy)",
-      "Energy Rating - 5 Star",
-      "Special Feature: Smart Scrub Station, Water & Shock Proof Panel, Superior Drying, Lint Filter,Wash Timer",
-      "1401 RPM motor: In this washing machine ensures powerful performance and faster spin speeds, resulting in quicker drying times and cleaner clothes. With its high speed and efficiency, it's perfect for busy households or those who want to get laundry done quickly and effectively",
-      "2 Years Comprehensive Warranty and 5 Years Warranty on Wash Motor and Prime Mover",
-      "EASY MOBILITY - Equipped with 4 wheels, the machine can be moved around by sliding it with ease",
-      "Water & Shock Proof Panel : The machine can be placed anywhere without worrying about water damage",
-      "In Box: 1 Washing Machine Unit, Inlet Pipe, Outlet Pipe",
+      "Capacity: 6 Kg with 3 Wash Programs (Delicate, Normal, and Heavy) for versatile laundry options.",
+      "Energy Rating: 5 Star for high energy efficiency.",
+      "Special Features: Smart Scrub Station, Water & Shock-Proof Panel, Superior Drying, Lint Filter, and Wash Timer for added convenience and performance.",
+      "1401 RPM Motor: This washing machine features a powerful motor with a 1401 RPM spin speed for faster drying and efficient cleaning, making it suitable for busy households and those seeking quick laundry solutions.",
+      "Warranty: Enjoy a 2-year comprehensive warranty and a 5-year warranty on the wash motor and prime mover.",
+      "Easy Mobility: Equipped with 4 wheels, making it easy to move and position the machine as needed.",
+      "Water & Shock-Proof Panel: Place the machine anywhere without concerns about water damage.",
+      "In the Box: Includes 1 Washing Machine Unit, Inlet Pipe, and Outlet Pipe for a complete setup.",
     ],
     specs: {
       type: "Top Load",
@@ -145,8 +143,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3L6OoIZ",
+      amazon: "https://amzn.to/3L6OoIZ",
       flipkart:
         "https://www.flipkart.com/whirlpool-6-Kg-5-star-turbo-scrub-technology-Semi Automatic-top-load-washing-machine-grey/p/itmb6b736202c98b?pid=WMNFZC36AEHYZCEZ&lid=LSTWMNFZC36AEHYZCEZ6FXJFN&marketplace=FLIPKART&q=Whirlpool+6+Kg+5+Star+Superb+Atom+Semi Automatic+Top+Loading+Washing+Machine+%28SUPERB+ATOM+60I%2C+Grey+Dazzle%2C+TurboScrub+Technology%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&iid=65f89597-36b6-4b25-ae71-e56bcc6cee3c.WMNFZC36AEHYZCEZ.SEARCH&ssid=jcbfleqd5s0000001693390990109&qH=c54f09e6a41660b8",
     },
@@ -159,12 +156,12 @@ export const data = [
     },
     rating: "8.2",
     highlights: [
-      "This product comes ready to use and does NOT require installation or demo. All product features are presented in the user manual that comes with the product.",
-      "Top-loading washer only, It comes with a powerful motor of 270 W, which combined with its hydrologic pulsator generates powerful water flow action to ensure better cleaning of your clothes",
-      "Capacity 9 Kg: Suitable for families with 3 to 4 members",
-      "1 Year Comprehensive Warranty on Product, 7 Years Warranty on Motor",
-      "Special features: , 2 wash programs, 270 W powerful motor",
-      "Controls type: Semi Automatic",
+      "Ready to Use: This product comes fully assembled and does not require installation or a demonstration. All product features are detailed in the user manual included with the product.",
+      "Top-Loading Washer: Features a top-loading design and a powerful 270 W motor. The hydrologic pulsator ensures a strong water flow action for effective cleaning of your clothes.",
+      "Large Capacity: With a 9 Kg capacity, it's suitable for families with 3 to 4 members.",
+      "Warranty: Enjoy a 1-year comprehensive warranty on the product and a 7-year warranty on the motor.",
+      "Special Features: Includes 2 wash programs and a 270 W powerful motor for efficient washing.",
+      "Control Type: Semi-Automatic for easy operation and control.",
     ],
     specs: {
       type: "Top Load",
@@ -195,11 +192,11 @@ export const data = [
     },
     rating: "8.6",
     highlights: [
-      "Semi Automatic Top Load",
-      "1400 RPM : Higher the spin speed, lower the drying time",
-      "Number of wash programs - 2",
-      "5 Star Rating",
-      "7.5 Kg",
+      "Semi Automatic Top Load: Features a semi-automatic top-loading design for ease of use.",
+      "1400 RPM Spin Speed: Higher spin speed results in faster drying times, saving you energy and time.",
+      "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
+      "5 Star Energy Rating: Highly energy-efficient, saving you money on your utility bills.",
+      "7.5 Kg Capacity: Suitable for medium-sized laundry loads, ideal for families.",
     ],
     specs: {
       type: "Top Load",
@@ -229,10 +226,10 @@ export const data = [
     },
     rating: "8",
     highlights: [
-      "Semi Automatic Top Load",
-      "1600 RPM : Higher the spin speed, lower the drying time",
-      "5 Star Rating",
-      "7.5 Kg",
+      "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
+      "1600 RPM Spin Speed: The higher spin speed reduces drying time and saves energy.",
+      "5 Star Energy Rating: Highly energy-efficient, saving on utility costs.",
+      "7.5 Kg Capacity: Suitable for medium-sized laundry loads, making it ideal for families.",
     ],
     specs: {
       type: "Top Load",
@@ -262,11 +259,11 @@ export const data = [
     },
     rating: "8",
     highlights: [
-      "Semi Automatic Top Load",
-      "1450 RPM : Higher the spin speed, lower the drying time",
-      "Number of wash programs - 2",
-      "5 Star Rating",
-      "8 Kg",
+      "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
+      "1450 RPM Spin Speed: The higher spin speed reduces drying time, saving energy and time.",
+      "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
+      "5 Star Energy Rating: Highly energy-efficient, reducing utility costs.",
+      "8 Kg Capacity: Suitable for larger laundry loads, making it ideal for families with more extensive washing needs.",
     ],
     specs: {
       type: "Top Load",
@@ -296,14 +293,13 @@ export const data = [
     },
     rating: "8.2",
     highlights: [
-      "Semi Automatic washing Machine: Economical, Low water and energy consumption, involves manual effort; Has both washing and drying functions",
-      "Capacity 7.0 Kg (wash): Suitable for large families",
-      "Manufacturer Warranty: 2 years on product and 7 years on motor T&C",
-      "1450 RPM: Higher spin speeds helps in faster drying",
-      "Wash Programs: 2 (Gentle & Strong)",
-      "Special Feature:Anti Rust Body,Ecological Aqua Saver Technology,Deep Cleansing Technology,in built scrubber,hexafin pulsator",
-      "Also included in box: 1 Unit of Machine, 1 Unit of Drain Hose,1 unit of User Manual",
-      "Installation Type: Free Standing; Voltage: 230.0 Volts; Controls Type: Semi Automatic; Capacity: 7.0 Kg; Form Factor: Top-Loading; Maximum Rotational Speed: 1450.0 RPM; Included Components: 1 N Washing Machine, 1 N Inlet Hose,1 N Spin Cap, 1 N Drain Hose,1 N User Manual",
+      "Semi Automatic Washing Machine: Offers an economical, low water and energy consumption solution with both washing and drying functions, involving manual effort.",
+      "Capacity 7.0 Kg (Wash): Suitable for large families or handling substantial laundry loads.",
+      "Manufacturer Warranty: Enjoy a 2-year warranty on the product and an extended 7-year warranty on the motor (Terms and Conditions apply).",
+      "1450 RPM: Higher spin speeds result in faster drying times, saving energy and time.",
+      "Wash Programs: Features 2 wash programs, including Gentle and Strong, for tailored cleaning options.",
+      "Special Features: Includes an Anti Rust Body, Ecological Aqua Saver Technology, Deep Cleansing Technology, an in-built scrubber, and a hexafin pulsator for enhanced washing performance.",
+      "Included in Box: 1 Unit of Washing Machine, 1 Unit of Drain Hose, 1 Unit of User Manual for a complete setup.",
     ],
     specs: {
       type: "Top Load",
@@ -320,8 +316,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3sFXYfH",
+      amazon: "https://amzn.to/3sFXYfH",
       flipkart: "",
     },
   },
@@ -334,12 +329,12 @@ export const data = [
     },
     rating: "8.4",
     highlights: [
-      "Semi Automatic washing Machine: Economical, Low water and energy consumption, involves manual effort; Has both washing and drying functions",
-      "Capacity 7.5 Kg (wash): Suitable for large families",
-      "Manufacturer Warranty: 2 years on product and 7 years on motor T&C",
-      "5 Star Energy Rated Model : Best in class efficiency",
-      "1450 RPM: Higher spin speeds helps in faster drying",
-      "Wash Programs:Gentle & Strong",
+      "Semi Automatic Washing Machine: Offers an economical, low water and energy consumption solution with both washing and drying functions, involving manual effort.",
+      "Capacity 7.5 Kg (Wash): Suitable for large families or handling substantial laundry loads.",
+      "Manufacturer Warranty: Enjoy a 2-year warranty on the product and an extended 7-year warranty on the motor (Terms and Conditions apply).",
+      "5 Star Energy Rating: Recognized as a highly efficient model, saving you money on energy consumption.",
+      "1450 RPM: Higher spin speeds result in faster drying times, making laundry more efficient.",
+      "Wash Programs: Offers both Gentle and Strong wash programs for tailored cleaning options.",
     ],
     specs: {
       type: "Top Load",
@@ -355,10 +350,11 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3qWXO2M",
+      amazon: "https://amzn.to/3qWXO2M",
       flipkart:
         "https://www.flipkart.com/onida-7-5-Kg-5-star-Semi Automatic-top-load-washing-machine-blue-white/p/itm8b3d46f8fc457?pid=WMNG4RH2A5ES8JKZ&lid=LSTWMNG4RH2A5ES8JKZOA2WKU&marketplace=FLIPKART&q=Onida+7.5+Kg+5+Star+Semi Automatic+Top+Loading+Washing+Machine+%28S75TIB%2C+Blue%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=fcf9e08b-1720-47ec-95fc-af33e77ace8a.WMNG4RH2A5ES8JKZ.SEARCH&ppt=sp&ppn=sp&ssid=u38dihfjgw0000001693370469778&qH=04a28a5c5ba65217",
     },
   },
 ];
+
+// can you replace highlights array elements data with same meaning and return entire array

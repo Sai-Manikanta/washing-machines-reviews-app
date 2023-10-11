@@ -68,39 +68,39 @@ export const data = [
         "https://www.flipkart.com/samsung-7-Kg-5-star-ecobubble-wi-fi-digital-inverter-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm0484e1b609cf4?pid=WMNGGUWZU2HZGVQX&lid=LSTWMNGGUWZU2HZGVQXQRQY6M&marketplace=FLIPKART&q=Samsung+7+Kg+5+Star+Ecobubble%E2%84%A2+Wi-Fi%2C+Inverter+Fully+Automatic+Top+Load+Washing+Machine+%28WA70BG4542BYTL_Lavender+Gray%29%2C+Bubble+Storm+technology&store=j9e%2Fabm%2F8qx&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cbad4a7c-4e47-4f1b-b7fb-48889452cf07.WMNGGUWZU2HZGVQX.SEARCH&ppt=sp&ppn=sp&ssid=545xhu0heo0000001693373984787&qH=7396a17359263d1c",
     },
   },
-  {
-    productName:
-      "IFB 6 Kg Steam Wash, Hard Water Wash, Active Color Protection 4 years Comprehensive Warranty Fully Automatic Front Load Washing Machine with In-built Heater White (DIVA AQUA VSS 6008)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/k/n/e/-original-imagzhnema6e4haz.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
-      "800 RPM : Higher the spin speed, lower the drying time",
-      "5 Star Rating",
-      "6 Kg",
-    ],
-    specs: {
-      type: "Front Load",
-      capacity: "6 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "65 Kg",
-      rotationSpeed: "800 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/ifb-6-kg-steam-wash-hard-water-active-color-protection-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm3bf21ef8dc5e7?pid=WMNGDMYHAKGZHEPK&lid=LSTWMNGDMYHAKGZHEPKZXNDIY&marketplace=FLIPKART&q=IFB+6+Kg+Steam+Wash%2C+Hard+Water+Wash%2C+Active+Color+Protection+4+years+Comprehensive+Warranty+Fully+Automatic+Front+Load+Washing+Machine+with+In-built+Heater+White+%28DIVA+AQUA+VSS+6008%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=6f6af76b-e5eb-4090-8ddd-b3dfce32116b.WMNGDMYHAKGZHEPK.SEARCH&ppt=sp&ppn=sp&ssid=3jmayc3sww0000001693495045487&qH=97f9323904bf1867",
-    },
-  },
+  // {
+  //   productName:
+  //     "IFB 6 Kg Steam Wash, Hard Water Wash, Active Color Protection 4 years Comprehensive Warranty Fully Automatic Front Load Washing Machine with In-built Heater White (DIVA AQUA VSS 6008)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/k/n/e/-original-imagzhnema6e4haz.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
+  //     "800 RPM : Higher the spin speed, lower the drying time",
+  //     "5 Star Rating",
+  //     "6 Kg",
+  //   ],
+  //   specs: {
+  //     type: "Front Load",
+  //     capacity: "6 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "65 Kg",
+  //     rotationSpeed: "800 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/ifb-6-kg-steam-wash-hard-water-active-color-protection-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm3bf21ef8dc5e7?pid=WMNGDMYHAKGZHEPK&lid=LSTWMNGDMYHAKGZHEPKZXNDIY&marketplace=FLIPKART&q=IFB+6+Kg+Steam+Wash%2C+Hard+Water+Wash%2C+Active+Color+Protection+4+years+Comprehensive+Warranty+Fully+Automatic+Front+Load+Washing+Machine+with+In-built+Heater+White+%28DIVA+AQUA+VSS+6008%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=6f6af76b-e5eb-4090-8ddd-b3dfce32116b.WMNGDMYHAKGZHEPK.SEARCH&ppt=sp&ppn=sp&ssid=3jmayc3sww0000001693495045487&qH=97f9323904bf1867",
+  //   },
+  // },
   {
     productName:
       "Bosch 6.5Kg 5 Star 1000RPM INVERTER TOUCH CONTROL Fully Automatic Front Load with Heater White(WLJ2006EIN)",
@@ -203,39 +203,39 @@ export const data = [
         "https://www.flipkart.com/whirlpool-9-Kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itmb2b943205e2fd?pid=WMNGZVMVGJHNXRP6&lid=LSTWMNGZVMVGJHNXRP6VEYOUY&marketplace=FLIPKART&q=Whirlpool+9+Kg+5+Star+Bloomwash+Pro+Fully-Automatic+Top+Loading+Washing+Machine+-+Built+In+Heater+%28360+BW+PRO+%28570%29+H+9.0+MIDNIGHT+GREY+10YMW%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=085d823c-bbec-46a7-95ab-6315152aae7f.WMNGZVMVGJHNXRP6.SEARCH&ppt=sp&ppn=sp&ssid=dpo131x4w00000001693374946326&qH=4057d54c41f8e5e1",
     },
   },
-  {
-    productName:
-      "BOSCH 6 Kg Drive Motor, Anti Tangle, Anti Vibration Fully Automatic Front Load Washing Machine Silver (WLJ2016TIN)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/s/x/y/-original-imagpgh6qtcwdcug.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.8",
-    highlights: [
-      "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
-      "1000 RPM : Higher the spin speed, lower the drying time",
-      "5 Star Rating",
-      "6 Kg",
-    ],
-    specs: {
-      type: "Front Load",
-      capacity: "6 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "63.51 Kg",
-      rotationSpeed: "1000 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/bosch-6-Kg-drive-motor-anti-tangle-vibration-fully-automatic-front-load-washing-machine-silver/p/itm54c6cc484c448?pid=WMNFY9NJVJUGFSDJ&lid=LSTWMNFY9NJVJUGFSDJUGFQQV&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=6fe2e240-9f3f-4afa-b900-b4344e7004c9.WMNFY9NJVJUGFSDJ.SEARCH&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
-    },
-  },
+  // {
+  //   productName:
+  //     "BOSCH 6 Kg Drive Motor, Anti Tangle, Anti Vibration Fully Automatic Front Load Washing Machine Silver (WLJ2016TIN)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/s/x/y/-original-imagpgh6qtcwdcug.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.8",
+  //   highlights: [
+  //     "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
+  //     "1000 RPM : Higher the spin speed, lower the drying time",
+  //     "5 Star Rating",
+  //     "6 Kg",
+  //   ],
+  //   specs: {
+  //     type: "Front Load",
+  //     capacity: "6 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "63.51 Kg",
+  //     rotationSpeed: "1000 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/bosch-6-Kg-drive-motor-anti-tangle-vibration-fully-automatic-front-load-washing-machine-silver/p/itm54c6cc484c448?pid=WMNFY9NJVJUGFSDJ&lid=LSTWMNFY9NJVJUGFSDJUGFQQV&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=6fe2e240-9f3f-4afa-b900-b4344e7004c9.WMNFY9NJVJUGFSDJ.SEARCH&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
+  //   },
+  // },
   {
     productName:
       "IFB 6 Kg 5 Star Front Load Washing Machine 2X Power Steam (DIVA AQUA GBS 6010, 2023 Model, Grey, In-built Heater, 4 years Comprehensive Warranty)",

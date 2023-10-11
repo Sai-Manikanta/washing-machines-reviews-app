@@ -1,38 +1,38 @@
 export const data = [
-  {
-    productName:
-      "MOTOROLA 10.5 Kg Smart Wi-Fi Enabled Steam Wash Inverter Technology Fully Automatic Front Load Washing Machine with In-built Heater Grey (105FLIWBM5S)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/ku1k4280/washing-machine-new/l/r/z/105fliwbm5s-motorola-original-imag79cj2gjjbz4d.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.2",
-    highlights: [
-      "Fully Automatic Front Load",
-      "1400 RPM : Higher the spin speed, lower the drying time",
-      "Number of wash programs - 16",
-      "5 Star Rating",
-      "10.5 Kg",
-    ],
-    specs: {
-      type: "Front Load",
-      capacity: "10.5 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "70 Kg",
-      rotationSpeed: "1400 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "    https://www.flipkart.com/motorola-10-5-Kg-smart-wi-fi-enabled-steam-wash-inverter-technology-fully-automatic-front-load-washing-machine-in-built-heater-grey/p/itm9d6de3226dec8?pid=WMNGF8KEVRRYS87B&lid=LSTWMNGF8KEVRRYS87BG2WQMH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_9&otracker=AS_Query_HistoryAutoSuggest_1_13_na_na_na&otracker1=AS_Query_HistoryAutoSuggest_1_13_na_na_na&fm=search-autosuggest&iid=52b3719d-3be9-44d5-9ad2-5ff80f172d53.WMNGF8KEVRRYS87B.SEARCH&ppt=sp&ppn=sp&ssid=t2tviu5l9c0000001693379994364&qH=bcadf718d561cab9",
-    },
-  },
+  // {
+  //   productName:
+  //     "MOTOROLA 10.5 Kg Smart Wi-Fi Enabled Steam Wash Inverter Technology Fully Automatic Front Load Washing Machine with In-built Heater Grey (105FLIWBM5S)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/ku1k4280/washing-machine-new/l/r/z/105fliwbm5s-motorola-original-imag79cj2gjjbz4d.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.2",
+  //   highlights: [
+  //     "Fully Automatic Front Load",
+  //     "1400 RPM : Higher the spin speed, lower the drying time",
+  //     "Number of wash programs - 16",
+  //     "5 Star Rating",
+  //     "10.5 Kg",
+  //   ],
+  //   specs: {
+  //     type: "Front Load",
+  //     capacity: "10.5 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "70 Kg",
+  //     rotationSpeed: "1400 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "    https://www.flipkart.com/motorola-10-5-Kg-smart-wi-fi-enabled-steam-wash-inverter-technology-fully-automatic-front-load-washing-machine-in-built-heater-grey/p/itm9d6de3226dec8?pid=WMNGF8KEVRRYS87B&lid=LSTWMNGF8KEVRRYS87BG2WQMH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_9&otracker=AS_Query_HistoryAutoSuggest_1_13_na_na_na&otracker1=AS_Query_HistoryAutoSuggest_1_13_na_na_na&fm=search-autosuggest&iid=52b3719d-3be9-44d5-9ad2-5ff80f172d53.WMNGF8KEVRRYS87B.SEARCH&ppt=sp&ppn=sp&ssid=t2tviu5l9c0000001693379994364&qH=bcadf718d561cab9",
+  //   },
+  // },
   {
     productName:
       "LG 7 Kg 5 Star Inverter Touch panel Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1207SDM, Middle Black, Steam for Hygiene Wash)",

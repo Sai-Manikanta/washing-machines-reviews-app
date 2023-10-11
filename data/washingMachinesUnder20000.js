@@ -334,38 +334,38 @@ export const data = [
         "https://www.flipkart.com/onida-8-Kg-5-star-hexa-crystal-drum-technology-fully-automatic-top-load-washing-machine-black/p/itmea3ba58a6a4d1?pid=WMNGF24DE7BM33NW&lid=LSTWMNGF24DE7BM33NWEECRJH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_24&otracker=search&otracker1=search&fm=Search&iid=3c99f126-085c-464a-9edd-c8ce2d356449.WMNGF24DE7BM33NW.SEARCH&ppt=sp&ppn=sp&ssid=6tcy3sz9ds0000001693467926072&qH=bcadf718d561cab9",
     },
   },
-  {
-    productName:
-      "realme TechLife 8 Kg 5 Star Rating Fully Automatic Top Load Washing Machine with In-built Heater Grey (RMFA80B5G)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/s/m/v/-original-imags7trhxa6twwf.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality",
-      "700 RPM : Higher the spin speed, lower the drying time",
-      "Number of wash programs - 10",
-      "5 Star Rating",
-      "8 Kg",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "8 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "32 Kg",
-      rotationSpeed: "700 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/realme-techlife-8-Kg-5-star-rating-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm869d2b96f5ced?pid=WMNG4XMEZFY6QZ2G&lid=LSTWMNG4XMEZFY6QZ2GYN41I0&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3AWMNG55J2TGCHBYF8%3Bl%3ALSTWMNG55J2TGCHBYF8ZHNLJ0%3Bpt%3App%3Buid%3A3e09a2dd-47dc-11ee-8337-cdde1e4e7731%3B.WMNG4XMEZFY6QZ2G&ppt=pp&ppn=pp&ssid=9scy7nyp0g0000001693471940805&otracker=pp_reco_Similar%2BProducts_3_37.productCard.PMU_HORIZONTAL_realme%2BTechLife%2B8%2BKg%2B5%2BStar%2BRating%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2Bwith%2BIn-built%2BHeater%2BGrey_WMNG4XMEZFY6QZ2G_productRecommendation%2Fsimilar_2&otracker1=pp_reco_PINNED_productRecommendation%2Fsimilar_Similar%2BProducts_GRID_productCard_cc_3_NA_view-all&cid=WMNG4XMEZFY6QZ2G",
-    },
-  },
+  // {
+  //   productName:
+  //     "realme TechLife 8 Kg 5 Star Rating Fully Automatic Top Load Washing Machine with In-built Heater Grey (RMFA80B5G)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/s/m/v/-original-imags7trhxa6twwf.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Top Load Washing Machines are ergonomically friendly and provide great wash quality",
+  //     "700 RPM : Higher the spin speed, lower the drying time",
+  //     "Number of wash programs - 10",
+  //     "5 Star Rating",
+  //     "8 Kg",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "8 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "32 Kg",
+  //     rotationSpeed: "700 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/realme-techlife-8-Kg-5-star-rating-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm869d2b96f5ced?pid=WMNG4XMEZFY6QZ2G&lid=LSTWMNG4XMEZFY6QZ2GYN41I0&marketplace=FLIPKART&fm=productRecommendation%2Fsimilar&iid=R%3As%3Bp%3AWMNG55J2TGCHBYF8%3Bl%3ALSTWMNG55J2TGCHBYF8ZHNLJ0%3Bpt%3App%3Buid%3A3e09a2dd-47dc-11ee-8337-cdde1e4e7731%3B.WMNG4XMEZFY6QZ2G&ppt=pp&ppn=pp&ssid=9scy7nyp0g0000001693471940805&otracker=pp_reco_Similar%2BProducts_3_37.productCard.PMU_HORIZONTAL_realme%2BTechLife%2B8%2BKg%2B5%2BStar%2BRating%2BFully%2BAutomatic%2BTop%2BLoad%2BWashing%2BMachine%2Bwith%2BIn-built%2BHeater%2BGrey_WMNG4XMEZFY6QZ2G_productRecommendation%2Fsimilar_2&otracker1=pp_reco_PINNED_productRecommendation%2Fsimilar_Similar%2BProducts_GRID_productCard_cc_3_NA_view-all&cid=WMNG4XMEZFY6QZ2G",
+  //   },
+  // },
 ];

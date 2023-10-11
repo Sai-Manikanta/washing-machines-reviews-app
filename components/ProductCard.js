@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { Disclosure } from "@headlessui/react";
 import { ChevronDownIcon, ChevronUpIcon } from "@heroicons/react/20/solid";
 import { PiDressLight } from "react-icons/pi";
 import { TbWash, TbWashMachine } from "react-icons/tb";
@@ -8,7 +7,6 @@ import { SlSpeedometer } from "react-icons/sl";
 import { RiSettingsLine } from "react-icons/ri";
 import WatchVideoReview from "./WatchVideoReview";
 import { useRouter } from "next/router";
-
 import { useState, useEffect } from "react";
 
 const ProductCard = ({ id, washingMachineData }) => {
@@ -40,10 +38,8 @@ const ProductCard = ({ id, washingMachineData }) => {
   return (
     <div className="pt-8" id={`product-${id}`}>
       {" "}
-      {/*added div*/}
       <div
         className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex"
-        // id={`product-${id}`}>
       >
         <div className="w-36 md:w-56 mx-auto shrink-0">
           <Image
@@ -237,13 +233,15 @@ const ProductCard = ({ id, washingMachineData }) => {
                   <span className="border-l-2 pl-2 font-medium">
                     Main highlights
                   </span>
-                  <ul className="list-disc list-inside space-y-3 text-sm mt-3">
-                    {highlights.map((text, i) => (
-                      <li key={i} className="leading-6">
-                        {text}
-                      </li>
-                    ))}
-                  </ul>
+                  <blockquote cite="">
+                    <ul className="list-disc list-inside space-y-3 text-sm mt-3">
+                      {highlights.map((text, i) => (
+                        <li key={i} className="leading-6">
+                          {text}
+                        </li>
+                      ))}
+                    </ul>
+                  </blockquote>
                   <hr className="my-3" />
                 </div>
               </div>
