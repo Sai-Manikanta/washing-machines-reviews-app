@@ -38,40 +38,40 @@ export const data = [
         "https://www.flipkart.com/samsung-6-Kg-5-star-air-turbo-drying-Semi Automatic-top-load-washing-machine-white-grey-purple/p/itmc4c87248a9a26?pid=WMNFUGBCYDGMKE74&lid=LSTWMNFUGBCYDGMKE74FUYZ3U&marketplace=FLIPKART&q=Samsung+6+Kg%2C+5+star%2C+Semi Automatic+Washing+Machine+%28WT60R2000LL%2FTL%2C+Air+Turbo+Drying%2C+LIGHT+GRAY%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=organic&iid=cd19d7c5-9687-4cee-95cb-e70f4f218fba.WMNFUGBCYDGMKE74.SEARCH&ppt=hp&ppn=homepage&ssid=z9w8boz8ow0000001693367913609&qH=f1b5687e3a6df0ed",
     },
   },
-  {
-    productName:
-      "realme TechLife 7.5 Kg 5 Star Rating Semi Automatic Top Load Washing Machine Black, Grey (RMSA755NNNDG)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/x/b/j/-original-imags7pajggkacwy.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Semi Automatic Top Load: Features a semi-automatic top-loading design.",
-      "1400 RPM Spin Speed: Faster spin speed for quicker drying.",
-      "2 Wash Programs: Offers a choice of 2 different wash programs.",
-      "5 Star Energy Rating: Highly energy-efficient appliance.",
-      "7.5 Kg Capacity: Suitable for loads up to 7.5 kilograms.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "7.5 Kg",
-      tubType: "Polypropylene",
-      functionType: "Semi Automatic",
-      weight: "17 Kg",
-      rotationSpeed: "1400 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/realme-techlife-7-5-Kg-5-star-rating-Semi Automatic-top-load-washing-machine-black-grey/p/itm16f231540f615?pid=WMNGATRJPSSNF4BN&lid=LSTWMNGATRJPSSNF4BNPATGUD&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNGATRJPSSNF4BN.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
-    },
-  },
+  // {
+  //   productName:
+  //     "realme TechLife 7.5 Kg 5 Star Rating Semi Automatic Top Load Washing Machine Black, Grey (RMSA755NNNDG)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/x/b/j/-original-imags7pajggkacwy.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Semi Automatic Top Load: Features a semi-automatic top-loading design.",
+  //     "1400 RPM Spin Speed: Faster spin speed for quicker drying.",
+  //     "2 Wash Programs: Offers a choice of 2 different wash programs.",
+  //     "5 Star Energy Rating: Highly energy-efficient appliance.",
+  //     "7.5 Kg Capacity: Suitable for loads up to 7.5 kilograms.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "7.5 Kg",
+  //     tubType: "Polypropylene",
+  //     functionType: "Semi Automatic",
+  //     weight: "17 Kg",
+  //     rotationSpeed: "1400 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/realme-techlife-7-5-Kg-5-star-rating-Semi Automatic-top-load-washing-machine-black-grey/p/itm16f231540f615?pid=WMNGATRJPSSNF4BN&lid=LSTWMNGATRJPSSNF4BNPATGUD&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNGATRJPSSNF4BN.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
+  //   },
+  // },
   {
     productName:
       "Whirlpool 7 Kg 5 Star Superb Atom Semi Automatic Top Loading Washing Machine (SUPERB ATOM 70I Grey Dazzle, TurboScrub Technology)",
@@ -183,107 +183,107 @@ export const data = [
         "https://www.flipkart.com/onida-9-Kg-washer-only-white-maroon/p/itmfga8j63cagyh9?pid=WMNEW5ZTZGDP7GJN&lid=LSTWMNEW5ZTZGDP7GJN2LCFYV&marketplace=FLIPKART&q=Onida+6.5+Kg+Top+Load+Washer+Only+%28WS65WLPT1LR+Liliput%2C+Lava+Red%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=85c56301-0103-4f0a-bde5-c02c5a11c1b3.WMNEW5ZTZGDP7GJN.SEARCH&ppt=sp&ppn=sp&ssid=7f0fn9o61c0000001693368787303&qH=6c449620cfb5d5a0",
     },
   },
-  {
-    productName:
-      "MarQ by Flipkart 7.5 Kg 5 Star Rating Semi Automatic Top Load Washing Machine White, Grey (MQSA755NNNDW)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/g/e/x/-original-imags7pgsb3ktzrc.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.6",
-    highlights: [
-      "Semi Automatic Top Load: Features a semi-automatic top-loading design for ease of use.",
-      "1400 RPM Spin Speed: Higher spin speed results in faster drying times, saving you energy and time.",
-      "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
-      "5 Star Energy Rating: Highly energy-efficient, saving you money on your utility bills.",
-      "7.5 Kg Capacity: Suitable for medium-sized laundry loads, ideal for families.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "7.5 Kg",
-      tubType: "Polypropylene",
-      functionType: "Semi Automatic",
-      weight: "17 Kg",
-      rotationSpeed: "1400 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/marq-flipkart-7-5-Kg-5-star-rating-Semi Automatic-top-load-washing-machine-white-grey/p/itm9311c4075cc33?pid=WMNGCNNUV42YYBGW&lid=LSTWMNGCNNUV42YYBGW1DFQJM&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNGCNNUV42YYBGW.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
-    },
-  },
-  {
-    productName:
-      "Thomson 7.5 Kg Semi Automatic Top Load Washing Machine Black, Grey (TSA7500SPH)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/1/3/x/-original-imagsvy3s3hjndvz.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8",
-    highlights: [
-      "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
-      "1600 RPM Spin Speed: The higher spin speed reduces drying time and saves energy.",
-      "5 Star Energy Rating: Highly energy-efficient, saving on utility costs.",
-      "7.5 Kg Capacity: Suitable for medium-sized laundry loads, making it ideal for families.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "7.5 Kg",
-      tubType: "Plastic",
-      functionType: "Semi Automatic",
-      weight: "25 Kg",
-      rotationSpeed: "1600 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/thomson-7-5-Kg-Semi Automatic-top-load-washing-machine-black-grey/p/itme94dbc2a6cd90?pid=WMNGR5WS7HZUHVMR&lid=LSTWMNGR5WS7HZUHVMRMC92TS&marketplace=FLIPKART&q=washing%20machines&sattr[]=color&sattr[]=washing_capacity&sattr[]=energy_rating&st=color&otracker=search",
-    },
-  },
-  {
-    productName:
-      "ONIDA 8 Kg 5 star and In-built Basket Semi Automatic Top Load Washing Machine Grey (SMARTCARE 80SBXG/S80SBXG)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/kmwcuq80/washing-machine-new/c/o/d/s80sbxg-onida-original-imagfzw7uywyyxta.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8",
-    highlights: [
-      "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
-      "1450 RPM Spin Speed: The higher spin speed reduces drying time, saving energy and time.",
-      "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
-      "5 Star Energy Rating: Highly energy-efficient, reducing utility costs.",
-      "8 Kg Capacity: Suitable for larger laundry loads, making it ideal for families with more extensive washing needs.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "8 Kg",
-      tubType: "Plastic",
-      functionType: "Semi Automatic",
-      weight: "22.5 Kg",
-      rotationSpeed: "1450 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/onida-8-Kg-5-star-in-built-basket-Semi Automatic-top-load-washing-machine-grey/p/itm45f719493bbba?pid=WMNFVXHQAFMQXRXA&lid=LSTWMNFVXHQAFMQXRXAR8GHBP&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNFVXHQAFMQXRXA.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
-    },
-  },
+  // {
+  //   productName:
+  //     "MarQ by Flipkart 7.5 Kg 5 Star Rating Semi Automatic Top Load Washing Machine White, Grey (MQSA755NNNDW)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/g/e/x/-original-imags7pgsb3ktzrc.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.6",
+  //   highlights: [
+  //     "Semi Automatic Top Load: Features a semi-automatic top-loading design for ease of use.",
+  //     "1400 RPM Spin Speed: Higher spin speed results in faster drying times, saving you energy and time.",
+  //     "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
+  //     "5 Star Energy Rating: Highly energy-efficient, saving you money on your utility bills.",
+  //     "7.5 Kg Capacity: Suitable for medium-sized laundry loads, ideal for families.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "7.5 Kg",
+  //     tubType: "Polypropylene",
+  //     functionType: "Semi Automatic",
+  //     weight: "17 Kg",
+  //     rotationSpeed: "1400 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/marq-flipkart-7-5-Kg-5-star-rating-Semi Automatic-top-load-washing-machine-white-grey/p/itm9311c4075cc33?pid=WMNGCNNUV42YYBGW&lid=LSTWMNGCNNUV42YYBGW1DFQJM&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNGCNNUV42YYBGW.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
+  //   },
+  // },
+  // {
+  //   productName:
+  //     "Thomson 7.5 Kg Semi Automatic Top Load Washing Machine Black, Grey (TSA7500SPH)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/1/3/x/-original-imagsvy3s3hjndvz.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8",
+  //   highlights: [
+  //     "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
+  //     "1600 RPM Spin Speed: The higher spin speed reduces drying time and saves energy.",
+  //     "5 Star Energy Rating: Highly energy-efficient, saving on utility costs.",
+  //     "7.5 Kg Capacity: Suitable for medium-sized laundry loads, making it ideal for families.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "7.5 Kg",
+  //     tubType: "Plastic",
+  //     functionType: "Semi Automatic",
+  //     weight: "25 Kg",
+  //     rotationSpeed: "1600 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/thomson-7-5-Kg-Semi Automatic-top-load-washing-machine-black-grey/p/itme94dbc2a6cd90?pid=WMNGR5WS7HZUHVMR&lid=LSTWMNGR5WS7HZUHVMRMC92TS&marketplace=FLIPKART&q=washing%20machines&sattr[]=color&sattr[]=washing_capacity&sattr[]=energy_rating&st=color&otracker=search",
+  //   },
+  // },
+  // {
+  //   productName:
+  //     "ONIDA 8 Kg 5 star and In-built Basket Semi Automatic Top Load Washing Machine Grey (SMARTCARE 80SBXG/S80SBXG)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/kmwcuq80/washing-machine-new/c/o/d/s80sbxg-onida-original-imagfzw7uywyyxta.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8",
+  //   highlights: [
+  //     "Semi Automatic Top Load: Features a user-friendly semi-automatic top-loading design.",
+  //     "1450 RPM Spin Speed: The higher spin speed reduces drying time, saving energy and time.",
+  //     "2 Wash Programs: Offers a choice of 2 different wash programs for versatile cleaning options.",
+  //     "5 Star Energy Rating: Highly energy-efficient, reducing utility costs.",
+  //     "8 Kg Capacity: Suitable for larger laundry loads, making it ideal for families with more extensive washing needs.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "8 Kg",
+  //     tubType: "Plastic",
+  //     functionType: "Semi Automatic",
+  //     weight: "22.5 Kg",
+  //     rotationSpeed: "1450 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/onida-8-Kg-5-star-in-built-basket-Semi Automatic-top-load-washing-machine-grey/p/itm45f719493bbba?pid=WMNFVXHQAFMQXRXA&lid=LSTWMNFVXHQAFMQXRXAR8GHBP&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=fa6bf496-ee23-4776-b887-2ff200d4082a.WMNFVXHQAFMQXRXA.SEARCH&ppt=sp&ppn=sp&ssid=8u6s60ksq80000001693368163975&qH=bcadf718d561cab9",
+  //   },
+  // },
   {
     productName:
       "Onida 7 Kg 5 Star Semi Automatic Top Loading Washing Machine (S70OIB, White)",
@@ -356,5 +356,3 @@ export const data = [
     },
   },
 ];
-
-// can you replace highlights array elements data with same meaning and return entire array

@@ -189,141 +189,141 @@ export const data = [
         "https://www.flipkart.com/panasonic-6-Kg-5-star-8-wash-program-aquabeat-fully-automatic-top-load-washing-machine-grey/p/itm909929dc404cc?pid=WMNFSNKN2K2ZAAYH&lid=LSTWMNFSNKN2K2ZAAYHDBW38K&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZnHrvINLLLXghD1_AxYG408xENvsliJs69JP81pJad3Zg%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
     },
   },
-  {
-    productName:
-      "Whirlpool 7 Kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey (MAGIC CLEAN 7.0 GENX GREY 5YMW)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/p/1/g/-original-imagr5pa4shznqyh.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Top Load Washing Machine: Offers ergonomic design and great wash quality for user convenience.",
-      "740 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
-      "12 Wash Programs: Provides a variety of wash programs for versatile cleaning options.",
-      "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
-      "7 Kg Capacity: Suitable for households with moderate laundry needs.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "7 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "28 Kg",
-      rotationSpeed: "740 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/whirlpool-7-Kg-magic-clean-5-star-fully-automatic-top-load-washing-machine-grey/p/itm50fdb8ca1e478?pid=WMNGDSUXZS5BWH7H&lid=LSTWMNGDSUXZS5BWH7HJAJBFH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=BestsellerId_j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNGDSUXZS5BWH7H.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
-    },
-  },
-  {
-    productName:
-      "realme TechLife 7.5 Kg 5 Star Rating Fabric Safe Wash Fully Automatic Top Load Washing Machine Grey (RMFA75A5G)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/z/l/l/-original-imags7tpwaxawghz.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Top Load Washing Machines: Designed for ergonomic user-friendliness and excellent wash quality.",
-      "700 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
-      "10 Wash Programs: Provides a variety of 10 wash programs for versatile cleaning options.",
-      "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
-      "7.5 Kg Capacity: Suitable for households with moderate to larger laundry loads.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "7.5 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "29 Kg",
-      rotationSpeed: "700 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/realme-techlife-7-5-Kg-5-star-rating-fabric-safe-wash-fully-automatic-top-load-washing-machine-grey/p/itm048aca1726a71?pid=WMNG4XM5CQTNRQHV&lid=LSTWMNG4XM5CQTNRQHVWOSYMQ&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=BestsellerId_j9e%2Fabm%2F8qx&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNG4XM5CQTNRQHV.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
-    },
-  },
-  {
-    productName:
-      "Whirlpool 6.5 Kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey (MAGIC CLEAN 6.5 GENX GREY 5YMW)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/f/m/w/-original-imagpqnjhhfhjzgb.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Top Load Washing Machines: Designed for ergonomic user-friendliness and provide excellent wash quality.",
-      "740 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
-      "12 Wash Programs: Offers a variety of 12 wash programs for versatile cleaning options.",
-      "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
-      "6.5 Kg Capacity: Suitable for households with smaller to moderate laundry loads.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "6.5 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "28 Kg",
-      rotationSpeed: "740 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/whirlpool-6-5-Kg-magic-clean-5-star-fully-automatic-top-load-washing-machine-grey/p/itme0b3a8bd54152?pid=WMNGNZFCKg3J2GMB&lid=LSTWMNGNZFCKg3J2GMB5M1TVT&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZl4tDWWoW3NTJKXGq20-aF535MbUtycb_7lj9P8hPMEnA%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
-    },
-  },
-  {
-    productName:
-      "ONIDA 6.2 Kg Fully Automatic Top Load Washing Machine Grey (T62CGN / CRYSTAL 62)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/km2clu80/washing-machine-new/f/a/1/t62cgn-crystal-62-onida-original-imagffsh5zugj2gg.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.4",
-    highlights: [
-      "Fully Automatic Top Load: Convenient and user-friendly washing machine.",
-      "700 RPM Spin Speed: Higher spin speed results in shorter drying times, making laundry more efficient.",
-      "10 Wash Programs: Provides a variety of 10 wash programs for versatile cleaning options.",
-      "6.2 Kg Capacity: Suitable for households with smaller to moderate laundry loads.",
-    ],
-    specs: {
-      type: "Top Load",
-      capacity: "6.2 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "22 Kg",
-      rotationSpeed: "700 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/onida-6-2-Kg-fully-automatic-top-load-washing-machine-grey/p/itmfd4jcbym9btxx?pid=WMNFD4JCWJEYZF7U&lid=LSTWMNFD4JCWJEYZF7UFEEMKC&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNFD4JCWJEYZF7U.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
-    },
-  },
+  // {
+  //   productName:
+  //     "Whirlpool 7 Kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey (MAGIC CLEAN 7.0 GENX GREY 5YMW)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/p/1/g/-original-imagr5pa4shznqyh.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Top Load Washing Machine: Offers ergonomic design and great wash quality for user convenience.",
+  //     "740 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
+  //     "12 Wash Programs: Provides a variety of wash programs for versatile cleaning options.",
+  //     "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
+  //     "7 Kg Capacity: Suitable for households with moderate laundry needs.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "7 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "28 Kg",
+  //     rotationSpeed: "740 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/whirlpool-7-Kg-magic-clean-5-star-fully-automatic-top-load-washing-machine-grey/p/itm50fdb8ca1e478?pid=WMNGDSUXZS5BWH7H&lid=LSTWMNGDSUXZS5BWH7HJAJBFH&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=BestsellerId_j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNGDSUXZS5BWH7H.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+  //   },
+  // },
+  // {
+  //   productName:
+  //     "realme TechLife 7.5 Kg 5 Star Rating Fabric Safe Wash Fully Automatic Top Load Washing Machine Grey (RMFA75A5G)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/z/l/l/-original-imags7tpwaxawghz.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Top Load Washing Machines: Designed for ergonomic user-friendliness and excellent wash quality.",
+  //     "700 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
+  //     "10 Wash Programs: Provides a variety of 10 wash programs for versatile cleaning options.",
+  //     "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
+  //     "7.5 Kg Capacity: Suitable for households with moderate to larger laundry loads.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "7.5 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "29 Kg",
+  //     rotationSpeed: "700 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/realme-techlife-7-5-Kg-5-star-rating-fabric-safe-wash-fully-automatic-top-load-washing-machine-grey/p/itm048aca1726a71?pid=WMNG4XM5CQTNRQHV&lid=LSTWMNG4XM5CQTNRQHVWOSYMQ&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=BestsellerId_j9e%2Fabm%2F8qx&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNG4XM5CQTNRQHV.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+  //   },
+  // },
+  // {
+  //   productName:
+  //     "Whirlpool 6.5 Kg Magic Clean 5 Star Fully Automatic Top Load Washing Machine Grey (MAGIC CLEAN 6.5 GENX GREY 5YMW)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/xif0q/washing-machine-new/f/m/w/-original-imagpqnjhhfhjzgb.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Top Load Washing Machines: Designed for ergonomic user-friendliness and provide excellent wash quality.",
+  //     "740 RPM Spin Speed: The higher spin speed results in shorter drying times, making laundry more efficient.",
+  //     "12 Wash Programs: Offers a variety of 12 wash programs for versatile cleaning options.",
+  //     "5 Star Energy Rating: Recognized as best in class for energy efficiency, reducing utility costs.",
+  //     "6.5 Kg Capacity: Suitable for households with smaller to moderate laundry loads.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "6.5 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "28 Kg",
+  //     rotationSpeed: "740 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/whirlpool-6-5-Kg-magic-clean-5-star-fully-automatic-top-load-washing-machine-grey/p/itme0b3a8bd54152?pid=WMNGNZFCKg3J2GMB&lid=LSTWMNGNZFCKg3J2GMB5M1TVT&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_TIr_OHldkQ9qj0YVgdmIP77Ki6-S4-IJG4ZxS8XyiZl4tDWWoW3NTJKXGq20-aF535MbUtycb_7lj9P8hPMEnA%3D%3D&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+  //   },
+  // },
+  // {
+  //   productName:
+  //     "ONIDA 6.2 Kg Fully Automatic Top Load Washing Machine Grey (T62CGN / CRYSTAL 62)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/km2clu80/washing-machine-new/f/a/1/t62cgn-crystal-62-onida-original-imagffsh5zugj2gg.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.4",
+  //   highlights: [
+  //     "Fully Automatic Top Load: Convenient and user-friendly washing machine.",
+  //     "700 RPM Spin Speed: Higher spin speed results in shorter drying times, making laundry more efficient.",
+  //     "10 Wash Programs: Provides a variety of 10 wash programs for versatile cleaning options.",
+  //     "6.2 Kg Capacity: Suitable for households with smaller to moderate laundry loads.",
+  //   ],
+  //   specs: {
+  //     type: "Top Load",
+  //     capacity: "6.2 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "22 Kg",
+  //     rotationSpeed: "700 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/onida-6-2-Kg-fully-automatic-top-load-washing-machine-grey/p/itmfd4jcbym9btxx?pid=WMNFD4JCWJEYZF7U&lid=LSTWMNFD4JCWJEYZF7UFEEMKC&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_7&otracker=search&otracker1=search&fm=Search&iid=199ffacc-af2f-4f8c-a16b-e55725bbedf9.WMNFD4JCWJEYZF7U.SEARCH&ppt=sp&ppn=sp&ssid=0cw01ozw6o0000001693370737864&qH=bcadf718d561cab9",
+  //   },
+  // },
   {
     productName:
       "Haier 7 Kg 5 Star Fully Automatic Top Load Washing Machine (2023 Model, HWM70-AE, Oceanus Wave Drum, Moon Light Grey)",

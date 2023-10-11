@@ -267,40 +267,40 @@ export const data = [
         "https://www.flipkart.com/ifb-7-Kg-steam-wash-aqua-energie-anti-allergen-4-years-comprehensive-warranty-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm0e243d537ca95?pid=WMNGAM87UHG237MK&lid=LSTWMNGAM87UHG237MKG5BCBV&marketplace=FLIPKART&q=NEO+DIVA+VXS+7010&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=156657b5-70b4-4969-a454-3ff91e874ad7.WMNGAM87UHG237MK.SEARCH&ppt=sp&ppn=sp&ssid=1cmju97bxc0000001693472901249&qH=152abfa9b17d6431",
     },
   },
-  {
-    productName:
-      "LG 6.5 Kg with Steam and Smart Diagnosis Fully Automatic Front Load Washing Machine with In-built Heater White (FHM1065SDW)",
-    productImage: {
-      url: "https://rukminim2.flixcart.com/image/416/416/l0bbonk0/washing-machine-new/o/k/v/6-5-44-fhm1065sdw-5-0-062-60-62-lg-85-original-imagc4zepg7xj7uh.jpeg?q=70",
-      alt: "Washing Machine Photo",
-    },
-    rating: "8.8",
-    highlights: [
-      "Fully Automatic Front Load Washing Machines deliver Excellent Wash Quality with Minimal Operating Costs",
-      "Operates at 1000 RPM: Faster spin speeds lead to reduced drying time",
-      "Offers a total of 10 Wash Programs",
-      "Boasts a 5 Star Rating for energy efficiency",
-      "Features a 6.5 Kg Capacity, suitable for various household sizes",
-    ],
-    specs: {
-      type: "Front Load",
-      capacity: "6.5 Kg",
-      tubType: "Stainless Steel",
-      functionType: "Fully Automatic",
-      weight: "62 Kg",
-      rotationSpeed: "1000 RPM",
-    },
-    specialFeatures: "",
-    videoReview: {
-      title: "",
-      id: "",
-    },
-    stores: {
-      amazon: "",
-      flipkart:
-        "https://www.flipkart.com/lg-6-5-Kg-steam-smart-diagnosis-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmafe4e5c13abbb?pid=WMNG9UANWZE3YNDA&lid=LSTWMNG9UANWZE3YNDAE3L5SG&marketplace=FLIPKART&q=washing+machhines&store=j9e%2Fabm%2F8qx&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=696493d9-d179-42b2-bd4c-39dbb0922f3e.WMNG9UANWZE3YNDA.SEARCH&ppt=sp&ppn=sp&qH=42676251d7054dc2",
-    },
-  },
+  // {
+  //   productName:
+  //     "LG 6.5 Kg with Steam and Smart Diagnosis Fully Automatic Front Load Washing Machine with In-built Heater White (FHM1065SDW)",
+  //   productImage: {
+  //     url: "https://rukminim2.flixcart.com/image/416/416/l0bbonk0/washing-machine-new/o/k/v/6-5-44-fhm1065sdw-5-0-062-60-62-lg-85-original-imagc4zepg7xj7uh.jpeg?q=70",
+  //     alt: "Washing Machine Photo",
+  //   },
+  //   rating: "8.8",
+  //   highlights: [
+  //     "Fully Automatic Front Load Washing Machines deliver Excellent Wash Quality with Minimal Operating Costs",
+  //     "Operates at 1000 RPM: Faster spin speeds lead to reduced drying time",
+  //     "Offers a total of 10 Wash Programs",
+  //     "Boasts a 5 Star Rating for energy efficiency",
+  //     "Features a 6.5 Kg Capacity, suitable for various household sizes",
+  //   ],
+  //   specs: {
+  //     type: "Front Load",
+  //     capacity: "6.5 Kg",
+  //     tubType: "Stainless Steel",
+  //     functionType: "Fully Automatic",
+  //     weight: "62 Kg",
+  //     rotationSpeed: "1000 RPM",
+  //   },
+  //   specialFeatures: "",
+  //   videoReview: {
+  //     title: "",
+  //     id: "",
+  //   },
+  //   stores: {
+  //     amazon: "",
+  //     flipkart:
+  //       "https://www.flipkart.com/lg-6-5-Kg-steam-smart-diagnosis-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmafe4e5c13abbb?pid=WMNG9UANWZE3YNDA&lid=LSTWMNG9UANWZE3YNDAE3L5SG&marketplace=FLIPKART&q=washing+machhines&store=j9e%2Fabm%2F8qx&srno=s_1_13&otracker=search&otracker1=search&fm=Search&iid=696493d9-d179-42b2-bd4c-39dbb0922f3e.WMNG9UANWZE3YNDA.SEARCH&ppt=sp&ppn=sp&qH=42676251d7054dc2",
+  //   },
+  // },
   {
     productName:
       "Samsung 7 Kg 5 Star Inverter Fully Automatic Front Load Washing Machine (WW70T4020CX1TL Inox, In-Built Heater)",

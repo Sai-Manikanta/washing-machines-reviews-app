@@ -8,11 +8,11 @@ export const data = [
     },
     rating: "8.8",
     highlights: [
-      "Fully-automatic Front load washing machine: Best Wash Quality, Energy and Water efficient.",
-      "Capacity 6 Kg: Suitable for bachelors & couples",
-      "For all Fully Automatic Washing Machines with Digital Inverter Motor, sold on or after 1st Dec 2022 (All Fully Automatic Front Load Washing Machine and Top Load Washing Machine) the Warranty period on the Digital Invertor Motor shall be revised from 10 years to 20 years and Comprehensive Product Warranty shall be be revised from 3 years to 2 years. Reach out to our Customer Care at1-800-5-726-7864 (1-800-5-SAMSUNG) or 1-800-40-726-7864 (1-800-40-SAMSUNG) for any clarifications. T&C Apply.",
-      "1000 RPM: Higher spin speeds helps in faster drying",
-      "Wash Programs: 10",
+      "Fully-Automatic Front Load Washing Machine: Offers the best wash quality and is highly energy and water-efficient.",
+      "Capacity 6 Kg: Suitable for bachelors and couples, accommodating smaller laundry loads.",
+      "Warranty Update: For all Fully Automatic Washing Machines with Digital Inverter Motor, sold on or after 1st Dec 2022 (including Front Load and Top Load), the warranty period on the Digital Inverter Motor has been revised from 10 years to 20 years, and the Comprehensive Product Warranty has been revised from 3 years to 2 years. For clarifications, contact Customer Care at 1-800-5-726-7864 (1-800-5-SAMSUNG) or 1-800-40-726-7864 (1-800-40-SAMSUNG). T&C Apply.",
+      "1000 RPM: Higher spin speeds contribute to faster drying, enhancing laundry efficiency.",
+      "Wash Programs: Includes 10 versatile wash programs to meet various laundry needs.",
     ],
     specs: {
       type: "Front Load",
@@ -28,8 +28,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3R2TaLp",
+      amazon: "https://amzn.to/3R2TaLp",
       flipkart:
         "https://www.flipkart.com/samsung-6-Kg-inverter-5-star-hygiene-steam-digital-inverter-fully-automatic-front-load-washing-machine-in-built-heater-silver/p/itmbe741e42ffe68?pid=WMNFU5XFAYQANNBZ&lid=LSTWMNFU5XFAYQANNBZHZTBVS&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=en_unHuqEzcdlLtahPsBwid33Y7ZsN6KZErrWqEKS-hZKFUisZa6j7Xez9stLOFpuObU06zdN3Rt25rXcARiPY4ZA%3D%3D&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -43,11 +42,11 @@ export const data = [
     },
     rating: "9.0",
     highlights: [
-      "Fully-automatic top load washing machine: Affordable with great wash quality, Easy to use",
-      "Capacity 7 Liters: Suitable For Families With 3 To 4 Members || Energy Efficiency Class 5 Star Best In Class Efficiency",
-      "Special Features Eco Bubble, Bubblestorm, Dual Storm, Auto Restart, Child Lock, Delay End, Diamond, Intensive Wash, Magic Filter, Monsoon, Dit, Pp Dual Wing Pulsator, 700 RPM, Smart Control, Smart Check, Soft Closing Door, Tempered Glass Window, ,",
-      "9 Cycle Programs: Baby Care, Bedding, Delicates, Eco Tub Clean, Energy Saving, Jeans, Normal, Quick Wash, Rinse + Spin",
-      "2 years comprehensive warranty on the product, 20 years warranty on the DIT Motor",
+      "Fully-Automatic Top Load Washing Machine: An affordable option offering excellent wash quality and user-friendly operation.",
+      "Capacity: 7 Liters - Suitable for families with 3 to 4 members; Energy Efficiency Class: 5 Star, recognized for its best-in-class efficiency.",
+      "Special Features: Eco Bubble, Bubblestorm, Dual Storm, Auto Restart, Child Lock, Delay End, Diamond Drum, Intensive Wash, Magic Filter, Monsoon, DIT Motor, Dual Wing Pulsator, 700 RPM, Smart Control, Smart Check, Soft Closing Door, Tempered Glass Window.",
+      "9 Cycle Programs: Includes various cycle programs such as Baby Care, Bedding, Delicates, Eco Tub Clean, Energy Saving, Jeans, Normal, Quick Wash, Rinse + Spin, catering to different laundry needs.",
+      "Warranty: 2 years comprehensive warranty on the product and an impressive 20-year warranty on the DIT Motor.",
     ],
     specs: {
       type: "Top Load",
@@ -62,8 +61,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3R6WO6V",
+      amazon: "https://amzn.to/3R6WO6V",
       flipkart:
         "https://www.flipkart.com/samsung-7-Kg-5-star-ecobubble-wi-fi-digital-inverter-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itm0484e1b609cf4?pid=WMNGGUWZU2HZGVQX&lid=LSTWMNGGUWZU2HZGVQXQRQY6M&marketplace=FLIPKART&q=Samsung+7+Kg+5+Star+Ecobubble%E2%84%A2+Wi-Fi%2C+Inverter+Fully+Automatic+Top+Load+Washing+Machine+%28WA70BG4542BYTL_Lavender+Gray%29%2C+Bubble+Storm+technology&store=j9e%2Fabm%2F8qx&srno=s_1_4&otracker=search&otracker1=search&fm=Search&iid=cbad4a7c-4e47-4f1b-b7fb-48889452cf07.WMNGGUWZU2HZGVQX.SEARCH&ppt=sp&ppn=sp&ssid=545xhu0heo0000001693373984787&qH=7396a17359263d1c",
     },
@@ -77,10 +75,10 @@ export const data = [
   //   },
   //   rating: "8.4",
   //   highlights: [
-  //     "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
-  //     "800 RPM : Higher the spin speed, lower the drying time",
-  //     "5 Star Rating",
-  //     "6 Kg",
+  //     "Fully Automatic Front Load Washing Machines: Deliver outstanding wash quality while maintaining very low running costs.",
+  //     "800 RPM: Higher spin speed results in reduced drying time, enhancing overall laundry efficiency.",
+  //     "5 Star Rating: Recognized for its energy efficiency and performance.",
+  //     "Capacity: 6 Kg - Suitable for smaller households, accommodating moderate laundry loads.",
   //   ],
   //   specs: {
   //     type: "Front Load",
@@ -109,7 +107,11 @@ export const data = [
       alt: "Washing Machine Photo",
     },
     rating: "8.0",
-    highlights: ["Anti Tangle; Anti Bacteria; Touch Control"],
+    highlights: [
+      "Anti-Tangle Feature: Prevents clothes from tangling during the wash cycle, reducing wear and tear on your garments.",
+      "Anti-Bacteria Function: Helps eliminate bacteria and allergens, ensuring cleaner and healthier laundry.",
+      "Touch Control: User-friendly touch control interface for convenient and intuitive operation.",
+    ],
     specs: {
       type: "Front Load",
       capacity: "6.5 Kg",
@@ -124,8 +126,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3sMG4aM",
+      amazon: "https://amzn.to/3sMG4aM",
       flipkart:
         "https://www.flipkart.com/bosch-6-5-Kg-drive-motor-anti-tangle-vibration-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itm342fa99fe8f72?pid=WMNFZBM8NZQJRWEP&lid=LSTWMNFZBM8NZQJRWEPUX1AVZ&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_5&otracker=search&otracker1=search&fm=Search&iid=6fe2e240-9f3f-4afa-b900-b4344e7004c9.WMNFZBM8NZQJRWEP.SEARCH&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -139,16 +140,15 @@ export const data = [
     },
     rating: "8.6",
     highlights: [
-      "Wifi Enabled Smart Fully-Automatic Top Load Washing Machine: Affordable with great wash quality | Seamless hands-free operation and Voice Control with Alexa and Google Assistant",
-      "Capacity 7 Kg: Suitable for Families with 3 to 4 Members | Smart washing machine: Integrates the ease and intuitive features of AI with the capabilities of a washing machine",
-      "BEE Rating: 5 Star Rating | More Stars More Savings | Schedule your laundry according to start or end time",
-      "Manufacturer Warranty: 2 Years on Product and 12 Years on Motor",
-      "702 RPM: Higher spin speeds helps in faster wash and drying",
-      "Wash Wizard: Customize the best wash program for you based on clothes type, colour, soil condition, and more",
-      "Special Features: Smart Washing Machine | Miraie | Works with Alexa and Google Assistant | Wash Wizard | Active Foam System | Water Resuse | One Touch Service | Aqua beat Wash",
-      "Aqua Spin Rinse: For the first rinse, a powerful shower over a wide area effectively washes away foam. Compared to the conventional way of rinsing by soaking, this achieves water saving of up to 28%",
-      "Active Foam System: Lifts Stains Away With Fine Foam | Select from a list of 50+ stains to receive specific pre-treatment suggestions and load a customized wash program for that stain type",
-      "Also Included in the Box: 1 Washer unit, 1 User Manual, 1 Warranty Card, Inlet Pipe: 1.5 meters, Outlet Pipe: 0.8 meter",
+      "Smart Wi-Fi Integration: This fully-automatic top-load washing machine not only offers excellent washing performance but also seamlessly connects to your home network, allowing for voice control with Alexa and Google Assistant.",
+      "Ideal Family Size: With a 7 kg capacity, it's perfect for households with 3 to 4 members. This smart washing machine combines advanced AI capabilities with traditional laundry functions.",
+      "Energy-Efficient: It boasts a 5 Star BEE Rating, ensuring top-notch energy efficiency. Plus, you can schedule your laundry cycles according to your preferred start or end times.",
+      "Long Warranty: You'll enjoy peace of mind with a 2-year warranty on the product and an impressive 12-year warranty on the motor, ensuring lasting durability.",
+      "High Spin Speed: At 702 RPM, this washing machine's high spin speeds contribute to faster and more efficient washing and drying cycles.",
+      "Customized Washing: Use the Wash Wizard to tailor your wash program to specific clothing types, colors, soil conditions, and more, guaranteeing the best wash results.",
+      "Smart Features: This smart washing machine is equipped with Miraie technology, allowing it to work seamlessly with voice assistants like Alexa and Google Assistant. It also features the Active Foam System, water reuse, One Touch Service, and Aqua Beat Wash.",
+      "Efficient Rinse: The Aqua Spin Rinse utilizes a powerful shower to efficiently remove foam during the initial rinse, saving water compared to traditional soaking rinses.",
+      "Stain Treatment: The Active Foam System is designed to lift stains with fine foam. You can select from a list of 50+ stains to receive specific pre-treatment recommendations and load a customized wash program tailored to the type of stain.",
     ],
     specs: {
       type: "Top Load",
@@ -163,8 +163,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/45Br8em",
+      amazon: "https://amzn.to/45Br8em",
       flipkart:
         "https://www.flipkart.com/panasonic-7-Kg-wifi-smart-washing-machine-fully-automatic-top-load-silver/p/itmb622f8813d5cc?pid=WMNGGUVZXCJ2HGZZ&lid=LSTWMNGGUVZXCJ2HGZZ9VXMTY&marketplace=FLIPKART&q=washing+machines&store=j9e%2Fabm%2F8qx&srno=s_1_8&otracker=search&otracker1=search&fm=Search&iid=en_unHuqEzcdlLtahPsBwid33Y7ZsN6KZErrWqEKS-hZKF8GfbKQSUI5Gj-e4knc3y9nXNE-uJwMPnAV9cCLF6Uzg%3D%3D&ppt=sp&ppn=sp&ssid=jup1lb53rk0000001693373519889&qH=bcadf718d561cab9",
     },
@@ -178,11 +177,11 @@ export const data = [
     },
     rating: "8.2",
     highlights: [
-      "Removes up to 50 Tough Stains with In-Built Heater",
-      "6th Sense Technology Whirlpool's 6th Sense Technology uses a combination of sensors and algorithms to provide best wash performance and ease of mind",
-      "ZPF Technology With ZPF Technology, the washing machines fills the tub 50%* faster even when the pressure is as low as 0.017MPa*.",
-      "Spiro Wash Action Now get 20% better cleaning with the new Spiro Wash Action .This advanced Wash motion washes clothes in a unique circular motion giving it a complete through wash.",
-      "Hard Water Wash Unique hard water wash program that gives better dirt and stain removal even in hard water conditions.",
+      "Advanced Stain Removal: This washing machine comes equipped with an in-built heater that can effectively eliminate even the most stubborn stains, providing exceptional cleaning performance.",
+      "Intelligent 6th Sense Technology: Whirlpool's innovative 6th Sense Technology combines sensors and algorithms to deliver superior washing results and ensure peace of mind.",
+      "ZPF Technology: The ZPF (Zero Pressure Fill) Technology ensures that the washing machine fills the tub 50% faster, even when the water pressure is as low as 0.017MPa, resulting in quicker cycles.",
+      "Spiro Wash Action: Experience a 20% improvement in cleaning efficiency with the new Spiro Wash Action. This advanced wash motion employs a unique circular pattern, thoroughly cleaning your clothes with precision.",
+      "Hard Water Wash Program: The machine features a specialized hard water wash program that excels at removing dirt and stains, even in challenging hard water conditions.",
     ],
     specs: {
       type: "Top Load",
@@ -197,8 +196,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3Z2CGos",
+      amazon: "https://amzn.to/3Z2CGos",
       flipkart:
         "https://www.flipkart.com/whirlpool-9-Kg-fully-automatic-top-load-washing-machine-in-built-heater-grey/p/itmb2b943205e2fd?pid=WMNGZVMVGJHNXRP6&lid=LSTWMNGZVMVGJHNXRP6VEYOUY&marketplace=FLIPKART&q=Whirlpool+9+Kg+5+Star+Bloomwash+Pro+Fully-Automatic+Top+Loading+Washing+Machine+-+Built+In+Heater+%28360+BW+PRO+%28570%29+H+9.0+MIDNIGHT+GREY+10YMW%29&store=j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=085d823c-bbec-46a7-95ab-6315152aae7f.WMNGZVMVGJHNXRP6.SEARCH&ppt=sp&ppn=sp&ssid=dpo131x4w00000001693374946326&qH=4057d54c41f8e5e1",
     },
@@ -212,10 +210,10 @@ export const data = [
   //   },
   //   rating: "8.8",
   //   highlights: [
-  //     "Fully Automatic Front Load Washing Machines have Great Wash Quality with very less running cost",
-  //     "1000 RPM : Higher the spin speed, lower the drying time",
-  //     "5 Star Rating",
-  //     "6 Kg",
+  //     "Outstanding Wash Quality: Fully Automatic Front Load Washing Machines offer superior cleaning performance while maintaining low operational costs, making them a cost-effective choice.",
+  //     "Rapid Spin Speed: With a powerful 1000 RPM (Revolutions Per Minute) motor, this machine accelerates the drying process, saving you time and energy.",
+  //     "Energy-Efficient: Boasting a 5 Star Rating, this washing machine is highly energy-efficient, contributing to both savings and environmental sustainability.",
+  //     "Ideal Capacity: This washing machine is designed with a 6 Kg capacity, making it a suitable choice for smaller households and couples.",
   //   ],
   //   specs: {
   //     type: "Front Load",
@@ -245,16 +243,14 @@ export const data = [
     },
     rating: "8.2",
     highlights: [
-      "Fully-automatic Front load washing machine: Best Wash Quality, Energy and Water efficient",
-      "Capacity 6 Kg: Suitable for 3 – 4 members",
-      "Energy Rating 5 Star: Best in class efficiency",
-      "TRISHIELD PROTECTION : IFB washers come with India’s best warranty 4 years machine warranty + 10 years Motor Warranty + 10 years Spares Support",
-      "1000 RPM: higher spin speeds helps in faster drying",
-      "8 Wash Programmes: Mixed/Daily, Cotton Normal, Cradle Wash for Delicates, Woollens, Cotton Eco Plus, Express Wash/ Express 15, Rinse+Spin, Spin Dry/Drain",
-      "Built with innovative Stainless Steel crescent moon drum design that creates a gentle water cushion, preventing damage to fabrics & optimally placed holes provide the mechanical action required to get the desired wash results.",
-      "Key Features: 2X Power Steam Cycle for Power Cleaning, Aqua Energie Device for Water Softening, Better Detergent Action & Color Protection, Cradle Wash for Delicates, Time Saver: Saves Water, Power, Detergent & Time, Laundry Add, Quick Express Wash",
-      "Inbuilt Heater Temperature Range: Hot, Warm, Cold, Self Diagnosis, Program Memory Back up, Child Lock, High-Low Voltage Protection, Auto Imbalance Control, Protective Rat Mesh, Foam Detection, Auto Restart, Auto Tub Clean, Anti Rust proof body, Silent Operation",
-      "Included in the Box: Washing machine, drain hose, inlet pipe, user manual+Warranty card, Clip ring, Screw Fitting, Protective rat mash cover",
+      "Premium Wash Quality: This fully-automatic front-load washing machine ensures the best wash quality while being extremely efficient in terms of energy and water consumption.",
+      "Optimal Capacity: With a 6 Kg capacity, it's ideal for households with 3 to 4 members, making it suitable for a wide range of family sizes.",
+      "5-Star Energy Rating: Recognized for its exceptional efficiency, this washing machine offers the best energy-saving performance.",
+      "TRISHIELD PROTECTION: This appliance includes India's most comprehensive warranty package, providing 4 years of machine warranty, 10 years of motor warranty, and a 10-year spares support commitment.",
+      "High-Speed Drying: The 1000 RPM motor delivers fast spin speeds for quicker drying, saving you time and energy.",
+      "Versatile Wash Programs: Enjoy 8 distinct wash programs, including Mixed/Daily, Cotton Normal, Cradle Wash for Delicates, Woollens, Cotton Eco Plus, Express Wash/Express 15, Rinse+Spin, and Spin Dry/Drain, catering to various fabric types and laundry needs.",
+      "Innovative Drum Design: Featuring a Stainless Steel crescent moon drum design, it provides gentle care for your clothes by creating a protective water cushion. Strategically positioned holes deliver effective mechanical action for superior washing results.",
+      "Key Performance Features: Benefit from a 2X Power Steam Cycle for powerful cleaning, Aqua Energie Device for water softening, enhanced detergent action, and color protection, Cradle Wash for delicate items, Time Saver function for resource efficiency, Laundry Add, Quick Express Wash, and a range of advanced features like Inbuilt Heater with temperature settings (Hot, Warm, Cold), Self Diagnosis, Program Memory Backup, Child Lock, High-Low Voltage Protection, Auto Imbalance Control, Protective Rat Mesh, Foam Detection, Auto Restart, Auto Tub Clean, Anti-Rust Proof Body, and Silent Operation.",
     ],
     specs: {
       type: "Front Load",
@@ -271,8 +267,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3YZK4AZ",
+      amazon: "https://amzn.to/3YZK4AZ",
       flipkart:
         "https://www.flipkart.com/ifb-7-Kg-5-star-2x-power-steam-hard-water-wash-fully-automatic-front-load-washing-machine-in-built-heater-white/p/itmae1b351a1f461?pid=WMNGHHY8GKAFTKKZ&lid=LSTWMNGHHY8GKAFTKKZXIT3UJ&marketplace=FLIPKART&q=IFB+6+Kg+5+Star+Front+Load+Washing+Machine+2X+Power+Steam+%28DIVA+AQUA+GBS+6010%2C+2023+Model%2C+Grey%2C+In-built+Heater%2C+4+years+Comprehensive+Warranty%29&store=j9e%2Fabm%2F8qx&spotlightTagId=FkPickId_j9e%2Fabm%2F8qx&srno=s_1_2&otracker=search&otracker1=search&fm=Search&iid=91c389e3-82ab-476f-85fd-d652a8a99fc4.WMNGHHY8GKAFTKKZ.SEARCH&ppt=sp&ppn=sp&ssid=rwdu6cucls0000001693378337367&qH=180ab900b990667d",
     },
@@ -286,16 +281,16 @@ export const data = [
     },
     rating: "8.4",
     highlights: [
-      "Fully-automatic top load washing machine: Affordable with great wash quality, Easy to use",
-      "Capacity 9 Kg: Suitable for large families",
-      "Energy Star rating : 5 Star- Best in class efficiency",
-      "Manufacturer Warranty: 2 Years comprehensive on product and 20 Years on Digital Inverter Motor",
-      "Motor: 700 RPM: Higher spin speeds helps in faster wash and drying, With its high speed and efficiency, it's perfect for busy households or those who want to get laundry done quickly and effectively",
-      "Wash Programs: 10 Wash Programs – Quick Wash, Baby Care, Bedding, Delicates, Eco Tub Clean, Energy Saving, Jeans, Normal, Rinse + Spin, Bubble Storm, Intensive Wash, Power Tub Clean, Delay End, Smart Control",
-      "Drum type : Diamond| Pulsator : Dual Storm|",
-      "Panel Display : Red LED, Suitable for hard water washing",
-      "Key Performance Features: Quick Wash, Intensive Wash, Magic Filter",
-      "Special Features: WiFi Embedded, SmartThings App Support, Eco Bubble Technology, BubbleStorm, Dual Storm, Soft Closing Door, Delay End, Smart Control, Smart Check, Water Level : 10 Levels, Auto Restart, Rat Protection, Rust-proof Body, Tempered Glass Window, Child Lock, Monsoon",
+      "Efficient and Convenient: This fully-automatic top load washing machine offers great wash quality while being easy to use, making laundry a breeze.",
+      "Generous Capacity: With a spacious 9 Kg capacity, it's perfect for larger families, ensuring you can tackle laundry efficiently.",
+      "5-Star Energy Rating: Recognized for its exceptional efficiency, this washing machine offers the best energy-saving performance, reducing your utility bills.",
+      "Long-Lasting Warranty: Enjoy peace of mind with a 2-year comprehensive warranty on the product and an impressive 20-year warranty on the Digital Inverter Motor, highlighting its durability and quality.",
+      "High-Speed Motor: The 700 RPM motor ensures faster wash and drying, making it an excellent choice for busy households or those looking for quick laundry turnaround.",
+      "Versatile Wash Programs: Benefit from 10 wash programs, including Quick Wash, Baby Care, Bedding, Delicates, Eco Tub Clean, Energy Saving, Jeans, Normal, Rinse + Spin, Bubble Storm, Intensive Wash, Power Tub Clean, and Delay End, offering tailored washing solutions for various fabric types and laundry needs.",
+      "Advanced Drum and Pulsator: This washing machine features a Diamond drum and Dual Storm pulsator for effective and gentle cleaning.",
+      "User-Friendly Display: The red LED panel display is clear and easy to navigate, and the washing machine is suitable for use with hard water.",
+      "Key Performance Features: Quick Wash, Intensive Wash, and a Magic Filter provide enhanced cleaning and laundry care.",
+      "Smart Features: Enjoy the convenience of Wi-Fi connectivity with a built-in SmartThings App support. It also offers Eco Bubble Technology, BubbleStorm, Dual Storm, Soft Closing Door, Delay End, Smart Control, Smart Check, 10 water level options, Auto Restart, Rat Protection, Rust-proof Body, Tempered Glass Window, Child Lock, and Monsoon protection.",
     ],
     specs: {
       type: "Top Load",
@@ -311,8 +306,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3sH9gQH",
+      amazon: "https://amzn.to/3sH9gQH",
       flipkart:
         "https://www.flipkart.com/samsung-9-Kg-5-star-ecobubble-wi-fi-digital-inverter-fully-automatic-top-load-washing-machine-grey/p/itm33fa5f2e01d9a?pid=WMNGGUWZNN6FRA5Z&lid=LSTWMNGGUWZNN6FRA5ZDJRBHW&marketplace=FLIPKART&q=Samsung+9+Kg%2C+5+star%2C+Eco+Bubble+Technology%2C+Wi-Fi%2C+Digital+Inverter+Motor%2C+Dual+Storm%2C+Fully-Automatic+Top+Load+Washing+Machine+%28WA90BG4542BDTL%2C+Versailles+Gray%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=6801abf9-6d05-449f-8db2-95b2b570d31d.WMNGGUWZNN6FRA5Z.SEARCH&ppt=sp&ppn=sp&ssid=t5968q8kzk0000001693378889240&qH=04e6a9f394ac764c",
     },
@@ -326,11 +320,10 @@ export const data = [
     },
     rating: "8.6",
     highlights: [
-      "Key Features: Ai -Intelligent Care With Optimized Washing And More Fabric Protection, Outstanding Performance With 6 Motion Direct Drive, Turbodrum For Powerful Wash, Stainless Steel Inner Tub, Fuzzy Logic Control",
-      "Wash Programs: 08 No. Of Programs Normal, Ai Wash: Optimized Washing And More Fabric Protection, Tub Clean: To Clean Inner & Outer Tub For Preventing Unpleasant Smell Of Tub",
-      "Energy Rating 5 Star: Best In Class Efficiency",
-      "Included In The Box: 1 Washer Unit, 1 User Manual, 1 Inlet Hose, 1 Drain Hose, 1 Anti Rat Cover, Fully-Automatic Top Load Washing Machine:Easy To Use",
-      "Normal: Option To Clear Stain-Removal Concern, Gentle (Wool Saree), Duvet, Strong Wave, Aqua Reserve Capacity 9 Kg: Suitable For Large Families",
+      "Key Features: Experience AI - Intelligent Care that optimizes your washing process and enhances fabric protection. Enjoy outstanding performance with 6 Motion Direct Drive technology, ensuring a powerful wash every time. Turbodrum technology takes washing power to the next level. The stainless steel inner tub ensures durability and cleanliness. Benefit from Fuzzy Logic Control for smart and efficient washing.",
+      "Versatile Wash Programs: Choose from 8 different programs, including Normal for regular cleaning, AI Wash for optimized washing and fabric protection, and Tub Clean for inner and outer tub cleaning, preventing unpleasant odors in the tub.",
+      "Exceptional Energy Efficiency: This washing machine boasts a 5-star energy rating, delivering top-class efficiency while keeping your energy consumption in check.",
+      "Impressive Capacity: With a generous capacity of 9 Kg, this washing machine is ideal for larger families, making it suitable for handling substantial laundry loads, including bulky items like duvets and delicate fabrics like wool sarees.",
     ],
     specs: {
       type: "Top Load",
@@ -346,8 +339,7 @@ export const data = [
       id: "",
     },
     stores: {
-      amazon:
-        "https://amzn.to/3L85Lco",
+      amazon: "https://amzn.to/3L85Lco",
       flipkart:
         "https://www.flipkart.com/lg-9-Kg-fully-automatic-top-load-washing-machine-silver/p/itme8dc8cac3273f?pid=WMNGZDPCGA8GNMNG&lid=LSTWMNGZDPCGA8GNMNG7P5DT2&marketplace=FLIPKART&q=LG+9+Kg+5+Star+Inverter+Fully-Automatic+Top+Load+Washing+Machine+%28THD09NPF%2C+Middle+Free+Silver%2C+AIDD+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=TrendingId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=074b8fd2-91fe-43f1-ad7e-cd960ce775c9.WMNGZDPCGA8GNMNG.SEARCH&ppt=sp&ppn=sp&ssid=h9475abozk0000001693380097722&qH=fa48eec9b449f68c",
     },
