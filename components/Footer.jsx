@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { FaArrowUp } from "react-icons/fa";
 
 const Footer = () => {
   return (
