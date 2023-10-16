@@ -170,6 +170,12 @@ function Header({ home, aboutUs, FAQ }) {
                       >
                         About Us
                       </Link>
+                      <Link
+                        href="/contact-us"
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0 cursor-none sm:cursor-pointer"
+                      >
+                        Contact Us
+                      </Link>
                     </div>
 
                     <button
