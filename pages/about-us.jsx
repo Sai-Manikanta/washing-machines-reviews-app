@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 function aboutUs() {
   return (
@@ -23,7 +24,7 @@ function aboutUs() {
 
         <hr className="bg-slate-400 h-0.5 mt-9 mb-2 w-full" />
 
-        <div className="w-full">
+        <div className="w-full mb-10">
           <h2 className="text-primary text-3xl font-extrabold mt-6 mb-5 text-center">
             Meet Team
           </h2>
@@ -86,16 +87,8 @@ function aboutUs() {
             </div>
           </div>
         </div>
-
-        {/* <button className="bg-primary text-md px-12 py-3 text-white font-bold my-12 rounded shadow">
-          <a href="mailto:contact@bestelectro.in">Contact Us</a>
-        </button> */}
       </section>
-      <footer className="bg-primary px-5 py-6 text-white">
-        <div className="max-w-5xl mx-auto">
-          <p>&#169; Copyright 2023</p>
-        </div>
-      </footer>
+      <Footer />
     </>
   );
 }

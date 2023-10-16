@@ -12,13 +12,17 @@ import { data as washingMachinesUnder10000 } from "@/data/washingMachinesUnder10
 import HomePageProductCard from "@/components/HomePageProductCard";
 import HorizontalScroller from "@/components/HorizontalScroller";
 import ScrollersHeader from "@/components/ScrollersHeader";
+import Footer from "@/components/Footer";
 
 const Home = () => {
   return (
     <>
       <Head>
         <title>Today's Best Washing Machines in India - BestElectro</title>
-        <meta name="description" content="Discover daily recommendations for front load, top load, fully automatic, and semi-automatic washing machines in India by price ranges" />
+        <meta
+          name="description"
+          content="Discover daily recommendations for front load, top load, fully automatic, and semi-automatic washing machines in India by price ranges"
+        />
       </Head>
       <Header home />
       <HeroSection home />
@@ -198,12 +202,7 @@ const Home = () => {
           </HorizontalScroller>
         </div>
       </main>
-      
-      <footer className="select-none bg-primary px-5 py-6 text-white">
-        <div className="max-w-5xl mx-auto">
-          <p>&#169; Copyright 2023</p>
-        </div>
-      </footer>
+      <Footer />
     </>
   );
 };

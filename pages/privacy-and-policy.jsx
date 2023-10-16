@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "@/components/Header";
 import Link from "next/link";
+import Footer from "@/components/Footer";
 
 function privacyAndPolicy() {
   return (
@@ -169,11 +170,7 @@ function privacyAndPolicy() {
         </p>
       </section>
 
-      <footer className="bg-primary px-5 py-6 text-white">
-        <div className="max-w-5xl mx-auto">
-          <p>&#169; Copyright 2023</p>
-        </div>
-      </footer>
+      <Footer />
     </>
   );
 }
