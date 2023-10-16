@@ -19,7 +19,7 @@ function termsAndConditions() {
           </Link>
           ! Before you start using our website &#40;referred to as the
           "Service"&#41;, please take a moment to carefully review the following
-          Terms of Service &#40;"Terms"&#41;. Best Baba &#40;"us," "we," or
+          Terms of Service &#40;"Terms"&#41;. Best Electro &#40;"us," "we," or
           "our"&#41; operates this service, and your access to and use of the
           website are subject to your acceptance of and compliance with these
           Terms.
@@ -70,12 +70,12 @@ function termsAndConditions() {
         <h2 className="text-xl font-medium mb-2">Links to Other Websites</h2>
         <p className="mb-4">
           Our Service may include links to third-party websites or services that
-          are not owned or controlled by Best Baba. We advise you to be aware
+          are not owned or controlled by Best Electro. We advise you to be aware
           that we have no control over the content, privacy policies, or
           practices of these third-party websites or services.
         </p>
         <p className="mb-4">
-          Best Baba cannot be held directly or indirectly responsible for any
+          Best Electro cannot be held directly or indirectly responsible for any
           damage or loss caused or alleged to be caused by, or in connection
           with, the use of or reliance on any content, goods, or services
           available on or through these third-party websites or services.
@@ -116,7 +116,7 @@ function termsAndConditions() {
         </p>
       </section>
 
-      <footer className="bg-primary px-5 py-6 text-white fixed bottom-0 right-0 left-0">
+      <footer className="bg-primary px-5 py-6 text-white">
         <div className="max-w-5xl mx-auto">
           <p>&#169; Copyright 2023</p>
         </div>
