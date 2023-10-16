@@ -87,9 +87,9 @@ function aboutUs() {
           </div>
         </div>
 
-        <button className="bg-primary text-md px-12 py-3 text-white font-bold my-12 rounded shadow">
+        {/* <button className="bg-primary text-md px-12 py-3 text-white font-bold my-12 rounded shadow">
           <a href="mailto:contact@bestelectro.in">Contact Us</a>
-        </button>
+        </button> */}
       </section>
       <footer className="bg-primary px-5 py-6 text-white">
         <div className="max-w-5xl mx-auto">
