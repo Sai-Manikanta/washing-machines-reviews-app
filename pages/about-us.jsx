@@ -1,6 +1,8 @@
 import React from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import Image from "next/image";
+import WhyUs from "@/components/WhyUs";
 
 function aboutUs() {
   return (
@@ -30,11 +32,12 @@ function aboutUs() {
           </h2>
           <div className="grid grid-cols-12 gap-6">
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
-              <img
+              <Image
                 src="/images/teamMembers/kiran.jpg"
                 alt="Kiran Teammate"
-                className="w-full h-48 object-cover block
-                "
+                className="w-full h-48 object-cover block"
+                width="200"
+                height="200"
               />
               <div className="p-2">
                 <p className="text-md font-semibold">Devi Kiran</p>
@@ -45,11 +48,12 @@ function aboutUs() {
               </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
-              <img
+              <Image
                 src="/images/teamMembers/pradeep.jpg"
                 alt="Pradeep Teammate"
-                className="w-full h-48 block object-cover
-                "
+                className="w-full h-48 block object-cover"
+                width="200"
+                height="200"
               />
               <div className="p-2">
                 <p className="text-md font-semibold">Pradeep Kumar</p>
@@ -58,11 +62,12 @@ function aboutUs() {
               </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
-              <img
+              <Image
                 src="/images/teamMembers/laxmi.jpg"
                 alt="Laxmi Teammate"
-                className="w-full h-48 block object-cover
-                "
+                className="w-full h-48 block object-cover"
+                width="200"
+                height="200"
               />
               <div className="p-2">
                 <p className="text-md font-semibold">Laxmi</p>
@@ -71,11 +76,12 @@ function aboutUs() {
               </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-start-5 md:col-end-9">
-              <img
+              <Image
                 src="/images/teamMembers/manikanta.jpg"
                 alt="SaiManikanta Teammate"
-                className="w-full h-48 object-cover block
-                "
+                className="w-full h-48 object-cover block"
+                width="200"
+                height="200"
               />
               <div className="p-2">
                 <p className="text-md font-semibold">SaiManikanta</p>
@@ -88,6 +94,7 @@ function aboutUs() {
           </div>
         </div>
       </section>
+      <WhyUs/>
       <Footer />
     </>
   );

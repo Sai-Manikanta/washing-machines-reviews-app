@@ -13,6 +13,7 @@ import HomePageProductCard from "@/components/HomePageProductCard";
 import HorizontalScroller from "@/components/HorizontalScroller";
 import ScrollersHeader from "@/components/ScrollersHeader";
 import Footer from "@/components/Footer";
+import WhyUs from "@/components/WhyUs";
 
 const Home = () => {
   return (
@@ -201,7 +202,9 @@ const Home = () => {
             })}
           </HorizontalScroller>
         </div>
+        
       </main>
+      <WhyUs />
       <Footer />
     </>
   );
