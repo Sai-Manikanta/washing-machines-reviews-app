@@ -3,7 +3,7 @@ import Link from "next/link";
 const Footer = () => {
   return (
     <footer className="select-none bg-primary px-5 py-6 text-white">
-      <div className="mb-3 text-xs">
+      <div className="max-w-5xl mx-auto mb-3 text-xs">
         <p>©BestElectro.in<br/>"BestElectro.in is a participant in the Amazon.in Associates Program, which is 
           an affiliate advertising initiative created to enable websites to earn 
           advertising commissions by promoting and linking to Amazon.in. Please be 

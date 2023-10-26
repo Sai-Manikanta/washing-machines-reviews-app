@@ -65,13 +65,13 @@ function WhyUs() {
         </div>
         <div className="col-span-full md:col-span-4 md:row-span-2">
           <h4 className="text-2xl font-semibold mb-2">
-            Our Computational Processes
+          Our Algorithms
           </h4>
           <p>
             <Link className="text-blue-600" href="/">
               BestElectro's
             </Link>{" "}
-            cutting-edge Computational Processes are designed to provide you
+            cutting-edge Our Algorithms are designed to provide you
             with comprehensive insights for informed product decisions. Our
             system calculates scores by considering a wide range of factors,
             including price, customer reviews, best seller rankings, and
