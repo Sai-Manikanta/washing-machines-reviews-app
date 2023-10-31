@@ -9,7 +9,7 @@ import ChangePriceDropdown from "./ChangePriceDropdown";
 
 function Header({ aboutUs, contactUS, privacy, terms }) {
   const [isOpen, setIsOpen] = useState(false);
-  console.log(terms)
+  console.log(terms);
 
   function closeModal() {
     setIsOpen(false);
@@ -28,7 +28,9 @@ function Header({ aboutUs, contactUS, privacy, terms }) {
           aboutUs ? "fixed top-0 left-0 right-0" : "relative"
         } z-10 bg-primary py-5 px-4`}
       >
-        <div className="max-w-5xl mx-auto flex justify-between items-center">
+        <div
+          className="max-w-5xl mx-auto flex justify-between items-center"
+        >
           <div>
             <Link href="/">
               <Image
@@ -40,7 +42,8 @@ function Header({ aboutUs, contactUS, privacy, terms }) {
               />
             </Link>
           </div>
-          <div>
+
+          <div className="flex items-center">
             <div className="hidden sm:block">
               <Link
                 href="/"
@@ -56,12 +59,33 @@ function Header({ aboutUs, contactUS, privacy, terms }) {
               >
                 About Us
               </Link> */}
-              {(contactUS || aboutUs || terms || privacy) ? "" : <ChangePriceDropdown/>}
-              
+              {/* {(contactUS || aboutUs || terms || privacy) ? "" : <ChangePriceDropdown/>} */}
             </div>
-            <span className="text-2xl text-white sm:hidden" onClick={openModal}>
-              <RxHamburgerMenu />
-            </span>
+
+            {/* <div>
+              {contactUS || aboutUs || terms || privacy ? (
+                ""
+              ) : (
+                <ChangePriceDropdown />
+              )}
+            </div> */}
+
+            <div
+              // style={{ border: "2px solid red" }}
+              className="flex items-center"
+            >
+              {contactUS || aboutUs || terms || privacy ? (
+                ""
+              ) : (
+                <ChangePriceDropdown />
+              )}
+              <span
+                className="text-2xl text-white sm:hidden"
+                onClick={openModal}
+              >
+                <RxHamburgerMenu />
+              </span>
+            </div>
           </div>
         </div>
       </header>
