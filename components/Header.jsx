@@ -5,8 +5,9 @@ import { Dialog, Transition } from "@headlessui/react";
 import { Fragment, useState } from "react";
 import Link from "next/link";
 import { RxCross2 } from "react-icons/rx";
+import ChangePriceDropdown from "./ChangePriceDropdown";
 
-function Header({ home, aboutUs, FAQ }) {
+function Header({ aboutUs, FAQ }) {
   const [isOpen, setIsOpen] = useState(false);
 
   function closeModal() {
@@ -23,7 +24,7 @@ function Header({ home, aboutUs, FAQ }) {
         id="header"
         style={{ boxShadow: "0px 2px 10px rgba(0,0,0,0.5)" }}
         className={`${
-          home || aboutUs || FAQ ? "fixed top-0 left-0 right-0" : "relative"
+          aboutUs || FAQ ? "fixed top-0 left-0 right-0" : "relative"
         } z-10 bg-primary py-5 px-4`}
       >
         <div className="max-w-5xl mx-auto flex justify-between items-center">
@@ -42,20 +43,19 @@ function Header({ home, aboutUs, FAQ }) {
             <div className="hidden sm:block">
               <Link
                 href="/"
-                className={`text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary ${
-                  home && "hidden"
-                }`}
+                className="text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary"
               >
                 Home
               </Link>
-              <Link
+              {/* <Link
                 href="/about-us"
                 className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${
                   aboutUs && "hidden"
                 }`}
               >
                 About Us
-              </Link>
+              </Link> */}
+              <ChangePriceDropdown/>
             </div>
             <span className="text-2xl text-white sm:hidden" onClick={openModal}>
               <RxHamburgerMenu />
@@ -106,9 +106,7 @@ function Header({ home, aboutUs, FAQ }) {
                     <div className="mb-5">
                       <Link
                         href="/"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${
-                          home && "hidden"
-                        } outline-0`}
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0"
                       >
                         Home
                       </Link>
@@ -164,9 +162,7 @@ function Header({ home, aboutUs, FAQ }) {
 
                       <Link
                         href="/about-us"
-                        className={`block py-2 capitalize font-medium hover:bg-blue-900 ${
-                          aboutUs && "hidden"
-                        } outline-0 cursor-none sm:cursor-pointer`}
+                        className="block py-2 capitalize font-medium hover:bg-blue-900 outline-0 cursor-none sm:cursor-pointer"
                       >
                         About Us
                       </Link>

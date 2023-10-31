@@ -4,12 +4,16 @@ const Footer = () => {
   return (
     <footer className="select-none bg-primary px-5 py-6 text-white">
       <div className="max-w-5xl mx-auto mb-3 text-xs">
-        <p>©BestElectro.in<br/>"BestElectro.in is a participant in the Amazon.in Associates Program, which is 
-          an affiliate advertising initiative created to enable websites to earn 
-          advertising commissions by promoting and linking to Amazon.in. Please be 
-          aware that Amazon, Amazon Prime, the Amazon logo, and Amazon Prime logo are 
-          all registered trademarks owned by Amazon.com, Inc. or its affiliated 
-          companies."</p>
+        <p>
+          ©BestElectro.in
+          <br />
+          "BestElectro.in is a participant in the Amazon.in Associates Program,
+          which is an affiliate advertising initiative created to enable
+          websites to earn advertising commissions by promoting and linking to
+          Amazon.in. Please be aware that Amazon, Amazon Prime, the Amazon logo,
+          and Amazon Prime logo are all registered trademarks owned by
+          Amazon.com, Inc. or its affiliated companies."
+        </p>
       </div>
       <div className="max-w-5xl mx-auto flex flex-col-reverse sm:flex-row sm:justify-between">
         <p>&#169; Copyright 2023</p>
@@ -18,6 +22,7 @@ const Footer = () => {
             Contact Us
             <span className="mx-2.5">|</span>
           </Link>
+          <Link className="hidden sm:inline" href="/about-us">About Us<span className="mx-2.5">|</span></Link>
           <Link className="" href="/privacy-and-policy">
             Privacy
             <span className="mx-2.5">|</span>

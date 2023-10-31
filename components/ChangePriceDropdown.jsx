@@ -5,13 +5,13 @@ import Link from "next/link";
 
 export default function ChangePriceDropdown({ priceUnder }) {
   return (
-    <div className="text-right">
+    <div className="ml-1 inline-block text-right">
       <Menu as="div" className="relative inline-block text-left">
         <div>
-          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-secondary px-4 py-2 font-medium text-white focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 brightness-[120%] hover:brightness-100">
-            Change Price
+          <Menu.Button className="text-xs inline-flex w-full justify-center rounded-md bg-white px-4 py-2.5 font-medium focus:outline-none focus-visible:ring-2 focus-visible:ring-white focus-visible:ring-opacity-75 hover:bg-slate-200">
+            <span className="text-primary font-bold">Change Price</span>
             <ChevronDownIcon
-              className="ml-2 -mr-1 h-4 w-4 text-violet-200 hover:text-violet-100"
+              className="ml-2 -mr-1 h-4 w-4 text-primary hover:text-violet-100"
               aria-hidden="true"
             />
           </Menu.Button>
@@ -25,7 +25,7 @@ export default function ChangePriceDropdown({ priceUnder }) {
           leaveFrom="transform opacity-100 scale-100"
           leaveTo="transform opacity-0 scale-95"
         >
-          <Menu.Items className="absolute z-50 w-32 right-0 mt-2 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
+          <Menu.Items className="absolute z-50 w-32 right-0 mt-2 origin-top-right divide-y divide-gray-100 rounded-md bg-white shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none shadow-2xl">
             <div className="px-1 py-1">
               <Menu.Item>
                 {({ active }) => (
