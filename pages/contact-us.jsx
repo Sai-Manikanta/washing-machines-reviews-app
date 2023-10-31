@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 function contactUs() {
   return (
     <>
-      <Header />
+      <Header contactUS/>
       <section className="mt-[5rem] sm:mt-[7rem] max-w-5xl mx-auto p-5 ">
         <div>
           <div className="flex flex-wrap -mx-4 lg:justify-between">
@@ -129,8 +129,8 @@ function contactUs() {
                     <input
                       type="number"
                       name="Phone"
-                      minlength="10"
-                      maxlength="12"
+                      minLength="10"
+                      maxLength="12"
                       placeholder="Your Phone"
                       className="border-[f0f0f0] w-full rounded border py-3 px-[14px] text-base text-body-color outline-none focus:border-primary focus-visible:shadow-none"
                       required
@@ -143,7 +143,7 @@ function contactUs() {
                       name="Message"
                       defaultValue=""
                       className="border-[f0f0f0] w-full resize-none rounded border py-3 px-[14px] text-base text-body-color outline-none focus:border-primary focus-visible:shadow-none"
-                      maxlength="300"
+                      maxLength="300"
                       required
                     />
                   </div>

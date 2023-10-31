@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 function privacyAndPolicy() {
   return (
     <>
-      <Header />
+      <Header privacy/>
       <section className="max-w-5xl mx-auto px-7 lg:px-0 mt-16">
         <h1 className="font-bold text-3xl mb-6">Privacy Policy</h1>
         <p className="mb-4">

@@ -7,8 +7,9 @@ import Link from "next/link";
 import { RxCross2 } from "react-icons/rx";
 import ChangePriceDropdown from "./ChangePriceDropdown";
 
-function Header({ aboutUs, FAQ }) {
+function Header({ aboutUs, contactUS, privacy, terms }) {
   const [isOpen, setIsOpen] = useState(false);
+  console.log(terms)
 
   function closeModal() {
     setIsOpen(false);
@@ -24,7 +25,7 @@ function Header({ aboutUs, FAQ }) {
         id="header"
         style={{ boxShadow: "0px 2px 10px rgba(0,0,0,0.5)" }}
         className={`${
-          aboutUs || FAQ ? "fixed top-0 left-0 right-0" : "relative"
+          aboutUs ? "fixed top-0 left-0 right-0" : "relative"
         } z-10 bg-primary py-5 px-4`}
       >
         <div className="max-w-5xl mx-auto flex justify-between items-center">
@@ -55,7 +56,8 @@ function Header({ aboutUs, FAQ }) {
               >
                 About Us
               </Link> */}
-              <ChangePriceDropdown/>
+              {(contactUS || aboutUs || terms || privacy) ? "" : <ChangePriceDropdown/>}
+              
             </div>
             <span className="text-2xl text-white sm:hidden" onClick={openModal}>
               <RxHamburgerMenu />

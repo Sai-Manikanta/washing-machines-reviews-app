@@ -25,8 +25,8 @@ const Home = () => {
           content="Discover daily recommendations for front load, top load, fully automatic, and semi-automatic washing machines in India by price ranges"
         />
       </Head>
-      <Header home />
-      <HeroSection home />
+      <Header />
+      <HeroSection />
       <main className="py-6 pr-0 pl-6 md:py-6 md:px-0 max-w-5xl mx-auto">
         <div className="mb-3 md:mb-4 lg:mb-6">
           <ScrollersHeader price="40,000" priceForURL="40000" />
@@ -202,7 +202,6 @@ const Home = () => {
             })}
           </HorizontalScroller>
         </div>
-        
       </main>
       <WhyUs />
       <Footer />

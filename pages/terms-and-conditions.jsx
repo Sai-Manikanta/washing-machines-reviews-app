@@ -6,7 +6,7 @@ import Footer from "@/components/Footer";
 function termsAndConditions() {
   return (
     <>
-      <Header />
+      <Header terms/>
       <section className="max-w-5xl mx-auto px-7 lg:px-0 mt-16">
         <p className="mb-4">
           Certainly, I can help you revise and expand the content. Here's a more
