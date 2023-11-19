@@ -11,7 +11,7 @@ function Layout({ children, priceUnder }) {
     <>
       <GoogleAnalytics GA_MEASUREMENT_ID="G-PVYNK6W112" />
       <Header priceUnder={priceUnder}/>
-      <HeroSection />
+      <HeroSection priceUnder={priceUnder}/>
       <main>
         <section className="max-w-5xl mx-auto py-6 px-3">
           <div className="sm:flex justify-between">

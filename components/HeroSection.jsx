@@ -2,7 +2,8 @@ import React from "react";
 import Link from "next/link";
 // import WashingMachineGuideModal from "./WashingMachineGuideModal";
 
-function HeroSection() {
+function HeroSection({priceUnder}) {
+  console.log(priceUnder)
   return (
     <div className="sm:bg-white border-b-2">
       <div className="max-w-5xl mx-auto sm:bg-white">
@@ -20,7 +21,7 @@ function HeroSection() {
               loop
               className="sm:hidden w-100 mx-auto w-[600px]"
             >
-              <source src="/videos/washingMachine.webm" type="video/webm" />
+              <source src="/videos/washingMachine3.webm" type="video/webm" />
               <track kind="subtitles" srcLang="en" />
               Your browser does not support the video tag.
             </video>
@@ -29,8 +30,8 @@ function HeroSection() {
             
 
 
-            <div className="bg-white px-4 pb-5 -mt-10 sm:hidden">
-              <h3 className="text-lg text-center font-bold mb-4">LOOKING UNDER 1</h3>
+            <div className="bg-white px-4 pb-5 sm:hidden">
+              <h3 className="text-lg text-center font-bold mb-4">LOOKING UNDER</h3>
             
               {/* grid grid-cols-3 gap-3 */}
             <div className="grid grid-cols-3 gap-3">
@@ -39,7 +40,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-10000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "10,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹10,000
               </Link>
@@ -47,7 +48,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-15000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "15,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹15,000
               </Link>
@@ -55,7 +56,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-20000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "20,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹20,000
               </Link>
@@ -63,7 +64,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-25000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "25,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹25,000
               </Link>
@@ -71,7 +72,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-30000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "30,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹30,000
               </Link>
@@ -79,15 +80,15 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-35000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "35,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹35,000
               </Link>
 
               <Link
                 rel="nofollow"
-                href="/best-washing-machines-under-45000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                href="/best-washing-machines-under-40000"
+                className={`${priceUnder == "40,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹40,000
               </Link>
@@ -95,7 +96,7 @@ function HeroSection() {
               {/* <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-45000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "45,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹45,000
               </Link>
@@ -103,7 +104,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-50000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "50,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹50,000
               </Link> */}
@@ -121,7 +122,7 @@ function HeroSection() {
               loop
               className="hidden sm:block w-100 mx-auto w-[600px] "
             >
-              <source src="/videos/washingMachine.webm" type="video/webm" />
+              <source src="/videos/washingMachine3.webm" type="video/webm" />
               <track kind="subtitles" srcLang="en" />
               Your browser does not support the video tag.
             </video>
@@ -139,7 +140,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-10000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "10,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹10,000
               </Link>
@@ -147,7 +148,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-15000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "15,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹15,000
               </Link>
@@ -155,7 +156,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-20000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "20,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹20,000
               </Link>
@@ -163,7 +164,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-25000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "25,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹25,000
               </Link>
@@ -171,7 +172,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-30000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "30,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹30,000
               </Link>
@@ -179,7 +180,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-35000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "35,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹35,000
               </Link>
@@ -187,7 +188,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-40000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "40,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹40,000
               </Link>
@@ -195,7 +196,7 @@ function HeroSection() {
               {/* <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-45000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "45,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹45,000
               </Link>
@@ -203,7 +204,7 @@ function HeroSection() {
               <Link
                 rel="nofollow"
                 href="/best-washing-machines-under-50000"
-                className="bg-yellow-400 border-b-4 border-yellow-500 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70"
+                className={`${priceUnder == "50,000" ? "bg-primary text-white border-slate-700" : "bg-yellow-400 border-yellow-500"} border-b-4 text-sm px-10 py-2 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-full bg-primary font-bold hover:opacity-70`}
               >
                  ₹50,000
               </Link> */}
