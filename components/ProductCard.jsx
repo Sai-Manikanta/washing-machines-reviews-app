@@ -38,9 +38,7 @@ const ProductCard = ({ id, washingMachineData }) => {
   return (
     <div className="pt-8" id={`product-${id}`}>
       {" "}
-      <div
-        className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex"
-      >
+      <div className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex">
         <div className="w-36 md:w-56 mx-auto shrink-0">
           <Image
             src={`${productImage.url}`}
@@ -230,9 +228,27 @@ const ProductCard = ({ id, washingMachineData }) => {
               <div>
                 <div className="text-slate-700 mt-4">
                   <hr className="mb-4" />
-                  <span className="border-l-2 pl-2 font-medium">
-                    Main highlights
-                  </span>
+                  <div className="flex mb-3 gap-2 md:w-3/5">
+                    <a
+                      rel="nofollow"
+                      href={stores.amazon}
+                      className="w-1/2 bg-yellow-400 border-b-4 border-yellow-500 px-5 py-3 sm:px-4 text-[#1c1105] inline-flex justify-center rounded-sm bg-primary font-bold hover:opacity-70"
+                      target="_blank"
+                    >
+                      Check Price
+                    </a>
+                    <a
+                      rel="nofollow"
+                      href={stores.amazon}
+                      className="w-1/2 bg-yellow-400 border-b-4 border-yellow-500 px-5 py-3 sm:px-4 text-[#1c1105] inline-flex justify-center rounded bg-primary font-bold hover:opacity-70"
+                      target="_blank"
+                    >
+                      Amazon
+                    </a>
+                  </div>
+                  <span className="border-l-2 pl-2 font-medium mr-5">
+                      Main Highlights
+                    </span>
                   <blockquote cite="">
                     <ul className="list-disc list-inside space-y-3 text-sm mt-3">
                       {highlights.map((text, i) => (

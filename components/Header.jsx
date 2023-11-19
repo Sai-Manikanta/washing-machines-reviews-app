@@ -7,10 +7,8 @@ import Link from "next/link";
 import { RxCross2 } from "react-icons/rx";
 import ChangePriceDropdown from "./ChangePriceDropdown";
 
-function Header({ aboutUs, contactUS, privacy, terms }) {
+function Header({ home, aboutUs, contactUS, privacy, terms, priceUnder }) {
   const [isOpen, setIsOpen] = useState(false);
-  console.log(terms);
-
   function closeModal() {
     setIsOpen(false);
   }
@@ -23,10 +21,7 @@ function Header({ aboutUs, contactUS, privacy, terms }) {
     <>
       <header
         id="header"
-        style={{ boxShadow: "0px 2px 10px rgba(0,0,0,0.5)" }}
-        className={`${
-          aboutUs ? "fixed top-0 left-0 right-0" : "relative"
-        } z-10 bg-primary py-5 px-4`}
+        className={`${(home || aboutUs || contactUS || privacy || terms) ? "sticky top-0 left-0 right-0 z-10" : "static"} bg-primary py-5 px-4`}
       >
         <div
           className="max-w-5xl mx-auto flex justify-between items-center"
@@ -71,13 +66,12 @@ function Header({ aboutUs, contactUS, privacy, terms }) {
             </div> */}
 
             <div
-              // style={{ border: "2px solid red" }}
               className="flex items-center"
             >
               {contactUS || aboutUs || terms || privacy ? (
                 ""
               ) : (
-                <ChangePriceDropdown />
+                <ChangePriceDropdown priceUnder={priceUnder}/>
               )}
               <span
                 className="text-2xl text-white sm:hidden"

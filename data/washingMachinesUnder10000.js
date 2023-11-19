@@ -354,5 +354,5 @@ export const data = [
       flipkart:
         "https://www.flipkart.com/onida-7-5-Kg-5-star-Semi Automatic-top-load-washing-machine-blue-white/p/itm8b3d46f8fc457?pid=WMNG4RH2A5ES8JKZ&lid=LSTWMNG4RH2A5ES8JKZOA2WKU&marketplace=FLIPKART&q=Onida+7.5+Kg+5+Star+Semi Automatic+Top+Loading+Washing+Machine+%28S75TIB%2C+Blue%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=fcf9e08b-1720-47ec-95fc-af33e77ace8a.WMNG4RH2A5ES8JKZ.SEARCH&ppt=sp&ppn=sp&ssid=u38dihfjgw0000001693370469778&qH=04a28a5c5ba65217",
     },
-  },
+  }
 ];

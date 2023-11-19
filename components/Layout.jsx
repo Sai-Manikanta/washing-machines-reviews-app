@@ -10,7 +10,7 @@ function Layout({ children, priceUnder }) {
   return (
     <>
       <GoogleAnalytics GA_MEASUREMENT_ID="G-PVYNK6W112" />
-      <Header/>
+      <Header priceUnder={priceUnder}/>
       <HeroSection />
       <main>
         <section className="max-w-5xl mx-auto py-6 px-3">

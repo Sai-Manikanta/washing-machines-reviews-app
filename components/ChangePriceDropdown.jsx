@@ -4,6 +4,7 @@ import { ChevronDownIcon } from "@heroicons/react/20/solid";
 import Link from "next/link";
 
 export default function ChangePriceDropdown({ priceUnder }) {
+  console.log(priceUnder)
   return (
     <div
       className="ml-1 inline-block text-right mr-2 sm:mr-0"
