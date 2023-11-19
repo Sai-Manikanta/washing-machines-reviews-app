@@ -68,11 +68,9 @@ function Header({ home, aboutUs, contactUS, privacy, terms, priceUnder }) {
             <div
               className="flex items-center"
             >
-              {contactUS || aboutUs || terms || privacy ? (
-                ""
-              ) : (
+              {/* {contactUS || aboutUs || terms || privacy && (
                 <ChangePriceDropdown priceUnder={priceUnder}/>
-              )}
+              )} */}
               <span
                 className="text-2xl text-white sm:hidden"
                 onClick={openModal}

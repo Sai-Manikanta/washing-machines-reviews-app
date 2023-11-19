@@ -7,12 +7,7 @@ const Footer = () => {
         <p>
           ©BestElectro.in
           <br />
-          "BestElectro.in is a participant in the Amazon.in Associates Program,
-          which is an affiliate advertising initiative created to enable
-          websites to earn advertising commissions by promoting and linking to
-          Amazon.in. Please be aware that Amazon, Amazon Prime, the Amazon logo,
-          and Amazon Prime logo are all registered trademarks owned by
-          Amazon.com, Inc. or its affiliated companies."
+          BestElectro.in is a participant in the Amazon.in and Flipkart.com Associates Programs, which are affiliate advertising initiatives created to enable websites to earn advertising commissions by promoting and linking to Amazon.in and Flipkart.com. Please be aware that Amazon, Amazon Prime, the Amazon logo, and Amazon Prime logo are all registered trademarks owned by Amazon.com, Inc. or its affiliated companies. Similarly, Flipkart.com and its logo are registered trademarks owned by Flipkart Internet Private Limited or its affiliated companies.
         </p>
       </div>
       <div className="max-w-5xl mx-auto flex flex-col-reverse sm:flex-row sm:justify-between">

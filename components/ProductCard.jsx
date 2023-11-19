@@ -36,7 +36,7 @@ const ProductCard = ({ id, washingMachineData }) => {
   }, []);
 
   return (
-    <div className="pt-8" id={`product-${id}`}>
+    <div className="mb-4" id={`product-${id}`}>
       {" "}
       <div className="bg-white p-4 pt-10 sm:py-8 sm:px-10 rounded-md drop-shadow-sm relative sm:flex">
         <div className="w-36 md:w-56 mx-auto shrink-0">

@@ -9,9 +9,11 @@ function HeroSection({priceUnder}) {
       <div className="max-w-5xl mx-auto sm:bg-white">
         <div className="grid sm:grid-cols-2">
           <div className="sm:pt-5 md:pt-8 lg:pt-10 pl-0 sm:pl-5 md:pl-10 lg:pl-0">
-            <h1 className="text-3xl block font-bold pt-8 pl-5 pr-5 pb-1 sm:pl-0 sm:text-3xl md:text-4xl  lg:text-5xl sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.2]">
-              Find the best washing machine for your family...<br />
+            <h1 className="text-2xl sm:lowercase sm:text-4xl block font-bold pt-6 sm:pt-8 pl-5 pr-5 pb-1 sm:pl-0 md:text-5xl  lg:text-5xl leading-[1.5] sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.3]">
+              {/* Find the best washing machine for your family... */}
+              {/* <HeroSection priceUnder={priceUnder}/> */}
               {/* Find the Best Washing Machine for You'r Family... */}
+              <span className="uppercase">B</span>est Washing Machines Under ₹{priceUnder}
             </h1>
 
             <video
@@ -31,7 +33,7 @@ function HeroSection({priceUnder}) {
 
 
             <div className="bg-white px-4 pb-5 sm:hidden">
-              <h3 className="text-lg text-center font-bold mb-4">LOOKING UNDER</h3>
+              <h3 className="text-center font-bold mb-4">LOOKING UNDER</h3>
             
               {/* grid grid-cols-3 gap-3 */}
             <div className="grid grid-cols-3 gap-3">
@@ -131,9 +133,9 @@ function HeroSection({priceUnder}) {
 
 
 
-        <div className="bg-white pb-5 md:px-8 lg:px-0 md:-mt-20 hidden sm:block">
+        <div className="bg-[#F0EDF1] sm:bg-white pb-5 md:px-8 lg:px-0  hidden sm:block">
               {/* grid grid-cols-3 gap-3 */}
-            <h3 className="mb-4 text-lg font-bold text-center md:text-left">LOOKING UNDER</h3>
+            <h3 className="mb-4 text-xl font-semibold text-center md:text-left">LOOKING UNDER</h3>
             <div className="flex flex-wrap gap-3 relative z-5">
               {/* <WashingMachineGuideModal /> */}
 
