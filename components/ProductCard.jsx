@@ -111,7 +111,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                 />
               </svg>
             </div>
-            <span className="text-xs mt-1">Rating</span>
+            <span className="text-sm font-medium mt-1">Rating</span>
           </div>
 
           <span className="text-2xl sm:text-lg absolute top-6 sm:top-6 left-7 sm:left-7 text-slate-700">
