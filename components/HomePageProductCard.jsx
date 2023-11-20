@@ -11,7 +11,7 @@ function HomePageProductCard({productImage, productAlt, productName}) {
            height="142"      
         />
         </div>
-      <p className="text-xs leading-4 w-28 sm:w-32 line-clamp-3 font-semibold">
+      <p className="text-base leading-4 w-28 sm:w-32 line-clamp-3 font-semibold">
             {productName}
         </p>
     </div>

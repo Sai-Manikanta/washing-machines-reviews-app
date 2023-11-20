@@ -111,7 +111,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                 />
               </svg>
             </div>
-            <span className="text-xs mt-1">Exeptional</span>
+            <span className="text-xs mt-1">Rating</span>
           </div>
 
           <span className="text-2xl sm:text-lg absolute top-6 sm:top-6 left-7 sm:left-7 text-slate-700">
@@ -204,7 +204,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                 onClick={viewMoreDetailsHandler}
                 className="flex flex-grow gap-x-2 cursor-none sm:cursor-pointer items-center"
               >
-                <span className="text-sm w-[6rem] flex justify-between items-center text-slate-600 hover:text-slate-900">
+                <span className="text-sm w-[6.2rem] font-bold flex justify-between items-center text-slate-600 hover:text-slate-900">
                   {show ? "View Less" : "View More"}
                   {show ? (
                     <ChevronUpIcon
@@ -425,7 +425,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                   <blockquote cite="">
                     <ul className="list-disc list-inside space-y-3 text-sm mt-3">
                       {highlights.map((text, i) => (
-                        <li key={i} className="leading-6">
+                        <li key={i} className="leading-6 text-base">
                           {text}
                         </li>
                       ))}
