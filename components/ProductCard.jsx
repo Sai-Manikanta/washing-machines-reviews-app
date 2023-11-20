@@ -232,7 +232,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                     
                   <a
                 rel="nofollow"
-                href={stores.flipkart}
+                href={stores.amazon}
                 target="_blank"
                 className="bg-yellow-400 text-slate-800 border-x-1 border-b-4 border-yellow-500 font-extrabold rounded flex justify-center items-center w-44 hover:brightness-[95%]"
               >
@@ -440,7 +440,7 @@ const ProductCard = ({ id, washingMachineData }) => {
           <div className="max-w-lg flex gap-x-3 mt-4">
           <a
                 rel="nofollow"
-                href={stores.flipkart}
+                href={stores.amazon}
                 target="_blank"
                 className="bg-yellow-400 border-x-1 border-b-4 border-yellow-500 font-extrabold rounded flex justify-center items-center w-44 hover:brightness-[95%]"
               >
