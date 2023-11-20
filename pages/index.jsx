@@ -26,7 +26,7 @@ const Home = () => {
         />
       </Head>
       <Header home/>
-      <HeroSection />
+      <HeroSection home/>
       <main className="py-6 pr-0 pl-6 md:py-6 md:pl-4 max-w-5xl mx-auto">
       <div className="mb-0 md:mb-4 lg:mb-6">
           <ScrollersHeader price="10,000" priceForURL="10000" />

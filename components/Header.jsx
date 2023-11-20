@@ -40,37 +40,23 @@ function Header({ home, aboutUs, contactUS, privacy, terms, priceUnder }) {
 
           <div className="flex items-center">
             <div className="hidden sm:block">
-              <Link
-                href="/"
-                className="text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary"
-              >
-                Home
-              </Link>
-              {/* <Link
-                href="/about-us"
-                className={`text-white py-2 px-4 rounded-md font-medium hover:bg-white hover:text-primary  ${
-                  aboutUs && "hidden"
-                }`}
-              >
-                About Us
-              </Link> */}
-              {/* {(contactUS || aboutUs || terms || privacy) ? "" : <ChangePriceDropdown/>} */}
+              {
+                !home && (
+                <Link
+                  href="/"
+                  className="text-white py-2 rounded-md px-4 font-medium hover:bg-white hover:text-primary"
+                >
+                  Home
+                </Link>
+                )
+              }
+              
+              {home && <ChangePriceDropdown priceUnder={priceUnder}/>}
             </div>
-
-            {/* <div>
-              {contactUS || aboutUs || terms || privacy ? (
-                ""
-              ) : (
-                <ChangePriceDropdown />
-              )}
-            </div> */}
 
             <div
               className="flex items-center"
             >
-              {/* {contactUS || aboutUs || terms || privacy && (
-                <ChangePriceDropdown priceUnder={priceUnder}/>
-              )} */}
               <span
                 className="text-2xl text-white sm:hidden"
                 onClick={openModal}

@@ -5,7 +5,7 @@ import Footer from "@/components/Footer";
 function contactUs() {
   return (
     <>
-      <Header contactUS/>
+      <Header/>
       <section className="mt-[5rem] sm:mt-[7rem] max-w-5xl mx-auto p-5 ">
         <div>
           <div className="flex flex-wrap -mx-4 lg:justify-between">
@@ -100,6 +100,7 @@ function contactUs() {
                   action="https://formsubmit.co/bestelectro333@gmail.com"
                   method="POST"
                 >
+                  <input type="hidden" name="_subject" value="New Contact us submission!"></input>
                   <input
                     type="hidden"
                     name="_next"

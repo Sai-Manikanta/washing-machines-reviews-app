@@ -8,10 +8,6 @@ function termsAndConditions() {
     <>
       <Header terms/>
       <section className="max-w-5xl mx-auto px-7 lg:px-0 mt-16">
-        <p className="mb-4">
-          Certainly, I can help you revise and expand the content. Here's a more
-          detailed and refined version:
-        </p>
         <h2 className="text-xl font-medium mb-2">Terms of Service</h2>
         <p className="mb-4">
           Welcome to{" "}
