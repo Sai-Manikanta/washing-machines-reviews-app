@@ -72,7 +72,7 @@ function aboutUs() {
               <div className="p-2">
                 <p className="text-md font-semibold">Laxmi</p>
                 <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-                <p className="text-sm font-medium">Digitel marketer</p>
+                <p className="text-sm font-medium">Digital marketer</p>
               </div>
             </div>
             <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-start-5 md:col-end-9">

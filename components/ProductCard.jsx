@@ -425,7 +425,7 @@ const ProductCard = ({ id, washingMachineData }) => {
                   <blockquote cite="">
                     <ul className="list-disc list-inside space-y-3 text-sm mt-3">
                       {highlights.map((text, i) => (
-                        <li key={i} className="leading-6 text-base">
+                        <li key={i} className="leading-6 text-sm">
                           {text}
                         </li>
                       ))}

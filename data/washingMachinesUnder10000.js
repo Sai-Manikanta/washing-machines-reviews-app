@@ -354,5 +354,44 @@ export const data = [
       flipkart:
         "https://www.flipkart.com/onida-7-5-Kg-5-star-Semi Automatic-top-load-washing-machine-blue-white/p/itm8b3d46f8fc457?pid=WMNG4RH2A5ES8JKZ&lid=LSTWMNG4RH2A5ES8JKZOA2WKU&marketplace=FLIPKART&q=Onida+7.5+Kg+5+Star+Semi Automatic+Top+Loading+Washing+Machine+%28S75TIB%2C+Blue%29&store=j9e%2Fabm%2F8qx&srno=s_1_3&otracker=search&otracker1=search&fm=Search&iid=fcf9e08b-1720-47ec-95fc-af33e77ace8a.WMNG4RH2A5ES8JKZ.SEARCH&ppt=sp&ppn=sp&ssid=u38dihfjgw0000001693370469778&qH=04a28a5c5ba65217",
     },
-  }
+  },
+  {
+    productName:
+      "Voltas beko, A Tata Product 7.2 Kg Semi-Automatic Top Load Washing Machine, (WTT72, Burgundy, 2023 Model, Fast Dry)",
+    productImage: {
+      url: "https://m.media-amazon.com/images/I/41zTyE7aA8L._SY445_SX342_QL70_FMwebp_.jpg",
+      alt: "Washing Machine Photo",
+    },
+    rating: "7.6",
+    highlights: [
+      "Semi-automatic Washer: Cost-effective, Low water and energy usage, requires manual input; Offers both washing and drying functions",
+      "7.2 kg Capacity: Ideal for larger households",
+      "Energy Efficiency Rating: Top-tier efficiency, ensuring decreased power consumption",
+      "Warranty: 5 Years for Wash Motor, 1 Year for Entire Washer",
+      "1350 RPM: Higher rotation speed aids better water removal from clothes during spinning, leading to quicker drying",
+      "Wash Programs: 3 options - Delicate, standard, robust",
+      "Drum / Pulsator Type & Body Material: Plastic Drum, Wing Pulsator & Corrosion-Resistant Polypropylene Body",
+      "Key Features: Wing Pulsator, Quick Drying, Lint Trapper",
+      "Special Features: Clear Lid, Alarm, Swivel wheels, Corrosion-Resistant Sturdy Body",
+    ],
+    specs: {
+      brand: "Voltas Beko",
+      type: "Top Load",
+      capacity: "7.2 kg",
+      tubType: "Plastic",
+      functionType: "Semi Automatic",
+      weight: "20 kg",
+      rotationSpeed: "1350 RPM",
+    },
+    specialFeatures:
+      "Wing Pulsator, Fast Dry, Lint Filer, Transparent Lid, Buzzer, Castor wheels, Non Rusted Durable Body",
+    videoReview: {
+      title: "",
+      id: "",
+    },
+    stores: {
+      amazon: "https://amzn.to/3MQEtIy",
+      flipkart: "",
+    },
+  },
 ];

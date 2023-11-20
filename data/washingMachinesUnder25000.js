@@ -344,4 +344,43 @@ export const data = [
         "https://www.flipkart.com/lg-9-Kg-fully-automatic-top-load-washing-machine-silver/p/itme8dc8cac3273f?pid=WMNGZDPCGA8GNMNG&lid=LSTWMNGZDPCGA8GNMNG7P5DT2&marketplace=FLIPKART&q=LG+9+Kg+5+Star+Inverter+Fully-Automatic+Top+Load+Washing+Machine+%28THD09NPF%2C+Middle+Free+Silver%2C+AIDD+Technology%29&store=j9e%2Fabm%2F8qx&spotlightTagId=TrendingId_j9e%2Fabm%2F8qx&srno=s_1_1&otracker=search&otracker1=search&fm=Search&iid=074b8fd2-91fe-43f1-ad7e-cd960ce775c9.WMNGZDPCGA8GNMNG.SEARCH&ppt=sp&ppn=sp&ssid=h9475abozk0000001693380097722&qH=fa48eec9b449f68c",
     },
   },
+  {
+    productName:
+      "LG 6.5 Kg 5 Star Inverter Direct Drive Fully Automatic Front Load Washing Machine (FHM1065SDW, Steam Wash, In-Built Heater, Touch Panel, White)",
+    productImage: {
+      url: "https://m.media-amazon.com/images/I/416Ir77uYAL._SY445_SX342_QL70_FMwebp_.jpg",
+      alt: "Washing Machine Photo",
+    },
+    rating: "8.8",
+    highlights: [
+      "Fully-automatic front load washing machine with Hygiene Steam/Direct-Drive Technology: Offers best wash quality, energy and water efficiency.",
+      "Capacity 6.5 kg: Ideal for small families, singles, bachelors, and couples.",
+      "Energy Star Rating: 5 Star best in class efficiency; Energy consumption – 0.062 KWh/kg/cycle & Water Consumption: 8.25 L/Kg/Cycle (Please refer BEE label for more information).",
+      "1000 RPM: Higher spin speed enables faster drying.",
+      "10 Wash Programs: Cotton - for normally soiled cotton clothes | Cotton Large - optimized washing for a large amount of laundry | Mix - for cleaning various fabric types together | Easy Care – suitable for polyamide, acrylic, and polyester fabrics | Baby Care – eliminates allergens | Sportswear - for jogging clothes and sportswear | Delicate – suitable for delicate fabrics | Wool - for lacy knickers or silk blouses | Quick 30 - Express wash for lightly soiled clothes in 30 mins* | Rinse + Spin - ideal for cloth diapers or heavily soiled items.",
+      "Stainless Steel Drum: Ensures convenience and durability, maintaining washing machine hygiene with stainless steel lifters.",
+      "Panel Information: Program selection jog dial, Touch Panel, Beep On/Off, Power on/off, Start / Pause, Child Lock, Time Delay, Temp. Setting, Delay End, End of Cycle Signal.",
+      "Key Performance Features: LG Inverter Direct Drive Technology - reduces noise & vibration and enhances durability | 6 Motion Direct Drive - optimized motion combinations for each fabric type | Hygiene Steam Wash | Tub Clean: Maintains inner & outer tub hygiene | Auto Restart: Restarts program in case of power failure.",
+      "Additional Features: LoadSense, Auto water level, Temp. Range - Cold/20/30/40/60/95℃, Crease Care, Shock Proof, Silent operation, Tempered Glass Door.",
+    ],
+    specs: {
+      brand: "LG",
+      type: "Front Load",
+      capacity: "6.5 kg",
+      tubType: "Stainless Steel",
+      functionType: "Fully Automatic",
+      weight: "60 kg",
+      rotationSpeed: "1000 RPM",
+    },
+    specialFeatures:
+      "Inverter, Child Lock, Auto Restart, Hygiene Steam, Inbuilt Heater",
+    videoReview: {
+      title: "",
+      id: "",
+    },
+    stores: {
+      amazon: "https://amzn.to/3G5wLq7",
+      flipkart: "",
+    },
+  }
 ];
