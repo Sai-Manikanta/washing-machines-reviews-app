@@ -1,6 +1,5 @@
 import React from "react";
 import Link from "next/link";
-// import WashingMachineGuideModal from "./WashingMachineGuideModal";
 
 function HeroSection({ priceUnder, home }) {
   console.log(priceUnder);
@@ -9,7 +8,7 @@ function HeroSection({ priceUnder, home }) {
       <div className="max-w-5xl mx-auto sm:bg-white">
         <div className="grid sm:grid-cols-2">
           <div className="sm:pt-5 md:pt-8 lg:pt-10 pl-0 sm:pl-5 md:pl-10 lg:pl-0">
-            <h1 className="text-2xl sm:lowercase sm:text-4xl block font-bold pt-6 sm:pt-8 pl-5 pr-5 pb-1 sm:pl-0 md:text-5xl  lg:text-5xl leading-[1.5] sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.3]">
+            <h1 className="bg-[#F2ECF1] sm:bg-white text-2xl sm:lowercase sm:text-4xl block font-bold pt-6 sm:pt-8 pl-5 pr-5 pb-1 sm:pl-0 md:text-5xl  lg:text-5xl leading-[1.5] sm:leading-[1.2] md:leading-[1.3] lg:leading-[1.3]">
               {home ? (
                 <span>
                   <span className="uppercase">F</span>ind Best Washing Machines
@@ -34,8 +33,7 @@ function HeroSection({ priceUnder, home }) {
               <track kind="subtitles" srcLang="en" />
               Your browser does not support the video tag.
             </video>
-
-            <div className="bg-white px-4 pb-5 sm:hidden">
+            <div className="bg-[#FDFAFD] sm:bg-white px-4 pb-5 sm:hidden">
               <h3 className="text-center font-bold mb-4">LOOKING UNDER</h3>
 
               {/* grid grid-cols-3 gap-3 */}
