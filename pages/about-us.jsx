@@ -30,7 +30,7 @@ function aboutUs() {
           <h2 className="text-primary text-3xl font-extrabold mt-6 mb-5 text-center">
             Meet Team
           </h2>
-          <div className="grid grid-cols-9 gap-6 border max-w-2xl mx-auto">
+          <div className="grid grid-cols-12 gap-6 border max-w-2xl mx-auto">
           <div className="col-span-6 text-center bg-white shadow-md  col-span-9 lg:col-span-3">
               <Image
                 src="/images/teamMembers/safiya.jpg"
@@ -47,6 +47,24 @@ function aboutUs() {
                 </p>
               </div>
             </div>
+
+            <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
+              <Image
+                src="/images/teamMembers/divya.jpg"
+                alt="Divya Teammate"
+                className="w-full h-48 object-cover block"
+                width="200"
+                height="200"
+              />
+              <div className="p-2">
+                <p className="text-md font-semibold">Divya</p>
+                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
+                <p className="text-sm font-medium">
+                  Frontend developer
+                </p>
+              </div>
+            </div>
+
             <div className="col-span-6 text-center bg-white shadow-md  col-span-9 lg:col-span-3">
               <Image
                 src="/images/teamMembers/laxmi.jpg"
@@ -61,22 +79,7 @@ function aboutUs() {
                 <p className="text-sm font-medium">Digital marketer</p>
               </div>
             </div>
-            {/* <div className="col-span-6 text-center bg-white shadow-md lg:col-span-3 md:col-span-4">
-              <Image
-                src="/images/teamMembers/kiran.jpg"
-                alt="Kiran Teammate"
-                className="w-full h-48 object-cover block"
-                width="200"
-                height="200"
-              />
-              <div className="p-2">
-                <p className="text-md font-semibold">Devi Kiran</p>
-                <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-                <p className="text-sm font-medium">
-                  Reviewer & <br /> Frontend developer
-                </p>
-              </div>
-            </div> */}
+            
             <div className="col-span-6 text-center bg-white shadow-md  col-span-9 lg:col-span-3">
               <Image
                 src="/images/teamMembers/pradeep.jpg"
@@ -88,7 +91,7 @@ function aboutUs() {
               <div className="p-2">
                 <p className="text-md font-semibold">Pradeep Kumar</p>
                 <hr className="bg-slate-400 h-0.5 mt-1 mb-2 mx-3" />
-                <p className="text-sm font-medium">Full Stack - Backend</p>
+                <p className="text-sm font-medium">FullStack developer</p>
               </div>
             </div>
             
